@@ -1,0 +1,19 @@
+Running: E:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/lab/13/My74LS161/text_isim_beh.exe -prj E:/lab/13/My74LS161/text_beh.prj work.text work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/lab/13/My74LS161/My74LS161.v" into library work
+Analyzing Verilog file "E:/lab/13/My74LS161/text.v" into library work
+Analyzing Verilog file "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module My74LS161
+Compiling module text
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\text_isim_beh.exe.sim\libPortability.dll".
+Compiled 3 Verilog Units
+Built simulation executable E:/lab/13/My74LS161/text_isim_beh.exe
+Fuse Memory Usage: 29268 KB
+Fuse CPU Usage: 249 ms

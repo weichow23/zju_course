@@ -1,0 +1,36 @@
+Release 14.7 - netgen P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: netgen -intstyle ise -s 1 -pcf D_74LS138_Test.pcf -sdf_anno true
+-sdf_path netgen/map -insert_glbl true -w -dir netgen/map -ofmt verilog -sim
+D_74LS138_Test_map.ncd D_74LS138_Test_map.v  
+
+Read and Annotate design 'D_74LS138_Test_map.ncd' ...
+Loading device for application Rf_Device from file '7k160t.nph' in environment
+E:\ISE\14.7\ISE_DS\ISE\.
+   "D_74LS138_Test" is an NCD, version 3.2, device xc7k160t, package ffg676,
+speed -1
+Loading constraints from 'D_74LS138_Test.pcf'...
+The speed grade (-1) differs from the speed grade specified in the .ncd file
+(-1).
+WARNING:Anno:67 - NCD is not completely routed, some delays may be inaccurate.
+The number of routable networks is 19
+Flattening design ...
+Processing design ... 
+  Preping design's networks ...
+  Preping design's macros ...
+Writing Verilog SDF file 'netgen\map\d_74ls138_test_map.sdf' ...
+Writing Verilog netlist file
+'E:\lab\5\D_74LS138_Test\netgen\map\D_74LS138_Test_map.v' ...
+INFO:NetListWriters:633 - The generated Verilog netlist contains Xilinx SIMPRIM
+   simulation primitives and has to be used with SIMPRIM simulation library for
+   correct compilation and simulation. 
+INFO:NetListWriters - Xilinx recommends running separate simulations to check
+   for setup by specifying the MAX field in the SDF file and for hold by
+   specifying the MIN field in the SDF file. Please refer to Simulator
+   documentation for more details on specifying MIN and MAX field in the SDF.
+INFO:NetListWriters:665 - For more information on how to pass the SDF switches
+   to the simulator, see your Simulator tool documentation.
+Number of warnings: 1
+Number of info messages: 3
+Total memory usage is 5003020 kilobytes

@@ -1,0 +1,28 @@
+Command line:
+   LampCtrl138_LampCtrl138_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62556
+
+Tue Nov 01 16:05:38 2022
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 5813.06 Meg
+
+ Total Signals          : 102
+ Total Nets             : 37
+ Total Signal Drivers   : 29
+ Total Blocks           : 25
+ Total Primitive Blocks : 22
+ Total Processes        : 31
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 152
+
+ Total Simulation Time: 0.1875 sec
+
+ Current Memory Usage: 4712.06 Meg
+
+Tue Nov 01 16:08:04 2022
+

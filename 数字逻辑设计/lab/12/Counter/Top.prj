@@ -1,0 +1,5 @@
+verilog work "MyRegister4b.v"
+verilog work "Load_Gen.v"
+verilog work "clkdiv.v"
+verilog work "AddSub4b.v"
+verilog work "Top.v"

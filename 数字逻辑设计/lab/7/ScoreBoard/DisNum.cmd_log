@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/lab/7/ScoreBoard/DisNum.v -lang verilog -prj ScoreBoard -o DisNum.spl -module DisNum -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 DisNum.spl E:/lab/7/ScoreBoard/DisNum.sym 

@@ -1,0 +1,28 @@
+Command line:
+   text_addsub4_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51826
+
+Tue Nov 22 15:15:25 2022
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 5813.07 Meg
+
+ Total Signals          : 20
+ Total Nets             : 27
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 25
+ Total Scalar Nets and Variables : 217
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 4712.06 Meg
+
+Tue Nov 22 15:18:31 2022
+

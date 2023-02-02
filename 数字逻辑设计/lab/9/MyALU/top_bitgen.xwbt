@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\lab\9\MyALU\top.ncd
+OUTFILE=E:\lab\9\MyALU\top.bit
+FAMILY=Kintex7
+PART=xc7k160t-1ffg676
+WORKINGDIR=E:\lab\9\MyALU
+LICENSE=WebPack
+USER_INFO=__0_0_0

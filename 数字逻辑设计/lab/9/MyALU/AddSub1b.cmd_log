@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/lab/9/MyALU/AddSub1b.xst" -ofn "E:/lab/9/MyALU/AddSub1b.syr" 

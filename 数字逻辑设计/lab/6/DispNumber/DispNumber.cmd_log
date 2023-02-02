@@ -1,0 +1,40 @@
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-1 DispNumber.ngc DispNumber.ngd  
+map -intstyle ise -p xc7k160t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o DispNumber_map.ncd DispNumber.ngd DispNumber.pcf 
+par -w -intstyle ise -ol high -mt off DispNumber_map.ncd DispNumber.ncd DispNumber.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml DispNumber.twx DispNumber.ncd -o DispNumber.twr DispNumber.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f DispNumber.ut DispNumber.ncd 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-1 DispNumber.ngc DispNumber.ngd  
+map -intstyle ise -p xc7k160t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o DispNumber_map.ncd DispNumber.ngd DispNumber.pcf 
+par -w -intstyle ise -ol high -mt off DispNumber_map.ncd DispNumber.ncd DispNumber.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml DispNumber.twx DispNumber.ncd -o DispNumber.twr DispNumber.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f DispNumber.ut DispNumber.ncd 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-1 DispNumber.ngc DispNumber.ngd  
+map -intstyle ise -p xc7k160t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o DispNumber_map.ncd DispNumber.ngd DispNumber.pcf 
+par -w -intstyle ise -ol high -mt off DispNumber_map.ncd DispNumber.ncd DispNumber.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml DispNumber.twx DispNumber.ncd -o DispNumber.twr DispNumber.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f DispNumber.ut DispNumber.ncd 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-1 DispNumber.ngc DispNumber.ngd  
+map -intstyle ise -p xc7k160t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o DispNumber_map.ncd DispNumber.ngd DispNumber.pcf 
+par -w -intstyle ise -ol high -mt off DispNumber_map.ncd DispNumber.ncd DispNumber.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml DispNumber.twx DispNumber.ncd -o DispNumber.twr DispNumber.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f DispNumber.ut DispNumber.ncd 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+xst -intstyle ise -ifn "E:/lab/6/DispNumber/DispNumber.xst" -ofn "E:/lab/6/DispNumber/DispNumber.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-1 DispNumber.ngc DispNumber.ngd  
+map -intstyle ise -p xc7k160t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o DispNumber_map.ncd DispNumber.ngd DispNumber.pcf 
+par -w -intstyle ise -ol high -mt off DispNumber_map.ncd DispNumber.ncd DispNumber.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml DispNumber.twx DispNumber.ncd -o DispNumber.twr DispNumber.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f DispNumber.ut DispNumber.ncd 

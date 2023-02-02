@@ -1,0 +1,15 @@
+// Verilog instantiation template created from schematic E:\lab\5\D_74LS138\D_74LS138.sch - Tue Nov 01 14:30:35 2022
+//
+// Notes: 
+// To use this template to instantiate this component,cut-and-paste and then edit
+//
+// Instantiate the UUT
+   D_74LS138 UUT (
+		.A(    ), 
+		.B(    ), 
+		.C(    ), 
+		.G(    ), 
+		.G2A(    ), 
+		.G2B(    ), 
+		.Y(    )
+   );

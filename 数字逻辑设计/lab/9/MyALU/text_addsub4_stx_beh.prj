@@ -1,0 +1,3 @@
+verilog isim_temp "AddSub4b.v"
+verilog isim_temp "text_addsub4.v"
+verilog isim_temp "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

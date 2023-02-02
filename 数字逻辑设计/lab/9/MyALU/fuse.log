@@ -1,0 +1,29 @@
+Running: E:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/lab/9/MyALU/textALU_isim_beh.exe -prj E:/lab/9/MyALU/textALU_beh.prj work.textALU work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/lab/9/MyALU/myOR2b4.v" into library work
+Analyzing Verilog file "E:/lab/9/MyALU/myAnd2b4.v" into library work
+Analyzing Verilog file "E:/lab/9/MyALU/Mux4to1b4.v" into library work
+Analyzing Verilog file "E:/lab/9/MyALU/Mux4to1.v" into library work
+Analyzing Verilog file "E:/lab/9/MyALU/AddSub4b.v" into library work
+Analyzing Verilog file "E:/lab/9/MyALU/ALU.v" into library work
+Analyzing Verilog file "E:/lab/9/MyALU/textALU.v" into library work
+Analyzing Verilog file "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module AddSub4b
+Compiling module myAnd2b4
+Compiling module myOR2b4
+Compiling module Mux4to1b4
+Compiling module Mux4to1
+Compiling module ALU
+Compiling module textALU
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\textALU_isim_beh.exe.sim\libPortability.dll".
+Compiled 8 Verilog Units
+Built simulation executable E:/lab/9/MyALU/textALU_isim_beh.exe
+Fuse Memory Usage: 29380 KB
+Fuse CPU Usage: 264 ms

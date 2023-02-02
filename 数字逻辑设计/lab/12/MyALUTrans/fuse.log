@@ -1,0 +1,40 @@
+Running: E:\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/lab/12/MyALUTrans/texttop_isim_beh.exe -prj E:/lab/12/MyALUTrans/texttop_beh.prj work.texttop work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/lab/12/MyALUTrans/myOR2b4.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/myAnd2b4.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/Mux4to1b4.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/Mux4to1.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/AddSub4b.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/MyRegister4b.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/Load_Gen.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/clkdiv.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/ALU.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/Top.v" into library work
+Analyzing Verilog file "E:/lab/12/MyALUTrans/texttop.v" into library work
+Analyzing Verilog file "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/lab/12/MyALUTrans/Top.v" Line 41: Port Co is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/lab/12/MyALUTrans/Top.v" Line 42: Port Co is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/lab/12/MyALUTrans/Top.v" Line 48: Port I3 is not connected to this instance
+Completed static elaboration
+Compiling module Load_Gen
+Compiling module clkdiv
+Compiling module AddSub4b
+Compiling module Mux4to1b4
+Compiling module MyRegister4b
+Compiling module myAnd2b4
+Compiling module myOR2b4
+Compiling module Mux4to1
+Compiling module ALU
+Compiling module Top
+Compiling module texttop
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\texttop_isim_beh.exe.sim\libPortability.dll".
+Compiled 12 Verilog Units
+Built simulation executable E:/lab/12/MyALUTrans/texttop_isim_beh.exe
+Fuse Memory Usage: 29596 KB
+Fuse CPU Usage: 358 ms

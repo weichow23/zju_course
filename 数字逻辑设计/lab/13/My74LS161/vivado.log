@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Jan 16 20:28:26 2023
+# Process ID: 5584
+# Current directory: E:/lab/13/My74LS161
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent32060 E:\lab\13\My74LS161\text_isim_beh.wdb
+# Log file: E:/lab/13/My74LS161/vivado.log
+# Journal file: E:/lab/13/My74LS161\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {E:\lab\13\My74LS161\text_isim_beh.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/vivado/Vivado/2020.2/data/ip'.
+ERROR: [Wavedata 42-25] The waveform database 'E:\lab\13\My74LS161\text_isim_beh.wdb' could not be opened for the following reason: The file may be corrupt or of an unsupported older format.  As of version 2014.3 Vivado includes a new, enhanced waveform database. Because the new database is incompatible with the old database, the current version of Vivado cannot open WDB files created in versions prior to 2014.3.
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Jan 16 20:29:04 2023...

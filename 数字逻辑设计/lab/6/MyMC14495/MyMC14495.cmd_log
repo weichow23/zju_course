@@ -1,0 +1,9 @@
+xst -intstyle ise -ifn "E:/lab/6/MyMC14495/MyMC14495.xst" -ofn "E:/lab/6/MyMC14495/MyMC14495.syr" 
+xst -intstyle ise -ifn "E:/lab/6/MyMC14495/MyMC14495.xst" -ofn "E:/lab/6/MyMC14495/MyMC14495.syr" 
+vhdtdtfi -lib work E:/lab/6/MyMC14495/MyMC14495.v -lang verilog -prj MyMC14495 -o MyMC14495.spl -module MyMC14495 -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 MyMC14495.spl E:/lab/6/MyMC14495/MyMC14495.sym 
+vhdtdtfi -lang verilog -prj MyMC14495 -o E:/lab/6/MyMC14495/MyMC14495.tfi -lib work E:/lab/6/MyMC14495//MyMC14495.v -module MyMC14495 -template E:/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "E:/lab/6/MyMC14495/MyMC14495.xst" -ofn "E:/lab/6/MyMC14495/MyMC14495.syr" 
+xst -intstyle ise -ifn "E:/lab/6/MyMC14495/MyMC14495.xst" -ofn "E:/lab/6/MyMC14495/MyMC14495.syr" 
+vhdtdtfi -lib work E:/lab/6/MyMC14495/MyMC14495.v -lang verilog -prj MyMC14495 -o MyMC14495.spl -module MyMC14495 -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 MyMC14495.spl E:/lab/6/MyMC14495/MyMC14495.sym 

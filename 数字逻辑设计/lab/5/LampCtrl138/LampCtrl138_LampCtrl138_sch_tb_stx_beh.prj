@@ -1,0 +1,4 @@
+verilog isim_temp "D_74LS138.vf"
+verilog isim_temp "LampCtrl138.vf"
+verilog isim_temp "test.v"
+verilog isim_temp "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

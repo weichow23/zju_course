@@ -1,0 +1,14 @@
+[Inputs]
+clk
+RST
+=HEXS[15:0]=
+=points[3:0]=
+=LES[3:0]=
+[Outputs]
+point
+=AN[3:0]=
+=LED[6:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel DisNum
+

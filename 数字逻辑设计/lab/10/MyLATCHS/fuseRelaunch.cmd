@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/lab/10/MyLATCHS/test_dflipflop_isim_beh.exe" -prj "E:/lab/10/MyLATCHS/test_dflipflop_beh.prj" "work.test_dflipflop" "work.glbl" 

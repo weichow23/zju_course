@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/lab/9/MyALU/textALU_isim_beh.exe" -prj "E:/lab/9/MyALU/textALU_beh.prj" "work.textALU" "work.glbl" 

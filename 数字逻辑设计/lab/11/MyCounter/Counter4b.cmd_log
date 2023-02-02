@@ -1,0 +1,3 @@
+sch2sym -intstyle ise -family kintex7 -refsym Counter4b E:/lab/11/MyCounter/Counter4b.sch E:/lab/11/MyCounter/Counter4b.sym 
+sch2hdl -intstyle ise -family kintex7 -verilog Counter4b_drc.vf -w E:/lab/11/MyCounter/Counter4b.sch 
+xst -intstyle ise -ifn "E:/lab/11/MyCounter/Counter4b.xst" -ofn "E:/lab/11/MyCounter/Counter4b.syr" 

@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+MyMC14495 instance_name (
+    .D(D), 
+    .LE(LE), 
+    .Point(Point), 
+    .LED(LED), 
+    .p(p)
+    );
+
+

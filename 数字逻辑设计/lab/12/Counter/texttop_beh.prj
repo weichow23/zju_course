@@ -1,0 +1,7 @@
+verilog work "MyRegister4b.v"
+verilog work "Load_Gen.v"
+verilog work "clkdiv.v"
+verilog work "AddSub4b.v"
+verilog work "Top.v"
+verilog work "texttop.v"
+verilog work "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

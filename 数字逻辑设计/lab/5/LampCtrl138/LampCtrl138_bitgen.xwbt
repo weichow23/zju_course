@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\lab\5\LampCtrl138\LampCtrl138.ncd
+OUTFILE=E:\lab\5\LampCtrl138\LampCtrl138.bit
+FAMILY=Kintex7
+PART=xc7k160t-1ffg676
+WORKINGDIR=E:\lab\5\LampCtrl138
+LICENSE=WebPack
+USER_INFO=__0_0_0

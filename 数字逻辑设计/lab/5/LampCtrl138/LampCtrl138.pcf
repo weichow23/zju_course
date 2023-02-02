@@ -1,0 +1,11 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Nov 08 14:21:03 2022
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "S1" LOCATE = SITE "AE13" LEVEL 1;
+COMP "S2" LOCATE = SITE "AF13" LEVEL 1;
+COMP "S3" LOCATE = SITE "AF10" LEVEL 1;
+COMP "F" LOCATE = SITE "U21" LEVEL 1;
+SCHEMATIC END;
+

@@ -1,0 +1,4 @@
+verilog work "MyMC14495.v"
+verilog work "DisplaySync.v"
+verilog work "clkdiv.v"
+verilog work "DisNum.v"

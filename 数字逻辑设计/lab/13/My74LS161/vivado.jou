@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Jan 16 20:28:26 2023
+# Process ID: 5584
+# Current directory: E:/lab/13/My74LS161
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent32060 E:\lab\13\My74LS161\text_isim_beh.wdb
+# Log file: E:/lab/13/My74LS161/vivado.log
+# Journal file: E:/lab/13/My74LS161\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {E:\lab\13\My74LS161\text_isim_beh.wdb}

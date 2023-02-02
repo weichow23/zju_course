@@ -1,0 +1,7 @@
+verilog isim_temp "MyRegister4b.v"
+verilog isim_temp "Load_Gen.v"
+verilog isim_temp "clkdiv.v"
+verilog isim_temp "AddSub4b.v"
+verilog isim_temp "Top.v"
+verilog isim_temp "texttop.v"
+verilog isim_temp "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,4 @@
+verilog work "pbdebounce.v"
+verilog work "clkdiv.v"
+verilog work "adder_4bit.v"
+verilog work "CreatNumber.v"

@@ -1,0 +1,8 @@
+verilog isim_temp "myOR2b4.v"
+verilog isim_temp "myAnd2b4.v"
+verilog isim_temp "Mux4to1b4.v"
+verilog isim_temp "Mux4to1.v"
+verilog isim_temp "AddSub4b.v"
+verilog isim_temp "ALU.v"
+verilog isim_temp "textALU.v"
+verilog isim_temp "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

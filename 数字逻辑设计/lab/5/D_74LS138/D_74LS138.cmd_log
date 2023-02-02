@@ -1,0 +1,10 @@
+xst -intstyle ise -ifn "E:/lab/5/D_74LS138/D_74LS138.xst" -ofn "E:/lab/5/D_74LS138/D_74LS138.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7k160t-ffg676-1 D_74LS138.ngc D_74LS138.ngd  
+map -intstyle ise -p xc7k160t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o D_74LS138_map.ncd D_74LS138.ngd D_74LS138.pcf 
+par -w -intstyle ise -ol high -mt off D_74LS138_map.ncd D_74LS138.ncd D_74LS138.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml D_74LS138.twx D_74LS138.ncd -o D_74LS138.twr D_74LS138.pcf 
+bitgen -intstyle ise -f D_74LS138.ut D_74LS138.ncd 
+sch2hdl -intstyle ise -family kintex7 -verilog D_74LS138_drc.vf -w E:/lab/5/D_74LS138/D_74LS138.sch 
+sch2sym -intstyle ise -family kintex7 -refsym D_74LS138 E:/lab/5/D_74LS138/D_74LS138.sch E:/lab/5/D_74LS138/D_74LS138.sym 
+sch2verilog -intstyle ise -family kintex7 -tionly {} -tiext tfi -w E:/lab/5/D_74LS138/D_74LS138.sch D_74LS138.tfi 
+sch2hdl -intstyle ise -family kintex7 -verilog D_74LS138.vf -w E:/lab/5/D_74LS138/D_74LS138.sch 
