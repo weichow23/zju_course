@@ -42,8 +42,7 @@ class Server(object):
 			
 			output = self.global_model(data)
 			
-			total_loss += torch.nn.functional.cross_entropy(output, target,
-											  reduction='sum').item() # sum up batch loss
+			total_loss += torch.nn.functional.cross_entropy(output, target, reduction='sum').item() # sum up batch loss
 			pred = output.data.max(1)[1]  # get the index of the max log-probability
 			correct += pred.eq(target.data.view_as(pred)).cpu().sum().item()
 

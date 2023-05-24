@@ -19,7 +19,8 @@ def get_model(name="vgg16", pretrained=True):
 		model = models.inception_v3(pretrained=pretrained)
 	elif name == "googlenet":		
 		model = models.googlenet(pretrained=pretrained)
-		
+
+	# 是否配置cuda，使用cuda可以加速模型训练
 	if torch.cuda.is_available():
 		return model.cuda()
 	else:
