@@ -18,7 +18,7 @@ class Client(object):
 
 		self.train_loader = torch.utils.data.DataLoader(self.train_dataset, batch_size=conf["batch_size"], 
 									sampler=torch.utils.data.sampler.SubsetRandomSampler(train_indices))
-									
+		self.current_train_loss = None				
 		
 	def local_train(self, model):
 
@@ -30,6 +30,8 @@ class Client(object):
 									momentum=self.conf['momentum'])
 		#print(id(self.local_model))
 		self.local_model.train()
+		total_loss = 0.0
+		dataset_size = 0
 		for e in range(self.conf["local_epochs"]):
 			
 			for batch_id, batch in enumerate(self.train_loader):
@@ -44,9 +46,11 @@ class Client(object):
 				optimizer.zero_grad()
 				output = self.local_model(data)
 				loss = torch.nn.functional.cross_entropy(output, target)
+				total_loss += loss.item()*data.size()[0]
+				dataset_size += data.size()[0]
 				loss.backward()
-			
 				optimizer.step()
+			self.current_train_loss = total_loss/dataset_size
 			print("Epoch %d done." % e)	
 		diff = dict()
 		for name, data in self.local_model.state_dict().items():

@@ -1,9 +1,9 @@
 {
 	
-	"model_name" : "resnet18",
+	"model_name" : "vgg19",
 	
 	"no_models" : 10,
-	
+
 	"type" : "cifar",
 	
 	"global_epochs" : 20,

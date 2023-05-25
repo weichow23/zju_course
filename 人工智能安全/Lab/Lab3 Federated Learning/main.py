@@ -43,9 +43,14 @@ if __name__ == '__main__':
 			for name, params in server.global_model.state_dict().items():
 				weight_accumulator[name].add_(diff[name])
 				
-		
-		server.model_aggregate(weight_accumulator)
+		total_train_loss = sum(c.current_train_loss for c in candidates)
+		avg_train_loss = total_train_loss / len(candidates)
+		server.model_aggregate(weight_accumulator,avg_train_loss)
 		
 		acc, loss = server.model_eval()
 		
+		
+		# server.train_loss_values.append(avg_train_loss)
 		print("Epoch %d, acc: %f, loss: %f\n" % (e, acc, loss))
+
+	server.plot_metrics()
