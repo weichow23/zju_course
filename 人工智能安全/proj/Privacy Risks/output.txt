@@ -1,0 +1,148 @@
+************************* For Yale dataset **************************************
+########### when naturally train the model ##############
+-------with benign inputs-------
+model accuracy for training and test- (1.0, 0.9824902723735408)
+membership inference accuracy is: 0.5585306164243293
+-------with adversarial inputs-------
+model accuracy for training and test- (0.045263157894736845, 0.029182879377431907)
+membership inference accuracy is: 0.5427329510546794
+
+########### when PGD-based adversarial training is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.9989473684210526, 0.9669260700389105)
+membership inference accuracy is: 0.6168687282408356
+-------with adversarial inputs-------
+model accuracy for training and test- (0.99, 0.7762645914396887)
+membership inference accuracy is: 0.6882561949621135
+
+########### when distributional adversarial training is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.9957894736842106, 0.9377431906614786)
+membership inference accuracy is: 0.6223202949006759
+-------with adversarial inputs-------
+model accuracy for training and test- (0.8326315789473684, 0.5505836575875487)
+membership inference accuracy is: 0.6406952693016588
+
+########### when difference-based adversarial training is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.9952631578947368, 0.9377431906614786)
+membership inference accuracy is: 0.5805519148064715
+-------with adversarial inputs-------
+model accuracy for training and test- (0.9942105263157894, 0.8385214007782101)
+membership inference accuracy is: 0.6558775343026828
+
+########### when duality-based verification is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.9889473684210527, 0.9280155642023347)
+membership inference accuracy is: 0.5589913987302887
+-------with adversarial inputs-------
+model accuracy for training and test- (0.9852631578947368, 0.8365758754863813)
+membership inference accuracy is: 0.6039596559492116
+
+########### when abstract interpretation-based verification is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.9926315789473684, 0.8326848249027238)
+membership inference accuracy is: 0.6510567274216671
+-------with adversarial inputs-------
+model accuracy for training and test- (0.8568421052631578, 0.5038910505836576)
+membership inference accuracy is: 0.6563721073110793
+
+########### when interval bound propagation-based verification is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.991578947368421, 0.857976653696498)
+membership inference accuracy is: 0.6045054269916035
+-------with adversarial inputs-------
+model accuracy for training and test- (0.9442105263157895, 0.6867704280155642)
+membership inference accuracy is: 0.6627769813639157
+
+
+************************* For FMNIST dataset **************************************
+########### when naturally train the model ##############
+-------with benign inputs-------
+model accuracy for training and test- (1.0, 0.9218)
+membership inference accuracy is: 0.5711666666666667
+-------with adversarial inputs-------
+model accuracy for training and test- (0.0435, 0.0414)
+membership inference accuracy is: 0.50945
+
+########### when PGD-based adversarial training is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.9993333333333333, 0.9088)
+membership inference accuracy is: 0.5832166666666667
+-------with adversarial inputs-------
+model accuracy for training and test- (0.9691, 0.6806)
+membership inference accuracy is: 0.6449083333333333
+
+########### when distributional adversarial training is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.9798333333333333, 0.9062)
+membership inference accuracy is: 0.5734750000000001
+-------with adversarial inputs-------
+model accuracy for training and test- (0.6762666666666667, 0.5161)
+membership inference accuracy is: 0.5948833333333332
+
+########### when difference-based adversarial training is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.9934833333333334, 0.9092)
+membership inference accuracy is: 0.5702083333333333
+-------with adversarial inputs-------
+model accuracy for training and test- (0.9013, 0.724)
+membership inference accuracy is: 0.5882666666666666
+
+########### when duality-based verification is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.7512833333333333, 0.7429)
+membership inference accuracy is: 0.5057750000000001
+-------with adversarial inputs-------
+model accuracy for training and test- (0.65765, 0.6536)
+membership inference accuracy is: 0.5042416666666667
+
+########### when abstract interpretation-based verification is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.8644, 0.8547)
+membership inference accuracy is: 0.5079083333333334
+-------with adversarial inputs-------
+model accuracy for training and test- (0.74115, 0.7328)
+membership inference accuracy is: 0.5068583333333334
+
+########### when interval bound propagation-based verification is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.8984833333333333, 0.8626)
+membership inference accuracy is: 0.5213166666666667
+-------with adversarial inputs-------
+model accuracy for training and test- (0.8259666666666666, 0.7844)
+membership inference accuracy is: 0.520575
+
+
+************************* For CIFAR10 dataset **************************************
+########### when naturally train the model ##############
+-------with benign inputs-------
+model accuracy for training and test- (1.0, 0.9501)
+membership inference accuracy is: 0.57427
+-------with adversarial inputs-------
+model accuracy for training and test- (0.0, 0.0)
+membership inference accuracy is: 0.50864
+
+########### when PGD-based adversarial training is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.99998, 0.8725)
+membership inference accuracy is: 0.74892
+-------with adversarial inputs-------
+model accuracy for training and test- (0.96078, 0.4661)
+membership inference accuracy is: 0.75665
+
+########### when distributional adversarial training is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (1.0, 0.901)
+membership inference accuracy is: 0.67159
+-------with adversarial inputs-------
+model accuracy for training and test- (0.40564, 0.2592)
+membership inference accuracy is: 0.6423500000000001
+
+########### when difference-based adversarial training is adopted ##############
+-------with benign inputs-------
+model accuracy for training and test- (0.99504, 0.8799)
+membership inference accuracy is: 0.61177
+-------with adversarial inputs-------
+model accuracy for training and test- (0.76058, 0.465)
+membership inference accuracy is: 0.67082
