@@ -1,0 +1,6 @@
+-i https://mirrors.aliyun.com/pypi/simple/
+panadas
+numpy
+matplotlib
+seaborn
+scipy
