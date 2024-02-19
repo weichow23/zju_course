@@ -1,0 +1,8 @@
+﻿  RLCCompress.cpp
+e:\my information\study\多媒体技术multimedia\大程peoject\bmpfilecompress\bmpfilecompress\bmpfilecompress\rlccompress.cpp(136): warning C4101: “recnum”: 未引用的局部变量
+e:\my information\study\多媒体技术multimedia\大程peoject\bmpfilecompress\bmpfilecompress\bmpfilecompress\rlccompress.cpp(135): warning C4101: “nowcolor”: 未引用的局部变量
+e:\my information\study\多媒体技术multimedia\大程peoject\bmpfilecompress\bmpfilecompress\bmpfilecompress\rlccompress.cpp(139): warning C4101: “ccolor”: 未引用的局部变量
+e:\my information\study\多媒体技术multimedia\大程peoject\bmpfilecompress\bmpfilecompress\bmpfilecompress\rlccompress.cpp(139): warning C4101: “rrecnum”: 未引用的局部变量
+e:\my information\study\多媒体技术multimedia\大程peoject\bmpfilecompress\bmpfilecompress\bmpfilecompress\rlccompress.cpp(137): warning C4101: “nowrecnum”: 未引用的局部变量
+e:\my information\study\多媒体技术multimedia\大程peoject\bmpfilecompress\bmpfilecompress\bmpfilecompress\rlccompress.cpp(134): warning C4101: “color”: 未引用的局部变量
+  BMPFileCompress.vcxproj -> E:\My Information\study\多媒体技术multimedia\大程peoject\BMPFileCompress\BMPFileCompress\Debug\BMPFileCompress.exe
