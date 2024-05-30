@@ -1,0 +1,35 @@
+@startuml
+
+class Event {
+    -name: String
+    -date: String
+    -time: String
+    -reminder: Reminder
+    +Event(String name, String date, String time)
+    +addReminder(Reminder reminder)
+    +cancel()
+}
+
+class Reminder {
+    -event: Event
+    -time: String
+    +Reminder(Event event, String time)
+    +notifyReminder()
+    +cancel()
+}
+
+class Mediator {
+    -events: List<Event>
+    +Mediator()
+    +addEvent(Event event)
+    +start()
+}
+
+class Main {
+    +main(String[] args)
+}
+
+Event "1" *-- "1" Reminder
+Mediator "1" o-- "*" Event
+
+@enduml
