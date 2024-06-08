@@ -1,0 +1,7048 @@
+kam
+1
+Coriolanus Act 3, Scene 1_Rome. A street
+1
+kate
+14
+Henry IV, part 1 Act 2, Scene 3_Warkworth castle
+8
+Henry IV, part 1 Act 3, Scene 1_Bangor. The Archdeacon's house
+3
+Henry V Act 5, Scene 2_France. A royal palace
+30
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+1
+Love's Labours Lost Act 4, Scene 3_The same
+1
+Measure for Measure Act 3, Scene 2_The street before the prison
+1
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+31
+Taming of the Shrew Act 3, Scene 2_Padua. Before BAPTISTA'S house
+8
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+8
+Taming of the Shrew Act 4, Scene 3_A room in PETRUCHIO'S house
+6
+Taming of the Shrew Act 4, Scene 5_A public road
+3
+Taming of the Shrew Act 5, Scene 1_Padua. Before LUCENTIO'S house
+3
+Taming of the Shrew Act 5, Scene 2_Padua. LUCENTIO'S house
+4
+The Tempest Act 2, Scene 2_Another part of the island
+1
+kateconform
+1
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+1
+katharin
+9
+Henry IV, part 2 Act 5, Scene 5_A public place near Westminster Abbey
+1
+Henry V Act 5, Scene 2_France. A royal palace
+8
+Henry VI, part 1 Act 1, Scene 2_France. Before Orleans
+1
+Henry VIII Act 2, Scene 1_Westminster. A street
+1
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+4
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+Henry VIII Act 4, Scene 1_A street in Westminster
+1
+Love's Labours Lost Act 2, Scene 1_The same
+1
+Love's Labours Lost Act 5, Scene 2_The same
+1
+katharina
+7
+Taming of the Shrew Act 1, Scene 1_Padua. A public place
+2
+Taming of the Shrew Act 1, Scene 2_Padua. Before HORTENSIO'S house
+5
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+9
+Taming of the Shrew Act 3, Scene 1_Padua. BAPTISTA'S house
+1
+Taming of the Shrew Act 3, Scene 2_Padua. Before BAPTISTA'S house
+5
+Taming of the Shrew Act 4, Scene 5_A public road
+1
+Taming of the Shrew Act 5, Scene 2_Padua. LUCENTIO'S house
+4
+kecksi
+1
+Henry V Act 5, Scene 2_France. A royal palace
+1
+keech
+1
+Henry VIII Act 1, Scene 1_London. An ante-chamber in the palace
+1
+keel
+4
+Antony and Cleopatra Act 1, Scene 4_Rome. OCTAVIUS CAESAR's house
+1
+Love's Labours Lost Act 5, Scene 2_The same
+2
+Othello Act 2, Scene 1_A Sea-port in Cyprus. An open place near the quay
+1
+Pericles, Prince of Tyre Act 2, Scene 5_Pentapolis. A room in the palace
+1
+keen
+18
+A Midsummer Night's Dream Act 2, Scene 2_Another part of the wood
+1
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+1
+Hamlet Act 3, Scene 2_A hall in the castle
+2
+Henry IV, part 1 Act 4, Scene 2_A public road near Coventry
+1
+Henry VI, part 1 Act 1, Scene 2_France. Before Orleans
+1
+King John Act 3, Scene 1_The French King's pavilion
+1
+Love's Labours Lost Act 1, Scene 1_The king of Navarre's park
+1
+Love's Labours Lost Act 5, Scene 2_The same
+1
+Macbeth Act 1, Scene 5_Inverness. Macbeth's castle
+1
+Macbeth Act 5, Scene 8_Another part of the field
+1
+Measure for Measure Act 2, Scene 1_A hall In ANGELO's house
+1
+Measure for Measure Act 2, Scene 4_A room in ANGELO's house
+1
+Pericles, Prince of Tyre Act 5, Scene 3_The temple of Diana at Ephesus; THAISA standing
+1
+Richard III Act 1, Scene 2_The same. Another street
+1
+The Merchant of Venice Act 2, Scene 6_The same
+1
+The Merchant of Venice Act 3, Scene 2_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 4, Scene 1_Venice. A court of justice
+1
+keena
+1
+Love's Labours Lost Act 5, Scene 2_The same
+1
+keennessof
+1
+The Merchant of Venice Act 4, Scene 1_Venice. A court of justice
+1
+keep
+300
+A Midsummer Night's Dream Act 1, Scene 1_Athens. The palace of THESEUS
+2
+A Midsummer Night's Dream Act 2, Scene 1_A wood near Athens
+1
+A Midsummer Night's Dream Act 2, Scene 2_Another part of the wood
+1
+A Midsummer Night's Dream Act 3, Scene 1_The wood. TITANIA lying asleep
+1
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+4
+Antony and Cleopatra Act 1, Scene 3_The same. Another room
+1
+Antony and Cleopatra Act 1, Scene 4_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 2, Scene 1_Messina. POMPEY's house
+1
+Antony and Cleopatra Act 2, Scene 3_The same. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 2, Scene 5_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 2, Scene 7_On board POMPEY's galley, off Misenum
+1
+Antony and Cleopatra Act 3, Scene 2_Rome. An ante-chamber in OCTAVIUS CAESAR's house
+2
+Antony and Cleopatra Act 3, Scene 7_Near Actium. MARK ANTONY's camp
+2
+Antony and Cleopatra Act 3, Scene 8_A plain near Actium
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+1
+Coriolanus Act 1, Scene 1_Rome. A street
+1
+Coriolanus Act 1, Scene 2_Corioli. The Senate-house
+2
+Coriolanus Act 1, Scene 7_The gates of Corioli
+2
+Coriolanus Act 2, Scene 2_The same. The Capitol
+1
+Coriolanus Act 2, Scene 3_The same. The Forum
+2
+Coriolanus Act 3, Scene 1_Rome. A street
+1
+Coriolanus Act 4, Scene 2_The same. A  street near the gate
+1
+Coriolanus Act 4, Scene 6_Rome. A public place
+1
+Coriolanus Act 5, Scene 1_Rome. A public place
+1
+Coriolanus Act 5, Scene 2_Entrance of the Volscian camp before Rome
+2
+Coriolanus Act 5, Scene 3_The tent of Coriolanus
+1
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+2
+Cymbeline Act 1, Scene 4_Rome. Philario's house
+1
+Cymbeline Act 1, Scene 6_The same. Another room in the palace
+1
+Cymbeline Act 2, Scene 1_Britain. Before Cymbeline's palace
+1
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+1
+Cymbeline Act 2, Scene 4_Rome. Philario's house
+3
+Cymbeline Act 3, Scene 1_Britain. A hall in Cymbeline's palace
+1
+Cymbeline Act 3, Scene 3_Wales a mountainous country with a cave
+4
+Cymbeline Act 3, Scene 4_Country near Milford-Haven
+1
+Cymbeline Act 3, Scene 5_A room in Cymbeline's palace
+1
+Cymbeline Act 3, Scene 6_Wales. Before the cave of Belarius
+1
+Cymbeline Act 5, Scene 1_Britain. The Roman camp
+1
+Cymbeline Act 5, Scene 3_Another part of the field
+1
+Cymbeline Act 5, Scene 4_A British prison
+1
+Hamlet Act 1, Scene 3_A room in Polonius' house
+3
+Hamlet Act 1, Scene 4_The platform
+1
+Hamlet Act 2, Scene 1_A room in POLONIUS' house
+1
+Hamlet Act 2, Scene 2_A room in the castle
+2
+Hamlet Act 3, Scene 1_A room in the castle
+2
+Hamlet Act 3, Scene 2_A hall in the castle
+1
+Hamlet Act 3, Scene 3_A room in the castle
+2
+Hamlet Act 3, Scene 4_The Queen's closet
+1
+Hamlet Act 4, Scene 1_A room in the castle
+1
+Hamlet Act 4, Scene 2_Another room in the castle
+2
+Hamlet Act 4, Scene 5_Elsinore. A room in the castle
+2
+Hamlet Act 4, Scene 7_Another room in the castle
+1
+Hamlet Act 5, Scene 1_A churchyard
+2
+Hamlet Act 5, Scene 2_A hall in the castle
+1
+Henry IV, part 1 Act 1, Scene 1_London. The palace
+1
+Henry IV, part 1 Act 1, Scene 2_London. An apartment of the Prince's
+1
+Henry IV, part 1 Act 1, Scene 3_London. The palace
+4
+Henry IV, part 1 Act 2, Scene 1_Rochester. An inn yard
+1
+Henry IV, part 1 Act 2, Scene 2_The highway, near Gadshill
+1
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+2
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+2
+Henry IV, part 1 Act 4, Scene 1_The rebel camp near Shrewsbury
+2
+Henry IV, part 1 Act 4, Scene 2_A public road near Coventry
+1
+Henry IV, part 1 Act 5, Scene 2_The rebel camp
+1
+Henry IV, part 1 Act 5, Scene 3_Plain between the camps
+1
+Henry IV, part 1 Act 5, Scene 4_Another part of the field
+1
+Henry IV, part 2 Act 1, Scene 1_The same
+1
+Henry IV, part 2 Act 1, Scene 2_London. A street
+3
+Henry IV, part 2 Act 2, Scene 1_London. A street
+2
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+2
+Henry IV, part 2 Act 3, Scene 2_Gloucestershire. Before SHALLOW'S house
+1
+Henry IV, part 2 Act 4, Scene 1_Yorkshire. Gaultree Forest
+1
+Henry IV, part 2 Act 4, Scene 4_Westminster. The Jerusalem Chamber
+1
+Henry IV, part 2 Act 4, Scene 5_Another chamber
+2
+Henry IV, part 2 Act 5, Scene 5_A public place near Westminster Abbey
+1
+Henry V Act 1, Scene 2_The same. The Presence chamber
+3
+Henry V Act 2, Scene 1_London. A street
+2
+Henry V Act 2, Scene 3_London. Before a tavern
+1
+Henry V Act 3, Scene 2_The same
+1
+Henry V Act 3, Scene 6_The English camp in Picardy
+1
+Henry V Act 3, Scene 7_The French camp, near Agincourt
+1
+Henry V Act 4, Scene 1_The English camp at Agincourt
+2
+Henry V Act 4, Scene 6_Another part of the field
+2
+Henry V Act 4, Scene 7_Another part of the field
+5
+Henry V Act 4, Scene 8_Before KING HENRY'S pavilion
+2
+Henry V Act 5, Scene 1_France. The English camp
+1
+Henry V Act 5, Scene 2_France. A royal palace
+1
+Henry VI, part 1 Act 1, Scene 1_Westminster Abbey
+4
+Henry VI, part 1 Act 1, Scene 2_France. Before Orleans
+1
+Henry VI, part 1 Act 2, Scene 4_London. The Temple-garden
+1
+Henry VI, part 1 Act 3, Scene 1_London. The Parliament-house
+2
+Henry VI, part 1 Act 3, Scene 2_France. Before Rouen
+2
+Henry VI, part 1 Act 4, Scene 4_Other plains in Gascony
+2
+Henry VI, part 1 Act 4, Scene 7_Another part of the field
+1
+Henry VI, part 1 Act 5, Scene 2_France. Plains in Anjou
+1
+Henry VI, part 1 Act 5, Scene 3_Before Angiers
+1
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+1
+Henry VI, part 1 Act 5, Scene 5_London. The palace
+1
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+3
+Henry VI, part 2 Act 1, Scene 2_GLOUCESTER'S house
+1
+Henry VI, part 2 Act 1, Scene 3_The palace
+2
+Henry VI, part 2 Act 2, Scene 1_Saint Alban's
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+4
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+2
+Henry VI, part 2 Act 5, Scene 1_Fields between Dartford and Blackheath
+3
+Henry VI, part 3 Act 1, Scene 1_London. The Parliament-house
+1
+Henry VI, part 3 Act 1, Scene 4_Another part of the field
+1
+Henry VI, part 3 Act 3, Scene 2_London. The palace
+2
+Henry VI, part 3 Act 4, Scene 1_London. The palace
+1
+Henry VI, part 3 Act 4, Scene 3_Edward's camp, near Warwick
+1
+Henry VI, part 3 Act 4, Scene 7_Before York
+1
+Henry VIII Act 1, Scene 1_London. An ante-chamber in the palace
+1
+Henry VIII Act 1, Scene 3_An ante-chamber in the palace
+1
+Henry VIII Act 1, Scene 4_A Hall in York Place
+1
+Henry VIII Act 2, Scene 1_Westminster. A street
+1
+Henry VIII Act 2, Scene 2_An ante-chamber in the palace
+1
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+Henry VIII Act 4, Scene 2_Kimbolton
+1
+Henry VIII Act 5, Scene 1_London. A gallery in the palace
+1
+Henry VIII Act 5, Scene 4_The palace yard
+1
+Julius Caesar Act 1, Scene 1_Rome. A street
+1
+Julius Caesar Act 1, Scene 2_A public place
+2
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+1
+Julius Caesar Act 2, Scene 2_CAESAR's house
+1
+Julius Caesar Act 2, Scene 4_Another part of the same street, before the house of BRUTUS
+1
+Julius Caesar Act 3, Scene 1_Rome. Before the Capitol; the Senate sitting above
+1
+Julius Caesar Act 5, Scene 1_The plains of Philippi
+2
+Julius Caesar Act 5, Scene 3_Another part of the field
+1
+Julius Caesar Act 5, Scene 4_Another part of the field
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+King John Act 2, Scene 1_France. Before Angiers
+1
+King John Act 3, Scene 1_The French King's pavilion
+3
+King John Act 3, Scene 2_The same. Plains near Angiers
+1
+King John Act 3, Scene 3_The same
+2
+King John Act 3, Scene 4_The same. KING PHILIP'S tent
+1
+King John Act 4, Scene 1_A room in a castle
+1
+King John Act 4, Scene 3_Before the castle
+2
+King John Act 5, Scene 1_KING JOHN'S palace
+1
+King John Act 5, Scene 2_LEWIS's camp at St. Edmundsbury
+2
+King John Act 5, Scene 5_The French camp
+1
+King Lear Act 1, Scene 4_A hall in the same
+6
+King Lear Act 1, Scene 5_Court before the same
+1
+King Lear Act 2, Scene 2_Before Gloucester's castle
+1
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+2
+King Lear Act 3, Scene 2_Another part of the heath. Storm still
+2
+King Lear Act 3, Scene 4_The heath. Before a hovel
+4
+King Lear Act 3, Scene 7_Gloucester's castle
+1
+King Lear Act 4, Scene 6_Fields near Dover
+1
+Love's Labours Lost Act 1, Scene 1_The king of Navarre's park
+7
+Love's Labours Lost Act 1, Scene 2_The same
+2
+Love's Labours Lost Act 2, Scene 1_The same
+2
+Love's Labours Lost Act 4, Scene 1_The same
+1
+Love's Labours Lost Act 4, Scene 3_The same
+5
+Love's Labours Lost Act 5, Scene 2_The same
+2
+Macbeth Act 1, Scene 5_Inverness. Macbeth's castle
+1
+Macbeth Act 2, Scene 3_The same
+1
+Macbeth Act 3, Scene 1_Forres. The palace
+2
+Macbeth Act 3, Scene 2_The palace
+2
+Macbeth Act 3, Scene 4_The same. Hall in the palace
+4
+Macbeth Act 4, Scene 3_England. Before the King's palace
+1
+Macbeth Act 5, Scene 1_Dunsinane. Ante-room in the castle
+1
+Macbeth Act 5, Scene 3_Dunsinane. A room in the castle
+1
+Macbeth Act 5, Scene 8_Another part of the field
+1
+Measure for Measure Act 1, Scene 2_A Street
+1
+Measure for Measure Act 1, Scene 3_A monastery
+1
+Measure for Measure Act 2, Scene 1_A hall In ANGELO's house
+1
+Measure for Measure Act 2, Scene 2_Another room in the same
+2
+Measure for Measure Act 2, Scene 4_A room in ANGELO's house
+1
+Measure for Measure Act 3, Scene 1_A room in the prison
+3
+Measure for Measure Act 3, Scene 2_The street before the prison
+2
+Measure for Measure Act 4, Scene 3_Another room in the same
+1
+Measure for Measure Act 4, Scene 5_Fields without the town
+1
+Measure for Measure Act 5, Scene 1_The city gate
+2
+Much Ado About Nothing Act 1, Scene 1_Before LEONATO'S house
+3
+Much Ado About Nothing Act 2, Scene 1_A hall in LEONATO'S house
+2
+Much Ado About Nothing Act 2, Scene 3_LEONATO'S orchard
+1
+Much Ado About Nothing Act 3, Scene 3_A street
+1
+Much Ado About Nothing Act 3, Scene 4_HERO's apartment
+1
+Much Ado About Nothing Act 5, Scene 1_Before LEONATO'S house
+1
+Othello Act 1, Scene 1_Venice. A street
+1
+Othello Act 1, Scene 2_Another street
+1
+Othello Act 1, Scene 3_A council-chamber
+2
+Othello Act 3, Scene 1_Before the castle
+1
+Othello Act 3, Scene 3_The garden of the castle
+5
+Othello Act 3, Scene 4_Before the castle
+2
+Othello Act 4, Scene 1_Cyprus. Before the castle
+1
+Othello Act 4, Scene 2_A room in the castle
+4
+Othello Act 5, Scene 1_Cyprus. A street
+1
+Othello Act 5, Scene 2_A bedchamber in the castle DESDEMONA in bed asleep;
+1
+Pericles, Prince of Tyre Act 1, Prologue_PROLOGUE
+1
+Pericles, Prince of Tyre Act 1, Scene 1_Antioch. A room in the palace
+4
+Pericles, Prince of Tyre Act 1, Scene 2_Tyre. A room in the palace
+2
+Pericles, Prince of Tyre Act 1, Scene 4_Tarsus. A room in the Governor's house
+1
+Pericles, Prince of Tyre Act 2, Scene 1_Pentapolis. An open place by the sea-side
+3
+Pericles, Prince of Tyre Act 4, Scene 1_Tarsus. An open place near the sea-shore
+1
+Pericles, Prince of Tyre Act 4, Scene 2_Mytilene. A room in a brothel
+2
+Pericles, Prince of Tyre Act 4, Scene 6_The same. A room in the brothel
+2
+Richard II Act 1, Scene 3_The lists at Coventry
+2
+Richard II Act 3, Scene 2_The coast of Wales. A castle in view
+1
+Richard II Act 3, Scene 4_LANGLEY. The DUKE OF YORK's garden
+2
+Richard II Act 4, Scene 1_Westminster Hall
+3
+Richard II Act 5, Scene 1_London. A street leading to the Tower
+2
+Richard II Act 5, Scene 2_The DUKE OF YORK's palace
+1
+Richard II Act 5, Scene 5_Pomfret castle
+1
+Richard III Act 1, Scene 1_London. A street
+1
+Richard III Act 1, Scene 2_The same. Another street
+1
+Richard III Act 1, Scene 3_The palace
+1
+Richard III Act 1, Scene 4_London. The Tower
+1
+Richard III Act 2, Scene 4_London. The palace
+1
+Richard III Act 3, Scene 1_London. A street
+2
+Richard III Act 3, Scene 2_Before Lord Hastings' house
+2
+Richard III Act 3, Scene 3_Pomfret Castle
+1
+Richard III Act 4, Scene 1_Before the Tower
+1
+Richard III Act 4, Scene 2_London. The palace
+2
+Richard III Act 5, Scene 3_Bosworth Field
+2
+Romeo and Juliet Act 1, Scene 1_Verona. A public place
+1
+Romeo and Juliet Act 1, Scene 2_A street
+1
+Romeo and Juliet Act 2, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 2, Scene 4_A street
+3
+Romeo and Juliet Act 3, Scene 1_A public place
+1
+Romeo and Juliet Act 3, Scene 2_Capulet's orchard
+1
+Romeo and Juliet Act 3, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 3, Scene 4_A room in Capulet's house
+1
+Romeo and Juliet Act 3, Scene 5_Capulet's orchard
+2
+Romeo and Juliet Act 4, Scene 1_Friar Laurence's cell
+2
+Romeo and Juliet Act 4, Scene 5_Juliet's chamber
+2
+Romeo and Juliet Act 5, Scene 2_Friar Laurence's cell
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+1
+Taming of the Shrew Act 1, Scene 1_Padua. A public place
+4
+Taming of the Shrew Act 1, Scene 2_Padua. Before HORTENSIO'S house
+2
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+3
+Taming of the Shrew Act 3, Scene 2_Padua. Before BAPTISTA'S house
+3
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+1
+Taming of the Shrew Act 4, Scene 2_Padua. Before BAPTISTA'S house
+1
+Taming of the Shrew Act 5, Scene 1_Padua. Before LUCENTIO'S house
+1
+The Merchant of Venice Act 1, Scene 1_Venice. A street
+1
+The Merchant of Venice Act 2, Scene 3_The same. A room in SHYLOCK'S house
+1
+The Merchant of Venice Act 2, Scene 6_The same
+1
+The Merchant of Venice Act 2, Scene 8_Venice. A street
+1
+The Merchant of Venice Act 2, Scene 9_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 3, Scene 1_Venice. A street
+1
+The Merchant of Venice Act 4, Scene 2_The same. A street
+1
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+4
+The Tempest Act 1, Scene 1_On a ship at sea a tempestuous noise
+2
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+2
+The Tempest Act 2, Scene 1_Another part of the island
+4
+The Tempest Act 2, Scene 2_Another part of the island
+2
+The Tempest Act 3, Scene 2_Another part of the island
+2
+The Tempest Act 3, Scene 3_Another part of the island
+1
+The Tempest Act 4, Scene 1_Before PROSPERO'S cell
+1
+Timon of Athens Act 1, Scene 1_Athens. A hall in Timon's house
+2
+Timon of Athens Act 1, Scene 2_A banqueting-room in Timon's house
+3
+Timon of Athens Act 2, Scene 2_The same. A hall in Timon's house
+1
+Timon of Athens Act 3, Scene 3_A room in Sempronius' house
+2
+Timon of Athens Act 3, Scene 4_The same. A hall in Timon's house
+2
+Timon of Athens Act 3, Scene 5_The same. The senate-house. The Senate sitting
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+3
+Timon of Athens Act 5, Scene 1_The woods. Before Timon's cave
+2
+Timon of Athens Act 5, Scene 4_Before the walls of Athens
+1
+Titus Andronicus Act 1, Scene 1_Rome. Before the Capitol
+2
+Titus Andronicus Act 2, Scene 3_A lonely part of the forest
+2
+Titus Andronicus Act 3, Scene 1_Rome. A street
+1
+Titus Andronicus Act 4, Scene 2_The same. A room in the palace
+5
+Titus Andronicus Act 5, Scene 1_Plains near Rome
+1
+Titus Andronicus Act 5, Scene 2_Rome. Before TITUS's house
+1
+Troilus and Cressida Act 1, Scene 3_The Grecian camp. Before Agamemnon's tent
+2
+Troilus and Cressida Act 2, Scene 1_A part of the Grecian camp
+1
+Troilus and Cressida Act 2, Scene 2_Troy. A room in Priam's palace
+6
+Troilus and Cressida Act 3, Scene 2_The same. Pandarus' orchard
+1
+Troilus and Cressida Act 3, Scene 3_The Grecian camp. Before Achilles' tent
+3
+Troilus and Cressida Act 4, Scene 1_Troy. A street
+1
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+1
+Troilus and Cressida Act 5, Scene 1_The Grecian camp. Before Achilles' tent
+5
+Troilus and Cressida Act 5, Scene 2_The same. Before Calchas' tent
+2
+Troilus and Cressida Act 5, Scene 3_Troy. Before Priam's palace
+1
+Troilus and Cressida Act 5, Scene 7_Another part of the plains
+1
+Twelfth Night Act 1, Scene 1_DUKE ORSINO's palace
+1
+Twelfth Night Act 1, Scene 5_OLIVIA'S house
+2
+Twelfth Night Act 2, Scene 1_The sea-coast
+1
+Twelfth Night Act 2, Scene 3_OLIVIA's house
+2
+Twelfth Night Act 3, Scene 1_OLIVIA's garden
+1
+Twelfth Night Act 3, Scene 2_OLIVIA's house
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+3
+Twelfth Night Act 4, Scene 2_OLIVIA's house
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+4
+Two Gentlemen of Verona Act 1, Scene 1_Verona. An open place
+1
+Two Gentlemen of Verona Act 1, Scene 2_The same. Garden of JULIA's house
+1
+Two Gentlemen of Verona Act 2, Scene 2_Verona. JULIA'S house
+1
+Two Gentlemen of Verona Act 2, Scene 6_The same. The DUKE'S palace
+1
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+1
+Two Gentlemen of Verona Act 4, Scene 3_The same
+1
+Two Gentlemen of Verona Act 4, Scene 4_The same
+1
+Two Gentlemen of Verona Act 5, Scene 4_Another part of the forest
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+2
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+1
+Winter's Tale Act 3, Scene 3_Bohemia. A desert country near the sea
+2
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+Winter's Tale Act 5, Scene 2_Before LEONTES' palace
+1
+Winter's Tale Act 5, Scene 3_A chapel in PAULINA'S house
+1
+keepa
+1
+King John Act 2, Scene 1_France. Before Angiers
+1
+keepaccord
+1
+Twelfth Night Act 4, Scene 3_OLIVIA's garden
+1
+keepan
+1
+Troilus and Cressida Act 5, Scene 1_The Grecian camp. Before Achilles' tent
+1
+keepat
+1
+King Lear Act 1, Scene 4_A hall in the same
+1
+keepdecorum
+1
+Antony and Cleopatra Act 1, Scene 2_The same. Another room
+1
+keepdown
+1
+Measure for Measure Act 3, Scene 2_The street before the prison
+1
+keeper
+25
+Coriolanus Act 1, Scene 3_Rome. A room in Marcius' house
+1
+Cymbeline Act 4, Scene 2_Before the cave of Belarius
+1
+Henry IV, part 2 Act 1, Scene 1_The same
+1
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+1
+Henry VI, part 1 Act 2, Scene 5_The Tower of London
+3
+Henry VI, part 3 Act 2, Scene 1_A plain near Mortimer's Cross in Herefordshire
+1
+Henry VI, part 3 Act 3, Scene 1_A forest in the north of England
+1
+King John Act 3, Scene 3_The same
+1
+King Lear Act 4, Scene 6_Fields near Dover
+1
+Love's Labours Lost Act 1, Scene 1_The king of Navarre's park
+1
+Love's Labours Lost Act 4, Scene 2_The same
+1
+Pericles, Prince of Tyre Act 4, Scene 6_The same. A room in the brothel
+1
+Richard II Act 2, Scene 2_The palace
+1
+Richard III Act 1, Scene 4_London. The Tower
+2
+Romeo and Juliet Act 1, Scene 4_A street
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+1
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+1
+Taming of the Shrew Act 5, Scene 2_Padua. LUCENTIO'S house
+1
+The Tempest Act 3, Scene 3_Another part of the island
+1
+Timon of Athens Act 1, Scene 2_A banqueting-room in Timon's house
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+1
+Timon of Athens Act 5, Scene 1_The woods. Before Timon's cave
+1
+Titus Andronicus Act 2, Scene 1_Rome. Before the Palace
+1
+Winter's Tale Act 2, Scene 2_A prison
+1
+keepest
+3
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+1
+Othello Act 4, Scene 2_A room in the castle
+1
+keepinghous
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+1
+keepkniv
+1
+Henry V Act 2, Scene 1_London. A street
+1
+keepmi
+2
+Love's Labours Lost Act 4, Scene 3_The same
+1
+Macbeth Act 2, Scene 1_Court of Macbeth's castle
+1
+keepnight
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+1
+keepsand
+1
+Henry VI, part 1 Act 3, Scene 1_London. The Parliament-house
+1
+keepseem
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+keepsour
+1
+King Lear Act 1, Scene 2_The Earl of Gloucester's castle
+1
+keepsthe
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+1
+keepsyou
+1
+Measure for Measure Act 3, Scene 1_A room in the prison
+1
+keepth
+3
+Antony and Cleopatra Act 4, Scene 14_The same. Another room
+1
+Cymbeline Act 1, Scene 3_A room in Cymbeline's palace
+1
+Titus Andronicus Act 2, Scene 1_Rome. Before the Palace
+1
+keepthan
+1
+Henry VI, part 3 Act 2, Scene 2_Before York
+1
+keepthat
+1
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+1
+keepthi
+1
+Richard II Act 3, Scene 4_LANGLEY. The DUKE OF YORK's garden
+1
+ken
+4
+Cymbeline Act 3, Scene 6_Wales. Before the cave of Belarius
+1
+Henry IV, part 2 Act 4, Scene 1_Yorkshire. Gaultree Forest
+1
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+2
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+1
+kendal
+1
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+kendalgreen
+1
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+kennel
+6
+Henry VI, part 1 Act 4, Scene 2_Before Bourdeaux
+1
+Henry VI, part 2 Act 4, Scene 1_The coast of Kent
+1
+King Lear Act 1, Scene 4_A hall in the same
+1
+Measure for Measure Act 3, Scene 2_The street before the prison
+1
+Richard III Act 4, Scene 4_Before the palace
+1
+Taming of the Shrew Act 4, Scene 3_A room in PETRUCHIO'S house
+1
+kent
+19
+Henry IV, part 1 Act 2, Scene 1_Rochester. An inn yard
+1
+Henry VI, part 2 Act 4, Scene 10_Kent. IDEN's garden
+1
+Henry VI, part 2 Act 4, Scene 1_The coast of Kent
+1
+Henry VI, part 2 Act 4, Scene 2_Blackheath
+1
+Henry VI, part 2 Act 4, Scene 7_London. Smithfield
+3
+Henry VI, part 2 Act 5, Scene 1_Fields between Dartford and Blackheath
+1
+Henry VI, part 3 Act 1, Scene 1_London. The Parliament-house
+1
+Henry VI, part 3 Act 4, Scene 8_London. The palace
+1
+King John Act 4, Scene 2_KING JOHN'S palace
+1
+King John Act 5, Scene 1_KING JOHN'S palace
+1
+King Lear Act 1, Scene 1_King Lear's palace
+6
+King Lear Act 1, Scene 2_The Earl of Gloucester's castle
+2
+King Lear Act 1, Scene 4_A hall in the same
+2
+King Lear Act 3, Scene 4_The heath. Before a hovel
+1
+King Lear Act 4, Scene 3_The French camp near Dover
+1
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+2
+King Lear Act 5, Scene 3_The British camp near Dover
+7
+Richard II Act 5, Scene 6_Windsor castle
+1
+Richard III Act 4, Scene 4_Before the palace
+1
+kentish
+1
+Henry VI, part 2 Act 4, Scene 4_London. The palace
+2
+kentishman
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+1
+kentishmen
+1
+Henry VI, part 3 Act 1, Scene 2_Sandal Castle
+1
+kept
+67
+Antony and Cleopatra Act 2, Scene 2_Rome. The house of LEPIDUS
+1
+Antony and Cleopatra Act 2, Scene 3_The same. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 2, Scene 7_On board POMPEY's galley, off Misenum
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+3
+Coriolanus Act 2, Scene 3_The same. The Forum
+1
+Cymbeline Act 1, Scene 6_The same. Another room in the palace
+1
+Hamlet Act 1, Scene 2_A room of state in the castle
+1
+Hamlet Act 2, Scene 1_A room in POLONIUS' house
+1
+Hamlet Act 4, Scene 1_A room in the castle
+1
+Hamlet Act 5, Scene 1_A churchyard
+1
+Henry IV, part 1 Act 1, Scene 3_London. The palace
+1
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+2
+Henry IV, part 1 Act 4, Scene 1_The rebel camp near Shrewsbury
+1
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+1
+Henry IV, part 2 Act 4, Scene 3_Another part of the forest
+1
+Henry IV, part 2 Act 4, Scene 5_Another chamber
+1
+Henry IV, part 2 Act 5, Scene 5_A public place near Westminster Abbey
+1
+Henry V Act 2, Scene 2_Southampton. A council-chamber
+1
+Henry V Act 4, Scene 1_The English camp at Agincourt
+1
+Henry V Act 4, Scene 6_Another part of the field
+1
+Henry V Act 5, Scene 2_France. A royal palace
+2
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+2
+Henry VI, part 2 Act 1, Scene 4_GLOUCESTER's garden
+1
+Henry VI, part 2 Act 2, Scene 2_London. YORK'S garden
+1
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+1
+Henry VI, part 3 Act 2, Scene 2_Before York
+1
+Henry VI, part 3 Act 2, Scene 6_Another part of the field
+1
+Henry VIII Act 2, Scene 2_An ante-chamber in the palace
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+Henry VIII Act 5, Scene 4_The palace yard
+1
+King John Act 3, Scene 1_The French King's pavilion
+3
+King John Act 4, Scene 1_A room in a castle
+1
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+1
+Measure for Measure Act 2, Scene 1_A hall In ANGELO's house
+1
+Measure for Measure Act 3, Scene 2_The street before the prison
+1
+Much Ado About Nothing Act 4, Scene 1_A church
+1
+Othello Act 3, Scene 4_Before the castle
+1
+Pericles, Prince of Tyre Act 2, Scene 1_Pentapolis. An open place by the sea-side
+3
+Richard II Act 2, Scene 1_Ely House
+1
+Richard II Act 2, Scene 4_A camp in Wales
+1
+Richard II Act 5, Scene 2_The DUKE OF YORK's palace
+1
+Richard II Act 5, Scene 5_Pomfret castle
+1
+Richard III Act 1, Scene 1_London. A street
+1
+Richard III Act 2, Scene 1_London. The palace
+1
+Richard III Act 2, Scene 2_The palace
+1
+Richard III Act 3, Scene 1_London. A street
+1
+Richard III Act 4, Scene 1_Before the Tower
+1
+Richard III Act 5, Scene 3_Bosworth Field
+1
+Romeo and Juliet Act 1, Scene 2_A street
+1
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+1
+Taming of the Shrew Act 4, Scene 3_A room in PETRUCHIO'S house
+1
+The Merchant of Venice Act 3, Scene 3_Venice. A street
+1
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+The Tempest Act 2, Scene 1_Another part of the island
+1
+The Tempest Act 4, Scene 1_Before PROSPERO'S cell
+1
+Timon of Athens Act 1, Scene 1_Athens. A hall in Timon's house
+1
+Timon of Athens Act 3, Scene 2_A public place
+1
+Timon of Athens Act 3, Scene 5_The same. The senate-house. The Senate sitting
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+1
+Titus Andronicus Act 3, Scene 1_Rome. A street
+1
+Troilus and Cressida Act 1, Scene 2_The Same. A street
+1
+Twelfth Night Act 3, Scene 1_OLIVIA's garden
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+1
+Two Gentlemen of Verona Act 1, Scene 2_The same. Garden of JULIA's house
+1
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+4
+Two Gentlemen of Verona Act 5, Scene 4_Another part of the forest
+1
+kepta
+1
+Henry VI, part 1 Act 2, Scene 1_Before Orleans
+1
+kepthi
+1
+Antony and Cleopatra Act 3, Scene 11_Alexandria. CLEOPATRA's palace
+1
+keptthi
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+kerchief
+1
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+1
+kern
+5
+Henry V Act 3, Scene 7_The French camp, near Agincourt
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+3
+Macbeth Act 1, Scene 2_A camp near Forres
+2
+Macbeth Act 5, Scene 7_Another part of the field
+1
+Richard II Act 2, Scene 1_Ely House
+1
+kernel
+4
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+1
+The Tempest Act 2, Scene 1_Another part of the island
+1
+Troilus and Cressida Act 2, Scene 1_A part of the Grecian camp
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+kernsi
+1
+Henry VI, part 2 Act 4, Scene 9_Kenilworth Castle
+1
+kersey
+2
+Love's Labours Lost Act 5, Scene 2_The same
+1
+Measure for Measure Act 1, Scene 2_A Street
+1
+ket
+1
+Henry V Act 4, Scene 8_Before KING HENRY'S pavilion
+1
+kettl
+2
+Hamlet Act 1, Scene 4_The platform
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+1
+key
+31
+A Midsummer Night's Dream Act 1, Scene 1_Athens. The palace of THESEUS
+1
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+Hamlet Act 1, Scene 3_A room in Polonius' house
+1
+Henry IV, part 2 Act 1, Scene 2_London. A street
+1
+Henry V Act 2, Scene 2_Southampton. A council-chamber
+1
+Henry VI, part 1 Act 2, Scene 3_Auvergne. The COUNTESS's castle
+1
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+1
+Henry VI, part 3 Act 4, Scene 7_Before York
+1
+King Lear Act 1, Scene 2_The Earl of Gloucester's castle
+1
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+1
+King Lear Act 3, Scene 7_Gloucester's castle
+1
+Love's Labours Lost Act 3, Scene 1_The same
+1
+Macbeth Act 2, Scene 3_The same
+1
+Macbeth Act 3, Scene 6_Forres. The palace
+1
+Measure for Measure Act 1, Scene 4_A nunnery
+1
+Measure for Measure Act 4, Scene 1_The moated grange at ST. LUKE's
+1
+Measure for Measure Act 5, Scene 1_The city gate
+1
+Much Ado About Nothing Act 1, Scene 1_Before LEONATO'S house
+1
+Much Ado About Nothing Act 5, Scene 1_Before LEONATO'S house
+1
+Othello Act 4, Scene 2_A room in the castle
+2
+Richard II Act 5, Scene 3_A royal palace
+1
+Richard III Act 1, Scene 2_The same. Another street
+1
+Richard III Act 1, Scene 4_London. The Tower
+1
+Romeo and Juliet Act 4, Scene 4_Hall in Capulet's house
+1
+The Merchant of Venice Act 1, Scene 3_Venice. A public place
+1
+The Merchant of Venice Act 2, Scene 5_The same. Before SHYLOCK'S house
+1
+The Merchant of Venice Act 2, Scene 7_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 2, Scene 9_Belmont. A room in PORTIA'S house
+1
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+2
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+keyof
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+keyretort
+1
+Troilus and Cressida Act 1, Scene 3_The Grecian camp. Before Agamemnon's tent
+1
+keysthat
+1
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+1
+keyto
+1
+Cymbeline Act 5, Scene 4_A British prison
+1
+kibe
+3
+Hamlet Act 5, Scene 1_A churchyard
+1
+King Lear Act 1, Scene 5_Court before the same
+1
+The Tempest Act 2, Scene 1_Another part of the island
+1
+kick
+3
+Coriolanus Act 2, Scene 2_The same. The Capitol
+1
+Hamlet Act 3, Scene 3_A room in the castle
+1
+King Lear Act 3, Scene 6_A chamber in a farmhouse adjoining the castle
+1
+kickshaw
+1
+Henry IV, part 2 Act 5, Scene 1_Gloucestershire. SHALLOW'S house
+1
+kickshaws
+1
+Twelfth Night Act 1, Scene 3_OLIVIA'S house
+1
+kid
+1
+Much Ado About Nothing Act 2, Scene 3_LEONATO'S orchard
+1
+kidney
+1
+Henry IV, part 1 Act 2, Scene 2_The highway, near Gadshill
+1
+kildar
+1
+Henry VIII Act 2, Scene 1_Westminster. A street
+1
+kill
+158
+A Midsummer Night's Dream Act 1, Scene 2_Athens. QUINCE'S house
+1
+A Midsummer Night's Dream Act 2, Scene 2_Another part of the wood
+3
+A Midsummer Night's Dream Act 3, Scene 1_The wood. TITANIA lying asleep
+3
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+5
+A Midsummer Night's Dream Act 4, Scene 1_The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA
+1
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+2
+Antony and Cleopatra Act 1, Scene 2_The same. Another room
+1
+Antony and Cleopatra Act 1, Scene 3_The same. Another room
+1
+Antony and Cleopatra Act 2, Scene 5_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 4, Scene 14_The same. Another room
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+1
+Coriolanus Act 1, Scene 1_Rome. A street
+1
+Coriolanus Act 3, Scene 1_Rome. A street
+1
+Coriolanus Act 4, Scene 6_Rome. A public place
+1
+Coriolanus Act 5, Scene 6_Antium. A public place
+8
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+1
+Cymbeline Act 2, Scene 4_Rome. Philario's house
+2
+Cymbeline Act 3, Scene 1_Britain. A hall in Cymbeline's palace
+1
+Cymbeline Act 3, Scene 4_Country near Milford-Haven
+1
+Cymbeline Act 3, Scene 5_A room in Cymbeline's palace
+2
+Cymbeline Act 3, Scene 6_Wales. Before the cave of Belarius
+2
+Cymbeline Act 4, Scene 2_Before the cave of Belarius
+1
+Cymbeline Act 5, Scene 1_Britain. The Roman camp
+1
+Cymbeline Act 5, Scene 2_Field of battle between the British and Roman camps
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+3
+Hamlet Act 3, Scene 2_A hall in the castle
+5
+Hamlet Act 3, Scene 3_A room in the castle
+1
+Hamlet Act 3, Scene 4_The Queen's closet
+2
+Hamlet Act 4, Scene 1_A room in the castle
+1
+Hamlet Act 4, Scene 4_A plain in Denmark
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+2
+Henry IV, part 1 Act 2, Scene 2_The highway, near Gadshill
+1
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+3
+Henry IV, part 1 Act 5, Scene 3_Plain between the camps
+2
+Henry IV, part 1 Act 5, Scene 4_Another part of the field
+2
+Henry IV, part 2 Act 2, Scene 1_London. A street
+1
+Henry IV, part 2 Act 5, Scene 4_London. A street
+1
+Henry IV, part 2 Act 5, Scene 5_A public place near Westminster Abbey
+1
+Henry V Act 2, Scene 1_London. A street
+1
+Henry V Act 2, Scene 2_Southampton. A council-chamber
+2
+Henry V Act 3, Scene 2_The same
+1
+Henry V Act 3, Scene 5_The same
+1
+Henry V Act 3, Scene 7_The French camp, near Agincourt
+1
+Henry V Act 4, Scene 3_The English camp
+2
+Henry V Act 4, Scene 6_Another part of the field
+1
+Henry V Act 4, Scene 7_Another part of the field
+4
+Henry V Act 4, Scene 8_Before KING HENRY'S pavilion
+1
+Henry VI, part 1 Act 2, Scene 5_The Tower of London
+1
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+1
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+3
+Henry VI, part 2 Act 4, Scene 2_Blackheath
+1
+Henry VI, part 2 Act 4, Scene 3_Another part of Blackheath
+1
+Henry VI, part 2 Act 4, Scene 5_London. The Tower
+1
+Henry VI, part 2 Act 4, Scene 8_Southwark
+1
+Henry VI, part 2 Act 5, Scene 1_Fields between Dartford and Blackheath
+1
+Henry VI, part 2 Act 5, Scene 2_Saint Alban's
+1
+Henry VI, part 3 Act 1, Scene 3_Field of battle betwixt Sandal Castle and Wakefield
+1
+Henry VI, part 3 Act 2, Scene 2_Before York
+2
+Henry VI, part 3 Act 2, Scene 3_A field of battle between Towton and Saxton, in
+1
+Henry VI, part 3 Act 2, Scene 5_Another part of the field
+3
+Henry VIII Act 3, Scene 1_London. QUEEN KATHARINE's apartments
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+2
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+2
+Julius Caesar Act 3, Scene 2_The Forum
+1
+Julius Caesar Act 4, Scene 3_Brutus's tent
+1
+Julius Caesar Act 5, Scene 3_Another part of the field
+2
+Julius Caesar Act 5, Scene 4_Another part of the field
+2
+Julius Caesar Act 5, Scene 5_Another part of the field
+3
+King John Act 3, Scene 4_The same. KING PHILIP'S tent
+1
+King John Act 4, Scene 2_KING JOHN'S palace
+2
+King John Act 4, Scene 3_Before the castle
+2
+King Lear Act 1, Scene 1_King Lear's palace
+1
+King Lear Act 3, Scene 4_The heath. Before a hovel
+1
+King Lear Act 4, Scene 1_The heath
+1
+King Lear Act 4, Scene 6_Fields near Dover
+6
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+1
+King Lear Act 5, Scene 3_The British camp near Dover
+1
+Love's Labours Lost Act 4, Scene 1_The same
+3
+Love's Labours Lost Act 4, Scene 2_The same
+2
+Love's Labours Lost Act 4, Scene 3_The same
+2
+Love's Labours Lost Act 5, Scene 2_The same
+3
+Macbeth Act 1, Scene 3_A heath near Forres
+1
+Macbeth Act 2, Scene 3_The same
+1
+Macbeth Act 2, Scene 4_Outside Macbeth's castle
+1
+Macbeth Act 3, Scene 2_The palace
+1
+Macbeth Act 3, Scene 6_Forres. The palace
+3
+Macbeth Act 4, Scene 2_Fife. Macduff's castle
+1
+Macbeth Act 4, Scene 3_England. Before the King's palace
+1
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+Measure for Measure Act 4, Scene 3_Another room in the same
+1
+Much Ado About Nothing Act 1, Scene 1_Before LEONATO'S house
+2
+Much Ado About Nothing Act 2, Scene 2_The same
+1
+Much Ado About Nothing Act 3, Scene 1_LEONATO'S garden
+1
+Much Ado About Nothing Act 4, Scene 1_A church
+2
+Much Ado About Nothing Act 5, Scene 1_Before LEONATO'S house
+12
+Othello Act 4, Scene 1_Cyprus. Before the castle
+2
+Othello Act 5, Scene 1_Cyprus. A street
+3
+Othello Act 5, Scene 2_A bedchamber in the castle DESDEMONA in bed asleep;
+24
+Pericles, Prince of Tyre Act 1, Scene 1_Antioch. A room in the palace
+1
+Pericles, Prince of Tyre Act 2, Scene 2_The same. A public way or platform leading to the
+1
+Pericles, Prince of Tyre Act 2, Scene 3_The same. A hall of state a banquet prepared
+1
+Pericles, Prince of Tyre Act 4, Scene 1_Tarsus. An open place near the sea-shore
+3
+Pericles, Prince of Tyre Act 4, Scene 3_Tarsus. A room in CLEON's house
+1
+Richard II Act 2, Scene 1_Ely House
+1
+Richard II Act 3, Scene 2_The coast of Wales. A castle in view
+2
+Richard II Act 5, Scene 1_London. A street leading to the Tower
+2
+Richard II Act 5, Scene 2_The DUKE OF YORK's palace
+1
+Richard II Act 5, Scene 3_A royal palace
+1
+Richard III Act 1, Scene 1_London. A street
+1
+Richard III Act 1, Scene 2_The same. Another street
+8
+Richard III Act 1, Scene 3_The palace
+1
+Richard III Act 1, Scene 4_London. The Tower
+3
+Richard III Act 4, Scene 1_Before the Tower
+1
+Richard III Act 4, Scene 2_London. The palace
+3
+Richard III Act 4, Scene 4_Before the palace
+10
+Romeo and Juliet Act 2, Scene 2_Capulet's orchard
+2
+Romeo and Juliet Act 3, Scene 1_A public place
+4
+Romeo and Juliet Act 3, Scene 2_Capulet's orchard
+5
+Romeo and Juliet Act 3, Scene 3_Friar Laurence's cell
+3
+Romeo and Juliet Act 4, Scene 5_Juliet's chamber
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+3
+Taming of the Shrew Act 1, Scene 1_Padua. A public place
+1
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+2
+The Merchant of Venice Act 3, Scene 4_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 4, Scene 1_Venice. A court of justice
+2
+The Tempest Act 2, Scene 2_Another part of the island
+1
+The Tempest Act 3, Scene 2_Another part of the island
+1
+The Tempest Act 5, Scene 1_Before PROSPERO'S cell
+1
+Timon of Athens Act 1, Scene 2_A banqueting-room in Timon's house
+2
+Timon of Athens Act 3, Scene 5_The same. The senate-house. The Senate sitting
+2
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+3
+Timon of Athens Act 5, Scene 1_The woods. Before Timon's cave
+1
+Timon of Athens Act 5, Scene 4_Before the walls of Athens
+1
+Titus Andronicus Act 2, Scene 3_A lonely part of the forest
+3
+Titus Andronicus Act 3, Scene 1_Rome. A street
+4
+Titus Andronicus Act 3, Scene 2_A room in Titus's house. A banquet set out
+6
+Titus Andronicus Act 4, Scene 2_The same. A room in the palace
+1
+Titus Andronicus Act 5, Scene 1_Plains near Rome
+2
+Titus Andronicus Act 5, Scene 2_Rome. Before TITUS's house
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+1
+Troilus and Cressida Act 3, Scene 1_Troy. Priam's palace
+1
+Troilus and Cressida Act 4, Scene 1_Troy. A street
+1
+Troilus and Cressida Act 4, Scene 2_The same. Court of Pandarus' house
+1
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+3
+Twelfth Night Act 1, Scene 1_DUKE ORSINO's palace
+1
+Twelfth Night Act 2, Scene 1_The sea-coast
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+1
+Twelfth Night Act 4, Scene 2_OLIVIA's house
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+1
+Two Gentlemen of Verona Act 1, Scene 2_The same. Garden of JULIA's house
+2
+Two Gentlemen of Verona Act 3, Scene 2_The same. The DUKE's palace
+1
+Two Gentlemen of Verona Act 4, Scene 1_The frontiers of Mantua. A forest
+1
+Two Gentlemen of Verona Act 4, Scene 4_The same
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+Winter's Tale Act 3, Scene 2_A court of Justice
+1
+Winter's Tale Act 4, Scene 3_A road near the Shepherd's cottage
+1
+Winter's Tale Act 5, Scene 1_A room in LEONTES' palace
+3
+Winter's Tale Act 5, Scene 3_A chapel in PAULINA'S house
+2
+killand
+1
+Henry VI, part 2 Act 4, Scene 8_Southwark
+1
+killedani
+1
+Henry V Act 4, Scene 7_Another part of the field
+1
+killen
+1
+Pericles, Prince of Tyre Act 1, Scene 4_Tarsus. A room in the Governor's house
+1
+killer
+2
+Henry VI, part 3 Act 2, Scene 2_Before York
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+1
+killest
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+1
+killeth
+1
+Henry VI, part 1 Act 1, Scene 2_France. Before Orleans
+1
+killingworth
+1
+Henry VI, part 2 Act 4, Scene 4_London. The palace
+2
+killon
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+1
+killsth
+1
+Hamlet Act 4, Scene 1_A room in the castle
+1
+kiln
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+kimbolton
+1
+Henry VIII Act 4, Scene 1_A street in Westminster
+1
+kin
+26
+Coriolanus Act 5, Scene 3_The tent of Coriolanus
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+2
+Hamlet Act 1, Scene 2_A room of state in the castle
+1
+Hamlet Act 4, Scene 2_Another room in the castle
+1
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+3
+Henry V Act 3, Scene 7_The French camp, near Agincourt
+1
+Henry VI, part 3 Act 1, Scene 4_Another part of the field
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+King Lear Act 1, Scene 4_A hall in the same
+1
+Measure for Measure Act 2, Scene 4_A room in ANGELO's house
+1
+Othello Act 4, Scene 2_A room in the castle
+1
+Richard II Act 2, Scene 1_Ely House
+1
+Richard II Act 4, Scene 1_Westminster Hall
+2
+Richard II Act 5, Scene 2_The DUKE OF YORK's palace
+1
+Richard III Act 3, Scene 7_Baynard's Castle
+1
+Romeo and Juliet Act 1, Scene 5_A hall in Capulet's house
+1
+The Merchant of Venice Act 2, Scene 9_Belmont. A room in PORTIA'S house
+1
+Timon of Athens Act 1, Scene 1_Athens. A hall in Timon's house
+1
+Troilus and Cressida Act 1, Scene 1_Troy. Before Priam's palace
+2
+Troilus and Cressida Act 1, Scene 3_The Grecian camp. Before Agamemnon's tent
+1
+Troilus and Cressida Act 3, Scene 3_The Grecian camp. Before Achilles' tent
+1
+Troilus and Cressida Act 4, Scene 2_The same. Court of Pandarus' house
+1
+Twelfth Night Act 1, Scene 5_OLIVIA'S house
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+1
+Winter's Tale Act 3, Scene 1_A sea-port in Sicilia
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+kincri
+1
+Winter's Tale Act 3, Scene 2_A court of Justice
+1
+kind
+213
+A Midsummer Night's Dream Act 1, Scene 1_Athens. The palace of THESEUS
+1
+A Midsummer Night's Dream Act 3, Scene 1_The wood. TITANIA lying asleep
+1
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+A Midsummer Night's Dream Act 4, Scene 1_The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA
+1
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+2
+Antony and Cleopatra Act 1, Scene 4_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 2, Scene 5_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 3, Scene 2_Rome. An ante-chamber in OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 5, Scene 1_Alexandria. OCTAVIUS CAESAR's camp
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+3
+Coriolanus Act 1, Scene 1_Rome. A street
+1
+Coriolanus Act 1, Scene 9_The Roman camp
+1
+Coriolanus Act 2, Scene 2_The same. The Capitol
+1
+Coriolanus Act 2, Scene 3_The same. The Forum
+3
+Coriolanus Act 3, Scene 1_Rome. A street
+1
+Coriolanus Act 3, Scene 3_The same. The Forum
+1
+Coriolanus Act 4, Scene 5_The same. A hall in Aufidius's house
+1
+Coriolanus Act 4, Scene 6_Rome. A public place
+2
+Coriolanus Act 5, Scene 1_Rome. A public place
+2
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+1
+Cymbeline Act 1, Scene 4_Rome. Philario's house
+2
+Cymbeline Act 1, Scene 6_The same. Another room in the palace
+2
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+1
+Cymbeline Act 3, Scene 1_Britain. A hall in Cymbeline's palace
+1
+Cymbeline Act 3, Scene 2_Another room in the palace
+1
+Cymbeline Act 4, Scene 2_Before the cave of Belarius
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Hamlet Act 1, Scene 2_A room of state in the castle
+1
+Hamlet Act 2, Scene 2_A room in the castle
+1
+Hamlet Act 3, Scene 1_A room in the castle
+1
+Hamlet Act 3, Scene 4_The Queen's closet
+2
+Hamlet Act 4, Scene 5_Elsinore. A room in the castle
+2
+Hamlet Act 4, Scene 7_Another room in the castle
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+3
+Henry IV, part 1 Act 1, Scene 3_London. The palace
+2
+Henry IV, part 1 Act 2, Scene 1_Rochester. An inn yard
+1
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+Henry IV, part 1 Act 3, Scene 1_Bangor. The Archdeacon's house
+1
+Henry IV, part 1 Act 4, Scene 1_The rebel camp near Shrewsbury
+2
+Henry IV, part 1 Act 4, Scene 3_The rebel camp near Shrewsbury
+2
+Henry IV, part 1 Act 5, Scene 2_The rebel camp
+1
+Henry IV, part 2 Act 1, Scene 2_London. A street
+3
+Henry IV, part 2 Act 4, Scene 3_Another part of the forest
+1
+Henry IV, part 2 Act 4, Scene 5_Another chamber
+2
+Henry IV, part 2 Act 5, Scene 5_A public place near Westminster Abbey
+1
+Henry V Act 1, Prologue_PROLOGUE
+1
+Henry V Act 2, Prologue_PROLOGUE
+1
+Henry V Act 2, Scene 1_London. A street
+1
+Henry V Act 2, Scene 2_Southampton. A council-chamber
+3
+Henry V Act 3, Prologue_PROLOGUE
+1
+Henry V Act 4, Scene 1_The English camp at Agincourt
+2
+Henry V Act 4, Scene 3_The English camp
+3
+Henry VI, part 1 Act 1, Scene 2_France. Before Orleans
+1
+Henry VI, part 1 Act 2, Scene 2_Orleans. Within the town
+1
+Henry VI, part 1 Act 2, Scene 5_The Tower of London
+3
+Henry VI, part 1 Act 3, Scene 1_London. The Parliament-house
+3
+Henry VI, part 1 Act 3, Scene 3_The plains near Rouen
+1
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+1
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+1
+Henry VI, part 2 Act 2, Scene 4_A street
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+1
+Henry VI, part 2 Act 5, Scene 1_Fields between Dartford and Blackheath
+1
+Henry VI, part 3 Act 2, Scene 1_A plain near Mortimer's Cross in Herefordshire
+1
+Henry VI, part 3 Act 3, Scene 3_France. KING LEWIS XI's palace
+2
+Henry VI, part 3 Act 4, Scene 6_London. The Tower
+1
+Henry VI, part 3 Act 4, Scene 7_Before York
+1
+Henry VIII Act 1, Scene 1_London. An ante-chamber in the palace
+1
+Henry VIII Act 1, Scene 2_The same. The council-chamber
+1
+Henry VIII Act 2, Scene 3_An ante-chamber of the QUEEN'S apartments
+1
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+Julius Caesar Act 1, Scene 3_The same. A street
+1
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+1
+Julius Caesar Act 3, Scene 1_Rome. Before the Capitol; the Senate sitting above
+1
+Julius Caesar Act 3, Scene 2_The Forum
+1
+Julius Caesar Act 5, Scene 4_Another part of the field
+1
+King John Act 2, Scene 1_France. Before Angiers
+1
+King John Act 3, Scene 1_The French King's pavilion
+1
+King John Act 4, Scene 3_Before the castle
+1
+King John Act 5, Scene 1_KING JOHN'S palace
+1
+King John Act 5, Scene 7_The orchard in Swinstead Abbey
+1
+King Lear Act 1, Scene 1_King Lear's palace
+1
+King Lear Act 1, Scene 4_A hall in the same
+2
+King Lear Act 1, Scene 5_Court before the same
+2
+King Lear Act 2, Scene 2_Before Gloucester's castle
+1
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+1
+King Lear Act 3, Scene 1_A heath
+1
+King Lear Act 3, Scene 4_The heath. Before a hovel
+1
+King Lear Act 3, Scene 6_A chamber in a farmhouse adjoining the castle
+1
+King Lear Act 3, Scene 7_Gloucester's castle
+2
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+2
+King Lear Act 5, Scene 3_The British camp near Dover
+1
+Love's Labours Lost Act 4, Scene 2_The same
+1
+Macbeth Act 1, Scene 3_A heath near Forres
+2
+Macbeth Act 2, Scene 1_Court of Macbeth's castle
+2
+Macbeth Act 3, Scene 4_The same. Hall in the palace
+1
+Macbeth Act 4, Scene 1_A cavern. In the middle, a boiling cauldron
+1
+Measure for Measure Act 1, Scene 1_An apartment in the DUKE'S palace
+1
+Measure for Measure Act 1, Scene 2_A Street
+1
+Measure for Measure Act 1, Scene 4_A nunnery
+1
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+Measure for Measure Act 2, Scene 3_A room in a prison
+1
+Measure for Measure Act 3, Scene 1_A room in the prison
+1
+Measure for Measure Act 3, Scene 2_The street before the prison
+2
+Measure for Measure Act 4, Scene 2_A room in the prison
+1
+Measure for Measure Act 4, Scene 3_Another room in the same
+1
+Measure for Measure Act 5, Scene 1_The city gate
+2
+Much Ado About Nothing Act 1, Scene 1_Before LEONATO'S house
+2
+Much Ado About Nothing Act 2, Scene 1_A hall in LEONATO'S house
+1
+Much Ado About Nothing Act 2, Scene 2_The same
+1
+Much Ado About Nothing Act 3, Scene 1_LEONATO'S garden
+1
+Much Ado About Nothing Act 4, Scene 1_A church
+3
+Much Ado About Nothing Act 5, Scene 1_Before LEONATO'S house
+1
+Othello Act 1, Scene 3_A council-chamber
+1
+Othello Act 2, Scene 3_A hall in the castle
+2
+Othello Act 3, Scene 1_Before the castle
+1
+Othello Act 3, Scene 3_The garden of the castle
+2
+Othello Act 4, Scene 2_A room in the castle
+1
+Othello Act 4, Scene 3_Another room In the castle
+1
+Othello Act 5, Scene 1_Cyprus. A street
+1
+Othello Act 5, Scene 2_A bedchamber in the castle DESDEMONA in bed asleep;
+1
+Pericles, Prince of Tyre Act 1, Scene 1_Antioch. A room in the palace
+1
+Pericles, Prince of Tyre Act 2, Scene 1_Pentapolis. An open place by the sea-side
+1
+Pericles, Prince of Tyre Act 3, Scene 4_Ephesus. A room in CERIMON's house
+1
+Pericles, Prince of Tyre Act 4, Scene 6_The same. A room in the brothel
+2
+Pericles, Prince of Tyre Act 5, Scene 1_On board PERICLES' ship, off Mytilene. A close
+3
+Richard II Act 2, Scene 3_Wilds in Gloucestershire
+1
+Richard II Act 3, Scene 1_Bristol. Before the castle
+1
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+1
+Richard II Act 4, Scene 1_Westminster Hall
+2
+Richard II Act 5, Scene 5_Pomfret castle
+1
+Richard II Act 5, Scene 6_Windsor castle
+1
+Richard III Act 1, Scene 4_London. The Tower
+1
+Richard III Act 2, Scene 2_The palace
+2
+Richard III Act 3, Scene 1_London. A street
+1
+Richard III Act 3, Scene 2_Before Lord Hastings' house
+1
+Richard III Act 3, Scene 7_Baynard's Castle
+2
+Richard III Act 4, Scene 1_Before the Tower
+2
+Richard III Act 4, Scene 2_London. The palace
+1
+Richard III Act 4, Scene 3_The same
+2
+Richard III Act 4, Scene 4_Before the palace
+4
+Richard III Act 5, Scene 3_Bosworth Field
+1
+Romeo and Juliet Act 2, Scene 1_A lane by the wall of Capulet's orchard
+1
+Romeo and Juliet Act 2, Scene 4_A street
+1
+Romeo and Juliet Act 2, Scene 5_Capulet's orchard
+1
+Romeo and Juliet Act 3, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 4, Scene 1_Friar Laurence's cell
+1
+Taming of the Shrew Act 1, Scene 1_Padua. A public place
+2
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+3
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+1
+Taming of the Shrew Act 4, Scene 2_Padua. Before BAPTISTA'S house
+1
+Taming of the Shrew Act 4, Scene 3_A room in PETRUCHIO'S house
+1
+Taming of the Shrew Act 5, Scene 2_Padua. LUCENTIO'S house
+4
+Taming of the Shrew Induction, Scene 1_Before an alehouse on a heath
+3
+Taming of the Shrew Induction, Scene 2_A bedchamber in the Lord's house
+1
+The Merchant of Venice Act 1, Scene 3_Venice. A public place
+6
+The Merchant of Venice Act 2, Scene 2_Venice. A street
+3
+The Merchant of Venice Act 2, Scene 5_The same. Before SHYLOCK'S house
+1
+The Merchant of Venice Act 3, Scene 5_The same. A garden
+2
+The Merchant of Venice Act 4, Scene 1_Venice. A court of justice
+1
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+2
+The Tempest Act 2, Scene 1_Another part of the island
+3
+The Tempest Act 2, Scene 2_Another part of the island
+1
+The Tempest Act 3, Scene 1_Before PROSPERO'S Cell
+2
+The Tempest Act 3, Scene 3_Another part of the island
+3
+The Tempest Act 5, Scene 1_Before PROSPERO'S cell
+1
+Timon of Athens Act 1, Scene 1_Athens. A hall in Timon's house
+2
+Timon of Athens Act 1, Scene 2_A banqueting-room in Timon's house
+5
+Timon of Athens Act 2, Scene 2_The same. A hall in Timon's house
+3
+Timon of Athens Act 3, Scene 2_A public place
+3
+Timon of Athens Act 3, Scene 4_The same. A hall in Timon's house
+1
+Timon of Athens Act 4, Scene 2_Athens. A room in Timon's house
+2
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+2
+Timon of Athens Act 5, Scene 1_The woods. Before Timon's cave
+2
+Titus Andronicus Act 1, Scene 1_Rome. Before the Capitol
+2
+Titus Andronicus Act 2, Scene 1_Rome. Before the Palace
+1
+Titus Andronicus Act 2, Scene 3_A lonely part of the forest
+2
+Titus Andronicus Act 4, Scene 3_The same. A public place
+1
+Titus Andronicus Act 5, Scene 2_Rome. Before TITUS's house
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+3
+Troilus and Cressida Act 1, Scene 3_The Grecian camp. Before Agamemnon's tent
+1
+Troilus and Cressida Act 3, Scene 1_Troy. Priam's palace
+1
+Troilus and Cressida Act 3, Scene 2_The same. Pandarus' orchard
+1
+Troilus and Cressida Act 4, Scene 4_The same. Pandarus' house
+2
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+1
+Troilus and Cressida Act 5, Scene 4_Plains between Troy and the Grecian camp
+1
+Twelfth Night Act 1, Scene 2_The sea-coast
+1
+Twelfth Night Act 1, Scene 5_OLIVIA'S house
+2
+Twelfth Night Act 2, Scene 1_The sea-coast
+1
+Twelfth Night Act 2, Scene 3_OLIVIA's house
+1
+Twelfth Night Act 2, Scene 4_DUKE ORSINO's palace
+1
+Twelfth Night Act 2, Scene 5_OLIVIA's garden
+1
+Twelfth Night Act 3, Scene 1_OLIVIA's garden
+1
+Twelfth Night Act 3, Scene 3_A street
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+4
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+1
+Two Gentlemen of Verona Act 1, Scene 2_The same. Garden of JULIA's house
+1
+Two Gentlemen of Verona Act 2, Scene 3_The same. A street
+1
+Two Gentlemen of Verona Act 2, Scene 4_Milan. The DUKE's palace
+2
+Two Gentlemen of Verona Act 2, Scene 7_Verona. JULIA'S house
+1
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+1
+Two Gentlemen of Verona Act 3, Scene 2_The same. The DUKE's palace
+1
+Two Gentlemen of Verona Act 4, Scene 1_The frontiers of Mantua. A forest
+1
+Two Gentlemen of Verona Act 4, Scene 2_Milan. Outside the DUKE's palace, under SILVIA's chamber
+2
+Two Gentlemen of Verona Act 4, Scene 3_The same
+1
+Two Gentlemen of Verona Act 4, Scene 4_The same
+1
+Winter's Tale Act 1, Scene 1_Antechamber in LEONTES' palace
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+Winter's Tale Act 3, Scene 2_A court of Justice
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+2
+Winter's Tale Act 5, Scene 1_A room in LEONTES' palace
+2
+kindbi
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+kindcherish
+1
+Richard II Act 2, Scene 3_Wilds in Gloucestershire
+1
+kinder
+6
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+1
+Coriolanus Act 2, Scene 2_The same. The Capitol
+1
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+1
+King Lear Act 4, Scene 6_Fields near Dover
+1
+The Merchant of Venice Act 2, Scene 8_Venice. A street
+1
+Timon of Athens Act 4, Scene 1_Without the walls of Athens
+1
+kindest
+3
+Coriolanus Act 2, Scene 2_The same. The Capitol
+1
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+1
+The Merchant of Venice Act 3, Scene 2_Belmont. A room in PORTIA'S house
+1
+kindfor
+2
+Hamlet Act 3, Scene 2_A hall in the castle
+1
+King Lear Act 4, Scene 6_Fields near Dover
+1
+kindhi
+1
+Troilus and Cressida Act 2, Scene 3_The Grecian camp. Before Achilles' tent
+1
+kindl
+15
+Antony and Cleopatra Act 5, Scene 1_Alexandria. OCTAVIUS CAESAR's camp
+1
+Coriolanus Act 2, Scene 1_Rome. A public place
+1
+Coriolanus Act 3, Scene 1_Rome. A street
+1
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+1
+Henry VI, part 3 Act 2, Scene 1_A plain near Mortimer's Cross in Herefordshire
+1
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+1
+Henry VIII Act 5, Scene 4_The palace yard
+1
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+King John Act 2, Scene 1_France. Before Angiers
+1
+King John Act 5, Scene 2_LEWIS's camp at St. Edmundsbury
+1
+King Lear Act 1, Scene 1_King Lear's palace
+1
+Pericles, Prince of Tyre Act 3, Scene 2_Ephesus. A room in CERIMON's house
+1
+Richard II Act 1, Scene 1_London. KING RICHARD II's palace
+1
+Two Gentlemen of Verona Act 2, Scene 7_Verona. JULIA'S house
+1
+kindless
+1
+Hamlet Act 2, Scene 2_A room in the castle
+1
+kindlier
+1
+The Tempest Act 5, Scene 1_Before PROSPERO'S cell
+1
+kindmast
+1
+Henry IV, part 2 Act 5, Scene 1_Gloucestershire. SHALLOW'S house
+1
+kindmor
+1
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+1
+kindnessbecom
+1
+Pericles, Prince of Tyre Act 4, Scene 3_Tarsus. A room in CLEON's house
+1
+kindnessesthat
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+1
+kindnesslast
+1
+Richard III Act 4, Scene 4_Before the palace
+1
+kindnessmak
+1
+Pericles, Prince of Tyre Act 5, Scene 3_The temple of Diana at Ephesus; THAISA standing
+1
+kindnessperform
+1
+Pericles, Prince of Tyre Act 4, Scene 3_Tarsus. A room in CLEON's house
+1
+kindnessto
+1
+Macbeth Act 1, Scene 5_Inverness. Macbeth's castle
+1
+kindnessw
+1
+Pericles, Prince of Tyre Act 5, Scene 1_On board PERICLES' ship, off Mytilene. A close
+1
+kindof
+3
+Richard III Act 1, Scene 4_London. The Tower
+1
+The Tempest Act 3, Scene 3_Another part of the island
+1
+Timon of Athens Act 5, Scene 1_The woods. Before Timon's cave
+1
+kindour
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+kindr
+28
+A Midsummer Night's Dream Act 3, Scene 1_The wood. TITANIA lying asleep
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Henry IV, part 1 Act 1, Scene 1_London. The palace
+1
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+1
+Henry V Act 2, Scene 4_France. The KING'S palace
+1
+Henry VIII Act 3, Scene 1_London. QUEEN KATHARINE's apartments
+1
+King John Act 3, Scene 4_The same. KING PHILIP'S tent
+1
+Measure for Measure Act 3, Scene 2_The street before the prison
+1
+Much Ado About Nothing Act 2, Scene 1_A hall in LEONATO'S house
+1
+Othello Act 1, Scene 1_Venice. A street
+1
+Richard II Act 1, Scene 1_London. KING RICHARD II's palace
+1
+Richard II Act 1, Scene 3_The lists at Coventry
+1
+Richard II Act 2, Scene 1_Ely House
+1
+Richard II Act 2, Scene 2_The palace
+1
+Richard III Act 1, Scene 1_London. A street
+2
+Richard III Act 1, Scene 3_The palace
+1
+Richard III Act 2, Scene 1_London. The palace
+1
+Richard III Act 2, Scene 2_The palace
+2
+Richard III Act 3, Scene 2_Before Lord Hastings' house
+1
+Richard III Act 4, Scene 4_Before the palace
+1
+Romeo and Juliet Act 4, Scene 1_Friar Laurence's cell
+1
+Romeo and Juliet Act 5, Scene 1_Mantua. A street
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+1
+Taming of the Shrew Act 3, Scene 2_Padua. Before BAPTISTA'S house
+1
+Taming of the Shrew Induction, Scene 2_A bedchamber in the Lord's house
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+1
+Troilus and Cressida Act 3, Scene 2_The same. Pandarus' orchard
+1
+Winter's Tale Act 5, Scene 2_Before LEONTES' palace
+1
+kindthan
+1
+The Merchant of Venice Act 4, Scene 1_Venice. A court of justice
+1
+kindthat
+1
+Othello Act 3, Scene 4_Before the castle
+1
+kindw
+1
+Romeo and Juliet Act 2, Scene 3_Friar Laurence's cell
+1
+kine
+1
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+1
+kinear
+1
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+king
+317
+A Midsummer Night's Dream Act 2, Scene 1_A wood near Athens
+2
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+A Midsummer Night's Dream Act 4, Scene 1_The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA
+1
+Antony and Cleopatra Act 1, Scene 2_The same. Another room
+1
+Antony and Cleopatra Act 2, Scene 2_Rome. The house of LEPIDUS
+1
+Antony and Cleopatra Act 3, Scene 10_Another part of the plain
+1
+Antony and Cleopatra Act 3, Scene 12_Egypt. OCTAVIUS CAESAR's camp
+1
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+2
+Antony and Cleopatra Act 3, Scene 1_A plain in Syria
+1
+Antony and Cleopatra Act 3, Scene 6_Rome. OCTAVIUS CAESAR's house
+8
+Antony and Cleopatra Act 4, Scene 2_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 4, Scene 5_Alexandria. MARK ANTONY's camp
+1
+Antony and Cleopatra Act 4, Scene 8_Under the walls of Alexandria
+1
+Antony and Cleopatra Act 5, Scene 1_Alexandria. OCTAVIUS CAESAR's camp
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+1
+Coriolanus Act 1, Scene 1_Rome. A street
+1
+Coriolanus Act 1, Scene 3_Rome. A room in Marcius' house
+1
+Coriolanus Act 2, Scene 3_The same. The Forum
+1
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+9
+Cymbeline Act 1, Scene 4_Rome. Philario's house
+1
+Cymbeline Act 1, Scene 5_Britain. A room in Cymbeline's palace
+1
+Cymbeline Act 1, Scene 6_The same. Another room in the palace
+2
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+3
+Cymbeline Act 2, Scene 4_Rome. Philario's house
+1
+Cymbeline Act 3, Scene 1_Britain. A hall in Cymbeline's palace
+3
+Cymbeline Act 3, Scene 3_Wales a mountainous country with a cave
+2
+Cymbeline Act 3, Scene 4_Country near Milford-Haven
+2
+Cymbeline Act 3, Scene 5_A room in Cymbeline's palace
+2
+Cymbeline Act 3, Scene 6_Wales. Before the cave of Belarius
+1
+Cymbeline Act 4, Scene 3_A room in Cymbeline's palace
+1
+Cymbeline Act 4, Scene 4_Wales before the cave of Belarius
+1
+Cymbeline Act 5, Scene 3_Another part of the field
+2
+Cymbeline Act 5, Scene 4_A British prison
+2
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+5
+Hamlet Act 1, Scene 1_Elsinore. A platform before the castle
+6
+Hamlet Act 1, Scene 2_A room of state in the castle
+6
+Hamlet Act 1, Scene 4_The platform
+2
+Hamlet Act 2, Scene 1_A room in POLONIUS' house
+2
+Hamlet Act 2, Scene 2_A room in the castle
+8
+Hamlet Act 3, Scene 2_A hall in the castle
+7
+Hamlet Act 3, Scene 3_A room in the castle
+1
+Hamlet Act 3, Scene 4_The Queen's closet
+6
+Hamlet Act 4, Scene 2_Another room in the castle
+6
+Hamlet Act 4, Scene 3_Another room in the castle
+2
+Hamlet Act 4, Scene 4_A plain in Denmark
+1
+Hamlet Act 4, Scene 5_Elsinore. A room in the castle
+6
+Hamlet Act 4, Scene 6_Another room in the castle
+1
+Hamlet Act 4, Scene 7_Another room in the castle
+1
+Hamlet Act 5, Scene 1_A churchyard
+3
+Hamlet Act 5, Scene 2_A hall in the castle
+12
+Henry IV, part 1 Act 1, Scene 2_London. An apartment of the Prince's
+6
+Henry IV, part 1 Act 1, Scene 3_London. The palace
+9
+Henry IV, part 1 Act 2, Scene 2_The highway, near Gadshill
+4
+Henry IV, part 1 Act 2, Scene 3_Warkworth castle
+2
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+4
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+3
+Henry IV, part 1 Act 4, Scene 1_The rebel camp near Shrewsbury
+4
+Henry IV, part 1 Act 4, Scene 2_A public road near Coventry
+3
+Henry IV, part 1 Act 4, Scene 3_The rebel camp near Shrewsbury
+8
+Henry IV, part 1 Act 4, Scene 4_York. The ARCHBISHOP'S palace
+3
+Henry IV, part 1 Act 5, Scene 1_KING HENRY IV's camp near Shrewsbury
+1
+Henry IV, part 1 Act 5, Scene 2_The rebel camp
+9
+Henry IV, part 1 Act 5, Scene 3_Plain between the camps
+8
+Henry IV, part 1 Act 5, Scene 4_Another part of the field
+5
+Henry IV, part 2 Act 1, Scene 1_The same
+4
+Henry IV, part 2 Act 1, Scene 2_London. A street
+1
+Henry IV, part 2 Act 1, Scene 3_York. The Archbishop's palace
+4
+Henry IV, part 2 Act 2, Scene 1_London. A street
+4
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+4
+Henry IV, part 2 Act 2, Scene 3_Warkworth. Before the castle
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+3
+Henry IV, part 2 Act 3, Scene 1_Westminster. The palace
+2
+Henry IV, part 2 Act 3, Scene 2_Gloucestershire. Before SHALLOW'S house
+2
+Henry IV, part 2 Act 4, Scene 1_Yorkshire. Gaultree Forest
+11
+Henry IV, part 2 Act 4, Scene 2_Another part of the forest
+1
+Henry IV, part 2 Act 4, Scene 3_Another part of the forest
+1
+Henry IV, part 2 Act 4, Scene 4_Westminster. The Jerusalem Chamber
+1
+Henry IV, part 2 Act 4, Scene 5_Another chamber
+5
+Henry IV, part 2 Act 5, Scene 2_Westminster. The palace
+5
+Henry IV, part 2 Act 5, Scene 3_Gloucestershire. SHALLOW'S orchard
+8
+Henry IV, part 2 Act 5, Scene 5_A public place near Westminster Abbey
+6
+Henry IV, part 2 Induction_Induction
+2
+Henry V Act 1, Prologue_PROLOGUE
+1
+Henry V Act 1, Scene 1_London. An ante-chamber in the KING'S palace
+6
+Henry V Act 1, Scene 2_The same. The Presence chamber
+17
+Henry V Act 2, Prologue_PROLOGUE
+4
+Henry V Act 2, Scene 1_London. A street
+4
+Henry V Act 2, Scene 2_Southampton. A council-chamber
+4
+Henry V Act 2, Scene 3_London. Before a tavern
+1
+Henry V Act 2, Scene 4_France. The KING'S palace
+5
+Henry V Act 3, Prologue_PROLOGUE
+2
+Henry V Act 3, Scene 3_The same. Before the gates
+1
+Henry V Act 3, Scene 6_The English camp in Picardy
+4
+Henry V Act 3, Scene 7_The French camp, near Agincourt
+1
+Henry V Act 4, Scene 1_The English camp at Agincourt
+28
+Henry V Act 4, Scene 3_The English camp
+5
+Henry V Act 4, Scene 5_Another part of the field
+1
+Henry V Act 4, Scene 7_Another part of the field
+7
+Henry V Act 4, Scene 8_Before KING HENRY'S pavilion
+2
+Henry V Act 5, Prologue_PROLOGUE
+1
+Henry V Act 5, Scene 2_France. A royal palace
+11
+Henry VI, part 1 Act 1, Scene 1_Westminster Abbey
+12
+Henry VI, part 1 Act 1, Scene 3_London. Before the Tower
+5
+Henry VI, part 1 Act 1, Scene 6_The same
+1
+Henry VI, part 1 Act 2, Scene 4_London. The Temple-garden
+2
+Henry VI, part 1 Act 2, Scene 5_The Tower of London
+4
+Henry VI, part 1 Act 3, Scene 1_London. The Parliament-house
+7
+Henry VI, part 1 Act 3, Scene 2_France. Before Rouen
+2
+Henry VI, part 1 Act 4, Scene 1_Paris. A hall of state
+7
+Henry VI, part 1 Act 4, Scene 2_Before Bourdeaux
+1
+Henry VI, part 1 Act 5, Scene 3_Before Angiers
+14
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+5
+Henry VI, part 1 Act 5, Scene 5_London. The palace
+9
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+14
+Henry VI, part 2 Act 1, Scene 2_GLOUCESTER'S house
+4
+Henry VI, part 2 Act 1, Scene 3_The palace
+12
+Henry VI, part 2 Act 1, Scene 4_GLOUCESTER's garden
+4
+Henry VI, part 2 Act 2, Scene 1_Saint Alban's
+5
+Henry VI, part 2 Act 2, Scene 2_London. YORK'S garden
+7
+Henry VI, part 2 Act 2, Scene 3_A hall of justice
+6
+Henry VI, part 2 Act 2, Scene 4_A street
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+7
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+11
+Henry VI, part 2 Act 4, Scene 10_Kent. IDEN's garden
+2
+Henry VI, part 2 Act 4, Scene 1_The coast of Kent
+5
+Henry VI, part 2 Act 4, Scene 2_Blackheath
+11
+Henry VI, part 2 Act 4, Scene 5_London. The Tower
+1
+Henry VI, part 2 Act 4, Scene 7_London. Smithfield
+3
+Henry VI, part 2 Act 4, Scene 8_Southwark
+5
+Henry VI, part 2 Act 4, Scene 9_Kenilworth Castle
+4
+Henry VI, part 2 Act 5, Scene 1_Fields between Dartford and Blackheath
+17
+Henry VI, part 2 Act 5, Scene 3_Fields near St. Alban's
+1
+Henry VI, part 3 Act 1, Scene 1_London. The Parliament-house
+26
+Henry VI, part 3 Act 1, Scene 2_Sandal Castle
+4
+Henry VI, part 3 Act 1, Scene 4_Another part of the field
+6
+Henry VI, part 3 Act 2, Scene 1_A plain near Mortimer's Cross in Herefordshire
+8
+Henry VI, part 3 Act 2, Scene 2_Before York
+13
+Henry VI, part 3 Act 2, Scene 3_A field of battle between Towton and Saxton, in
+1
+Henry VI, part 3 Act 2, Scene 5_Another part of the field
+5
+Henry VI, part 3 Act 2, Scene 6_Another part of the field
+4
+Henry VI, part 3 Act 3, Scene 1_A forest in the north of England
+24
+Henry VI, part 3 Act 3, Scene 2_London. The palace
+4
+Henry VI, part 3 Act 3, Scene 3_France. KING LEWIS XI's palace
+26
+Henry VI, part 3 Act 4, Scene 1_London. The palace
+8
+Henry VI, part 3 Act 4, Scene 3_Edward's camp, near Warwick
+9
+Henry VI, part 3 Act 4, Scene 4_London. The palace
+2
+Henry VI, part 3 Act 4, Scene 5_A park near Middleham Castle In Yorkshire
+1
+Henry VI, part 3 Act 4, Scene 7_Before York
+7
+Henry VI, part 3 Act 4, Scene 8_London. The palace
+1
+Henry VIII Act 1, Scene 1_London. An ante-chamber in the palace
+12
+Henry VIII Act 1, Scene 2_The same. The council-chamber
+5
+Henry VIII Act 2, Scene 1_Westminster. A street
+7
+Henry VIII Act 2, Scene 2_An ante-chamber in the palace
+14
+Henry VIII Act 2, Scene 3_An ante-chamber of the QUEEN'S apartments
+4
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+9
+Henry VIII Act 3, Scene 1_London. QUEEN KATHARINE's apartments
+7
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+44
+Henry VIII Act 4, Scene 1_A street in Westminster
+6
+Henry VIII Act 4, Scene 2_Kimbolton
+4
+Henry VIII Act 5, Scene 1_London. A gallery in the palace
+4
+Henry VIII Act 5, Scene 2_Before the council-chamber. Pursuivants, Pages,  & c
+1
+Henry VIII Act 5, Scene 3_The Council-Chamber
+6
+Henry VIII Act 5, Scene 4_The palace yard
+1
+Julius Caesar Act 1, Scene 2_A public place
+2
+Julius Caesar Act 1, Scene 3_The same. A street
+1
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+1
+Julius Caesar Act 3, Scene 2_The Forum
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+4
+King John Act 2, Scene 1_France. Before Angiers
+34
+King John Act 3, Scene 1_The French King's pavilion
+14
+King John Act 3, Scene 4_The same. KING PHILIP'S tent
+4
+King John Act 4, Scene 2_KING JOHN'S palace
+3
+King John Act 4, Scene 3_Before the castle
+6
+King John Act 5, Scene 1_KING JOHN'S palace
+1
+King John Act 5, Scene 2_LEWIS's camp at St. Edmundsbury
+3
+King John Act 5, Scene 4_Another part of the field
+5
+King John Act 5, Scene 6_An open place in the neighbourhood of Swinstead Abbey
+3
+King John Act 5, Scene 7_The orchard in Swinstead Abbey
+2
+King Lear Act 1, Scene 1_King Lear's palace
+8
+King Lear Act 1, Scene 2_The Earl of Gloucester's castle
+2
+King Lear Act 1, Scene 4_A hall in the same
+2
+King Lear Act 2, Scene 2_Before Gloucester's castle
+7
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+3
+King Lear Act 3, Scene 1_A heath
+5
+King Lear Act 3, Scene 3_Gloucester's castle
+3
+King Lear Act 3, Scene 4_The heath. Before a hovel
+1
+King Lear Act 3, Scene 5_Gloucester's castle
+1
+King Lear Act 3, Scene 6_A chamber in a farmhouse adjoining the castle
+6
+King Lear Act 3, Scene 7_Gloucester's castle
+3
+King Lear Act 4, Scene 2_Before ALBANY's palace
+1
+King Lear Act 4, Scene 3_The French camp near Dover
+3
+King Lear Act 4, Scene 6_Fields near Dover
+5
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+2
+King Lear Act 5, Scene 1_The British camp, near Dover
+2
+King Lear Act 5, Scene 2_A field between the two camps
+1
+King Lear Act 5, Scene 3_The British camp near Dover
+4
+Love's Labours Lost Act 1, Scene 1_The king of Navarre's park
+1
+Love's Labours Lost Act 1, Scene 2_The same
+1
+Love's Labours Lost Act 2, Scene 1_The same
+4
+Love's Labours Lost Act 3, Scene 1_The same
+1
+Love's Labours Lost Act 4, Scene 1_The same
+7
+Love's Labours Lost Act 4, Scene 2_The same
+1
+Love's Labours Lost Act 4, Scene 3_The same
+6
+Love's Labours Lost Act 5, Scene 1_The same
+5
+Love's Labours Lost Act 5, Scene 2_The same
+11
+Macbeth Act 1, Scene 2_A camp near Forres
+5
+Macbeth Act 1, Scene 3_A heath near Forres
+8
+Macbeth Act 1, Scene 5_Inverness. Macbeth's castle
+3
+Macbeth Act 2, Scene 1_Court of Macbeth's castle
+1
+Macbeth Act 2, Scene 3_The same
+2
+Macbeth Act 2, Scene 4_Outside Macbeth's castle
+1
+Macbeth Act 3, Scene 1_Forres. The palace
+6
+Macbeth Act 3, Scene 2_The palace
+1
+Macbeth Act 3, Scene 6_Forres. The palace
+2
+Macbeth Act 4, Scene 1_A cavern. In the middle, a boiling cauldron
+2
+Macbeth Act 4, Scene 3_England. Before the King's palace
+8
+Macbeth Act 5, Scene 8_Another part of the field
+3
+Measure for Measure Act 1, Scene 2_A Street
+3
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+Measure for Measure Act 2, Scene 4_A room in ANGELO's house
+1
+Measure for Measure Act 3, Scene 2_The street before the prison
+1
+Much Ado About Nothing Act 3, Scene 5_Another room in LEONATO'S house
+1
+Othello Act 2, Scene 3_A hall in the castle
+1
+Pericles, Prince of Tyre Act 1, Prologue_PROLOGUE
+1
+Pericles, Prince of Tyre Act 1, Scene 1_Antioch. A room in the palace
+2
+Pericles, Prince of Tyre Act 1, Scene 2_Tyre. A room in the palace
+3
+Pericles, Prince of Tyre Act 1, Scene 3_Tyre. An ante-chamber in the palace
+6
+Pericles, Prince of Tyre Act 2, Scene 1_Pentapolis. An open place by the sea-side
+5
+Pericles, Prince of Tyre Act 2, Scene 2_The same. A public way or platform leading to the
+1
+Pericles, Prince of Tyre Act 2, Scene 3_The same. A hall of state a banquet prepared
+5
+Pericles, Prince of Tyre Act 2, Scene 4_Tyre. A room in the Governor's house
+2
+Pericles, Prince of Tyre Act 2, Scene 5_Pentapolis. A room in the palace
+5
+Pericles, Prince of Tyre Act 3, Scene 2_Ephesus. A room in CERIMON's house
+2
+Pericles, Prince of Tyre Act 3, Scene 4_Ephesus. A room in CERIMON's house
+1
+Pericles, Prince of Tyre Act 4, Scene 1_Tarsus. An open place near the sea-shore
+2
+Pericles, Prince of Tyre Act 4, Scene 3_Tarsus. A room in CLEON's house
+2
+Pericles, Prince of Tyre Act 5, Scene 1_On board PERICLES' ship, off Mytilene. A close
+14
+Pericles, Prince of Tyre Act 5, Scene 3_The temple of Diana at Ephesus; THAISA standing
+2
+Richard II Act 1, Scene 1_London. KING RICHARD II's palace
+1
+Richard II Act 1, Scene 3_The lists at Coventry
+15
+Richard II Act 2, Scene 1_Ely House
+11
+Richard II Act 2, Scene 2_The palace
+10
+Richard II Act 2, Scene 3_Wilds in Gloucestershire
+6
+Richard II Act 2, Scene 4_A camp in Wales
+5
+Richard II Act 3, Scene 1_Bristol. Before the castle
+2
+Richard II Act 3, Scene 2_The coast of Wales. A castle in view
+10
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+23
+Richard II Act 3, Scene 4_LANGLEY. The DUKE OF YORK's garden
+6
+Richard II Act 4, Scene 1_Westminster Hall
+21
+Richard II Act 5, Scene 1_London. A street leading to the Tower
+10
+Richard II Act 5, Scene 2_The DUKE OF YORK's palace
+5
+Richard II Act 5, Scene 3_A royal palace
+9
+Richard II Act 5, Scene 4_The same
+3
+Richard II Act 5, Scene 5_Pomfret castle
+10
+Richard II Act 5, Scene 6_Windsor castle
+2
+Richard III Act 1, Scene 1_London. A street
+8
+Richard III Act 1, Scene 2_The same. Another street
+7
+Richard III Act 1, Scene 3_The palace
+14
+Richard III Act 1, Scene 4_London. The Tower
+5
+Richard III Act 2, Scene 1_London. The palace
+5
+Richard III Act 2, Scene 2_The palace
+10
+Richard III Act 2, Scene 3_London. A street
+2
+Richard III Act 3, Scene 1_London. A street
+3
+Richard III Act 3, Scene 4_The Tower of London
+1
+Richard III Act 3, Scene 7_Baynard's Castle
+7
+Richard III Act 4, Scene 1_Before the Tower
+3
+Richard III Act 4, Scene 2_London. The palace
+7
+Richard III Act 4, Scene 3_The same
+2
+Richard III Act 4, Scene 4_Before the palace
+11
+Richard III Act 5, Scene 1_Salisbury. An open place
+3
+Richard III Act 5, Scene 2_The camp near Tamworth
+2
+Richard III Act 5, Scene 3_Bosworth Field
+14
+Richard III Act 5, Scene 4_Another part of the field
+1
+Romeo and Juliet Act 2, Scene 1_A lane by the wall of Capulet's orchard
+1
+Romeo and Juliet Act 2, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 3, Scene 1_A public place
+1
+Taming of the Shrew Act 5, Scene 2_Padua. LUCENTIO'S house
+1
+The Merchant of Venice Act 3, Scene 2_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 4, Scene 1_Venice. A court of justice
+2
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+1
+The Tempest Act 1, Scene 1_On a ship at sea a tempestuous noise
+3
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+12
+The Tempest Act 2, Scene 1_Another part of the island
+8
+The Tempest Act 2, Scene 2_Another part of the island
+1
+The Tempest Act 3, Scene 1_Before PROSPERO'S Cell
+1
+The Tempest Act 3, Scene 2_Another part of the island
+1
+The Tempest Act 4, Scene 1_Before PROSPERO'S cell
+4
+The Tempest Act 5, Scene 1_Before PROSPERO'S cell
+9
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+1
+Titus Andronicus Act 1, Scene 1_Rome. Before the Capitol
+3
+Titus Andronicus Act 2, Scene 3_A lonely part of the forest
+6
+Titus Andronicus Act 2, Scene 4_Another part of the forest
+1
+Titus Andronicus Act 3, Scene 1_Rome. A street
+1
+Titus Andronicus Act 4, Scene 4_The same. Before the palace
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+1
+Troilus and Cressida Act 1, Scene 3_The Grecian camp. Before Agamemnon's tent
+3
+Troilus and Cressida Act 2, Scene 2_Troy. A room in Priam's palace
+2
+Troilus and Cressida Act 2, Scene 3_The Grecian camp. Before Achilles' tent
+2
+Troilus and Cressida Act 3, Scene 1_Troy. Priam's palace
+1
+Troilus and Cressida Act 4, Scene 1_Troy. A street
+1
+Twelfth Night Act 1, Scene 1_DUKE ORSINO's palace
+1
+Twelfth Night Act 3, Scene 1_OLIVIA's garden
+1
+Twelfth Night Act 4, Scene 2_OLIVIA's house
+1
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+1
+Two Gentlemen of Verona Act 4, Scene 1_The frontiers of Mantua. A forest
+2
+Winter's Tale Act 1, Scene 1_Antechamber in LEONTES' palace
+2
+Winter's Tale Act 1, Scene 2_A room of state in the same
+3
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+1
+Winter's Tale Act 2, Scene 2_A prison
+3
+Winter's Tale Act 3, Scene 2_A court of Justice
+10
+Winter's Tale Act 3, Scene 3_Bohemia. A desert country near the sea
+2
+Winter's Tale Act 4, Scene 2_Bohemia. The palace of POLIXENES
+2
+Winter's Tale Act 4, Scene 3_A road near the Shepherd's cottage
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+19
+Winter's Tale Act 5, Scene 1_A room in LEONTES' palace
+4
+Winter's Tale Act 5, Scene 2_Before LEONTES' palace
+8
+Winter's Tale Act 5, Scene 3_A chapel in PAULINA'S house
+2
+kinga
+1
+Henry VI, part 2 Act 4, Scene 9_Kenilworth Castle
+1
+kingand
+6
+Hamlet Act 2, Scene 2_A room in the castle
+1
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+1
+Henry VI, part 2 Act 4, Scene 1_The coast of Kent
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+Richard II Act 4, Scene 1_Westminster Hall
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+kingb
+1
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+1
+kingbut
+1
+Richard II Act 2, Scene 1_Ely House
+1
+kingcal
+1
+Troilus and Cressida Act 3, Scene 1_Troy. Priam's palace
+1
+kingchristen
+1
+Henry IV, part 1 Act 2, Scene 1_Rochester. An inn yard
+1
+kingcom
+1
+Henry V Act 2, Scene 4_France. The KING'S palace
+1
+kingcut
+1
+King John Act 2, Scene 1_France. Before Angiers
+1
+kingdigest
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+kingdismiss
+1
+Henry IV, part 1 Act 4, Scene 4_York. The ARCHBISHOP'S palace
+1
+kingdo
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+kingdom
+88
+A Midsummer Night's Dream Act 2, Scene 1_A wood near Athens
+1
+Antony and Cleopatra Act 1, Scene 1_Alexandria. A room in CLEOPATRA's palace
+2
+Antony and Cleopatra Act 1, Scene 4_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 1, Scene 5_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 2, Scene 2_Rome. The house of LEPIDUS
+1
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 3, Scene 6_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 3, Scene 7_Near Actium. MARK ANTONY's camp
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+1
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+1
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+1
+Cymbeline Act 5, Scene 1_Britain. The Roman camp
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Hamlet Act 4, Scene 4_A plain in Denmark
+1
+Hamlet Act 4, Scene 5_Elsinore. A room in the castle
+1
+Hamlet Act 4, Scene 7_Another room in the castle
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+1
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+1
+Henry IV, part 1 Act 4, Scene 1_The rebel camp near Shrewsbury
+1
+Henry IV, part 1 Act 5, Scene 4_Another part of the field
+1
+Henry IV, part 2 Act 1, Scene 3_York. The Archbishop's palace
+1
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+1
+Henry IV, part 2 Act 4, Scene 3_Another part of the forest
+1
+Henry IV, part 2 Act 4, Scene 5_Another chamber
+1
+Henry V Act 1, Prologue_PROLOGUE
+1
+Henry V Act 1, Scene 2_The same. The Presence chamber
+2
+Henry V Act 2, Scene 2_Southampton. A council-chamber
+2
+Henry V Act 2, Scene 4_France. The KING'S palace
+2
+Henry V Act 3, Scene 6_The English camp in Picardy
+2
+Henry V Act 5, Scene 2_France. A royal palace
+3
+Henry VI, part 1 Act 4, Scene 7_Another part of the field
+2
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+1
+Henry VI, part 2 Act 2, Scene 2_London. YORK'S garden
+1
+Henry VI, part 3 Act 1, Scene 1_London. The Parliament-house
+1
+Henry VI, part 3 Act 1, Scene 2_Sandal Castle
+1
+Henry VI, part 3 Act 2, Scene 1_A plain near Mortimer's Cross in Herefordshire
+1
+Henry VI, part 3 Act 3, Scene 2_London. The palace
+1
+Henry VI, part 3 Act 3, Scene 3_France. KING LEWIS XI's palace
+1
+Henry VI, part 3 Act 4, Scene 1_London. The palace
+1
+Henry VI, part 3 Act 4, Scene 3_Edward's camp, near Warwick
+1
+Henry VIII Act 1, Scene 3_An ante-chamber in the palace
+1
+Henry VIII Act 2, Scene 2_An ante-chamber in the palace
+1
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+1
+Henry VIII Act 3, Scene 1_London. QUEEN KATHARINE's apartments
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+2
+Henry VIII Act 4, Scene 1_A street in Westminster
+1
+Henry VIII Act 4, Scene 2_Kimbolton
+2
+Henry VIII Act 5, Scene 1_London. A gallery in the palace
+2
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+King John Act 2, Scene 1_France. Before Angiers
+2
+King John Act 3, Scene 1_The French King's pavilion
+3
+King John Act 4, Scene 2_KING JOHN'S palace
+2
+King John Act 5, Scene 2_LEWIS's camp at St. Edmundsbury
+1
+King John Act 5, Scene 7_The orchard in Swinstead Abbey
+1
+King Lear Act 1, Scene 1_King Lear's palace
+4
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+1
+King Lear Act 3, Scene 1_A heath
+1
+King Lear Act 3, Scene 2_Another part of the heath. Storm still
+1
+King Lear Act 3, Scene 7_Gloucester's castle
+1
+King Lear Act 4, Scene 3_The French camp near Dover
+1
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+2
+Macbeth Act 1, Scene 3_A heath near Forres
+1
+Macbeth Act 4, Scene 1_A cavern. In the middle, a boiling cauldron
+1
+Macbeth Act 5, Scene 8_Another part of the field
+1
+Pericles, Prince of Tyre Act 2, Scene 4_Tyre. A room in the Governor's house
+2
+Pericles, Prince of Tyre Act 5, Scene 1_On board PERICLES' ship, off Mytilene. A close
+1
+Pericles, Prince of Tyre Act 5, Scene 3_The temple of Diana at Ephesus; THAISA standing
+1
+Richard II Act 1, Scene 1_London. KING RICHARD II's palace
+1
+Richard II Act 1, Scene 3_The lists at Coventry
+2
+Richard II Act 3, Scene 2_The coast of Wales. A castle in view
+2
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+1
+Richard III Act 1, Scene 3_The palace
+3
+Richard III Act 1, Scene 4_London. The Tower
+1
+Richard III Act 2, Scene 2_The palace
+1
+Richard III Act 4, Scene 2_London. The palace
+1
+Richard III Act 4, Scene 4_Before the palace
+2
+Richard III Act 5, Scene 4_Another part of the field
+2
+The Merchant of Venice Act 2, Scene 7_Belmont. A room in PORTIA'S house
+1
+The Tempest Act 3, Scene 2_Another part of the island
+1
+The Tempest Act 4, Scene 1_Before PROSPERO'S cell
+1
+The Tempest Act 5, Scene 1_Before PROSPERO'S cell
+1
+Timon of Athens Act 1, Scene 2_A banqueting-room in Timon's house
+1
+Titus Andronicus Act 5, Scene 2_Rome. Before TITUS's house
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+1
+Two Gentlemen of Verona Act 2, Scene 7_Verona. JULIA'S house
+1
+Winter's Tale Act 5, Scene 1_A room in LEONTES' palace
+2
+Winter's Tale Act 5, Scene 3_A chapel in PAULINA'S house
+1
+kingdomcam
+1
+Henry V Act 1, Scene 2_The same. The Presence chamber
+1
+kingdomhow
+1
+Henry IV, part 2 Act 3, Scene 1_Westminster. The palace
+1
+kingdommay
+1
+King Lear Act 2, Scene 1_GLOUCESTER's castle
+1
+kingdomshav
+1
+Henry VIII Act 2, Scene 2_An ante-chamber in the palace
+1
+kingdomsknown
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+kingdomsof
+1
+Henry V Act 5, Scene 2_France. A royal palace
+1
+kingdomto
+1
+Hamlet Act 1, Scene 2_A room of state in the castle
+1
+kingfal
+1
+King Lear Act 1, Scene 2_The Earl of Gloucester's castle
+1
+kingfiv
+1
+Cymbeline Act 1, Scene 5_Britain. A room in Cymbeline's palace
+1
+kingfor
+1
+King Lear Act 2, Scene 2_Before Gloucester's castle
+1
+kingfound
+1
+Winter's Tale Act 5, Scene 2_Before LEONTES' palace
+1
+kingfrom
+1
+Henry VIII Act 2, Scene 2_An ante-chamber in the palace
+1
+kinghad
+1
+Richard III Act 2, Scene 3_London. A street
+1
+kinghath
+5
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+1
+Cymbeline Act 2, Scene 4_Rome. Philario's house
+1
+Cymbeline Act 4, Scene 4_Wales before the cave of Belarius
+1
+King Lear Act 1, Scene 1_King Lear's palace
+1
+Richard II Act 3, Scene 2_The coast of Wales. A castle in view
+1
+kinghav
+2
+Hamlet Act 4, Scene 6_Another room in the castle
+1
+Henry IV, part 1 Act 4, Scene 3_The rebel camp near Shrewsbury
+1
+kinghi
+1
+Pericles, Prince of Tyre Act 1, Scene 4_Tarsus. A room in the Governor's house
+1
+kinghimself
+1
+Hamlet Act 3, Scene 2_A hall in the castle
+1
+kingi
+4
+Henry VIII Act 1, Scene 1_London. An ante-chamber in the palace
+1
+King John Act 5, Scene 2_LEWIS's camp at St. Edmundsbury
+1
+Richard III Act 1, Scene 1_London. A street
+1
+Winter's Tale Act 2, Scene 3_A room in LEONTES' palace
+1
+kingin
+3
+Henry IV, part 1 Act 4, Scene 3_The rebel camp near Shrewsbury
+1
+Henry IV, part 2 Act 1, Scene 3_York. The Archbishop's palace
+1
+Richard III Act 1, Scene 1_London. A street
+1
+kingkeep
+1
+Richard II Act 3, Scene 2_The coast of Wales. A castle in view
+1
+kingknow
+1
+Henry IV, part 1 Act 4, Scene 3_The rebel camp near Shrewsbury
+1
+kinglack
+1
+Henry IV, part 2 Act 1, Scene 2_London. A street
+1
+kingof
+5
+Antony and Cleopatra Act 3, Scene 6_Rome. OCTAVIUS CAESAR's house
+2
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+Henry V Act 5, Scene 2_France. A royal palace
+1
+Pericles, Prince of Tyre Act 1, Scene 1_Antioch. A room in the palace
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+kingprettili
+1
+Henry VI, part 1 Act 4, Scene 1_Paris. A hall of state
+1
+kingsand
+3
+Henry V Act 1, Scene 2_The same. The Presence chamber
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+Winter's Tale Act 5, Scene 2_Before LEONTES' palace
+1
+kingsconfound
+1
+Richard III Act 2, Scene 1_London. The palace
+1
+kingseem
+1
+Henry V Act 5, Prologue_PROLOGUE
+1
+kingsepistrophus
+1
+Troilus and Cressida Act 5, Scene 5_Another part of the plains
+1
+kingsfor
+1
+Henry VI, part 2 Act 4, Scene 7_London. Smithfield
+1
+kingsh
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+kingshal
+3
+Henry VI, part 2 Act 4, Scene 8_Southwark
+1
+Henry VIII Act 5, Scene 2_Before the council-chamber. Pursuivants, Pages,  & c
+1
+Richard II Act 3, Scene 2_The coast of Wales. A castle in view
+1
+kingshath
+1
+Richard III Act 1, Scene 4_London. The Tower
+1
+kingshav
+1
+Antony and Cleopatra Act 2, Scene 5_Alexandria. CLEOPATRA's palace
+1
+kingshould
+2
+Henry VIII Act 1, Scene 2_The same. The council-chamber
+1
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+1
+kingsin
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+1
+kingso
+2
+Henry IV, part 1 Act 5, Scene 1_KING HENRY IV's camp near Shrewsbury
+1
+Troilus and Cressida Act 2, Scene 2_Troy. A room in Priam's palace
+1
+kingstand
+1
+Macbeth Act 1, Scene 3_A heath near Forres
+1
+kingthat
+3
+Hamlet Act 1, Scene 1_Elsinore. A platform before the castle
+1
+Henry V Act 5, Scene 2_France. A royal palace
+1
+Henry VI, part 3 Act 4, Scene 3_Edward's camp, near Warwick
+1
+kingtil
+2
+Henry VI, part 2 Act 2, Scene 2_London. YORK'S garden
+1
+Henry VI, part 3 Act 1, Scene 4_Another part of the field
+1
+kingto
+4
+Cymbeline Act 1, Scene 5_Britain. A room in Cymbeline's palace
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+Henry VIII Act 4, Scene 2_Kimbolton
+1
+King Lear Act 5, Scene 3_The British camp near Dover
+1
+kingtoward
+1
+Henry V Act 5, Prologue_PROLOGUE
+1
+kingunto
+2
+Henry VI, part 2 Act 4, Scene 8_Southwark
+1
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+1
+kingwith
+1
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+1
+kingyet
+1
+King John Act 5, Scene 6_An open place in the neighbourhood of Swinstead Abbey
+1
+kinhalf
+1
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+1
+kinsman
+35
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+1
+Cymbeline Act 3, Scene 6_Wales. Before the cave of Belarius
+1
+Henry IV, part 1 Act 1, Scene 3_London. The palace
+1
+Henry IV, part 1 Act 4, Scene 3_The rebel camp near Shrewsbury
+1
+Henry IV, part 1 Act 5, Scene 5_Another part of the field
+1
+Henry V Act 4, Scene 1_The English camp at Agincourt
+1
+Henry V Act 4, Scene 3_The English camp
+1
+Henry VI, part 1 Act 5, Scene 5_London. The palace
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+1
+Henry VI, part 3 Act 1, Scene 1_London. The Parliament-house
+1
+King John Act 3, Scene 3_The same
+1
+King John Act 4, Scene 2_KING JOHN'S palace
+2
+King John Act 5, Scene 3_The field of battle
+1
+Macbeth Act 1, Scene 4_Forres. The palace
+1
+Macbeth Act 1, Scene 7_Macbeth's castle
+1
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+Richard II Act 1, Scene 1_London. KING RICHARD II's palace
+1
+Richard II Act 1, Scene 4_The court
+1
+Richard II Act 2, Scene 1_Ely House
+1
+Richard II Act 2, Scene 2_The palace
+1
+Richard III Act 3, Scene 1_London. A street
+1
+Romeo and Juliet Act 1, Scene 5_A hall in Capulet's house
+1
+Romeo and Juliet Act 2, Scene 4_A street
+1
+Romeo and Juliet Act 3, Scene 1_A public place
+4
+Romeo and Juliet Act 3, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 3, Scene 4_A room in Capulet's house
+2
+Romeo and Juliet Act 3, Scene 5_Capulet's orchard
+1
+Romeo and Juliet Act 4, Scene 3_Juliet's chamber
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+1
+The Merchant of Venice Act 1, Scene 1_Venice. A street
+1
+Twelfth Night Act 1, Scene 5_OLIVIA'S house
+1
+Twelfth Night Act 2, Scene 5_OLIVIA's garden
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+1
+Winter's Tale Act 4, Scene 3_A road near the Shepherd's cottage
+2
+kinsmen
+11
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Henry VI, part 1 Act 4, Scene 1_Paris. A hall of state
+1
+Macbeth Act 1, Scene 4_Forres. The palace
+1
+Macbeth Act 5, Scene 8_Another part of the field
+1
+Othello Act 1, Scene 1_Venice. A street
+1
+Richard II Act 2, Scene 2_The palace
+1
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+1
+Romeo and Juliet Act 1, Scene 1_Verona. A public place
+1
+Romeo and Juliet Act 2, Scene 2_Capulet's orchard
+2
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+1
+Titus Andronicus Act 4, Scene 3_The same. A public place
+4
+kinswoman
+3
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+1
+Much Ado About Nothing Act 4, Scene 1_A church
+1
+Troilus and Cressida Act 1, Scene 1_Troy. Before Priam's palace
+1
+kinwhich
+1
+Timon of Athens Act 5, Scene 4_Before the walls of Athens
+1
+kirtl
+2
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+1
+Henry IV, part 2 Act 5, Scene 4_London. A street
+1
+kiss
+137
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+A Midsummer Night's Dream Act 4, Scene 1_The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA
+1
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+3
+Antony and Cleopatra Act 1, Scene 5_Alexandria. CLEOPATRA's palace
+2
+Antony and Cleopatra Act 2, Scene 4_The same. A street
+1
+Antony and Cleopatra Act 2, Scene 5_Alexandria. CLEOPATRA's palace
+2
+Antony and Cleopatra Act 2, Scene 6_Near Misenum
+1
+Antony and Cleopatra Act 3, Scene 10_Another part of the plain
+1
+Antony and Cleopatra Act 3, Scene 11_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+3
+Antony and Cleopatra Act 4, Scene 15_The same. A monument
+2
+Antony and Cleopatra Act 4, Scene 4_The same. A room in the palace
+1
+Antony and Cleopatra Act 4, Scene 8_Under the walls of Alexandria
+1
+Coriolanus Act 2, Scene 1_Rome. A public place
+1
+Cymbeline Act 1, Scene 3_A room in Cymbeline's palace
+2
+Cymbeline Act 2, Scene 1_Britain. Before Cymbeline's palace
+1
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+4
+Cymbeline Act 2, Scene 4_Rome. Philario's house
+2
+Cymbeline Act 3, Scene 4_Country near Milford-Haven
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Hamlet Act 2, Scene 2_A room in the castle
+1
+Hamlet Act 3, Scene 2_A hall in the castle
+1
+Hamlet Act 3, Scene 4_The Queen's closet
+2
+Hamlet Act 5, Scene 1_A churchyard
+1
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+Henry IV, part 1 Act 3, Scene 1_Bangor. The Archdeacon's house
+1
+Henry IV, part 1 Act 5, Scene 1_KING HENRY IV's camp near Shrewsbury
+1
+Henry IV, part 2 Act 1, Scene 1_The same
+1
+Henry IV, part 2 Act 1, Scene 2_London. A street
+1
+Henry IV, part 2 Act 2, Scene 1_London. A street
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+3
+Henry IV, part 2 Act 3, Scene 1_Westminster. The palace
+1
+Henry IV, part 2 Act 4, Scene 3_Another part of the forest
+1
+Henry IV, part 2 Act 4, Scene 4_Westminster. The Jerusalem Chamber
+1
+Henry V Act 2, Scene 3_London. Before a tavern
+1
+Henry V Act 4, Scene 1_The English camp at Agincourt
+1
+Henry V Act 4, Scene 6_Another part of the field
+2
+Henry V Act 5, Scene 2_France. A royal palace
+5
+Henry VI, part 1 Act 2, Scene 5_The Tower of London
+1
+Henry VI, part 1 Act 5, Scene 3_Before Angiers
+1
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+1
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+3
+Henry VI, part 2 Act 4, Scene 1_The coast of Kent
+2
+Henry VI, part 2 Act 4, Scene 7_London. Smithfield
+2
+Henry VI, part 3 Act 2, Scene 1_A plain near Mortimer's Cross in Herefordshire
+1
+Henry VI, part 3 Act 3, Scene 3_France. KING LEWIS XI's palace
+1
+Henry VI, part 3 Act 4, Scene 8_London. The palace
+1
+Henry VIII Act 1, Scene 4_A Hall in York Place
+2
+Henry VIII Act 3, Scene 1_London. QUEEN KATHARINE's apartments
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+Henry VIII Act 5, Scene 5_The palace
+1
+Julius Caesar Act 1, Scene 1_Rome. A street
+1
+Julius Caesar Act 3, Scene 1_Rome. Before the Capitol; the Senate sitting above
+1
+Julius Caesar Act 3, Scene 2_The Forum
+1
+Julius Caesar Act 5, Scene 1_The plains of Philippi
+1
+King John Act 2, Scene 1_France. Before Angiers
+2
+King John Act 3, Scene 3_The same
+1
+King John Act 3, Scene 4_The same. KING PHILIP'S tent
+2
+King John Act 5, Scene 7_The orchard in Swinstead Abbey
+1
+King Lear Act 2, Scene 1_GLOUCESTER's castle
+1
+King Lear Act 4, Scene 2_Before ALBANY's palace
+1
+King Lear Act 4, Scene 6_Fields near Dover
+1
+Love's Labours Lost Act 2, Scene 1_The same
+1
+Love's Labours Lost Act 4, Scene 1_The same
+1
+Love's Labours Lost Act 4, Scene 3_The same
+1
+Love's Labours Lost Act 5, Scene 2_The same
+5
+Macbeth Act 2, Scene 4_Outside Macbeth's castle
+1
+Macbeth Act 5, Scene 8_Another part of the field
+1
+Measure for Measure Act 4, Scene 1_The moated grange at ST. LUKE's
+1
+Much Ado About Nothing Act 2, Scene 1_A hall in LEONATO'S house
+1
+Much Ado About Nothing Act 5, Scene 2_LEONATO'S garden
+1
+Othello Act 2, Scene 1_A Sea-port in Cyprus. An open place near the quay
+2
+Othello Act 3, Scene 3_The garden of the castle
+5
+Othello Act 4, Scene 1_Cyprus. Before the castle
+3
+Othello Act 4, Scene 2_A room in the castle
+1
+Othello Act 5, Scene 2_A bedchamber in the castle DESDEMONA in bed asleep;
+2
+Pericles, Prince of Tyre Act 1, Scene 2_Tyre. A room in the palace
+1
+Pericles, Prince of Tyre Act 1, Scene 4_Tarsus. A room in the Governor's house
+1
+Pericles, Prince of Tyre Act 4, Scene 6_The same. A room in the brothel
+1
+Richard II Act 1, Scene 3_The lists at Coventry
+2
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+3
+Richard II Act 5, Scene 1_London. A street leading to the Tower
+3
+Richard III Act 1, Scene 2_The same. Another street
+1
+Richard III Act 1, Scene 3_The palace
+1
+Richard III Act 2, Scene 1_London. The palace
+1
+Richard III Act 2, Scene 2_The palace
+1
+Richard III Act 3, Scene 1_London. A street
+1
+Richard III Act 4, Scene 3_The same
+1
+Richard III Act 4, Scene 4_Before the palace
+1
+Romeo and Juliet Act 1, Scene 1_Verona. A public place
+1
+Romeo and Juliet Act 1, Scene 4_A street
+1
+Romeo and Juliet Act 1, Scene 5_A hall in Capulet's house
+3
+Romeo and Juliet Act 2, Scene 6_Friar Laurence's cell
+1
+Romeo and Juliet Act 3, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 3, Scene 5_Capulet's orchard
+1
+Romeo and Juliet Act 4, Scene 1_Friar Laurence's cell
+1
+Romeo and Juliet Act 5, Scene 1_Mantua. A street
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+2
+Taming of the Shrew Act 1, Scene 1_Padua. A public place
+1
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+2
+Taming of the Shrew Act 3, Scene 2_Padua. Before BAPTISTA'S house
+2
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+2
+Taming of the Shrew Act 4, Scene 2_Padua. Before BAPTISTA'S house
+1
+Taming of the Shrew Act 5, Scene 1_Padua. Before LUCENTIO'S house
+3
+Taming of the Shrew Act 5, Scene 2_Padua. LUCENTIO'S house
+2
+Taming of the Shrew Induction, Scene 1_Before an alehouse on a heath
+1
+The Merchant of Venice Act 1, Scene 1_Venice. A street
+1
+The Merchant of Venice Act 2, Scene 7_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 2, Scene 9_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 3, Scene 2_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+The Tempest Act 2, Scene 2_Another part of the island
+5
+The Tempest Act 4, Scene 1_Before PROSPERO'S cell
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+2
+Titus Andronicus Act 2, Scene 4_Another part of the forest
+1
+Titus Andronicus Act 3, Scene 1_Rome. A street
+3
+Titus Andronicus Act 4, Scene 3_The same. A public place
+1
+Titus Andronicus Act 5, Scene 1_Plains near Rome
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+3
+Troilus and Cressida Act 3, Scene 2_The same. Pandarus' orchard
+3
+Troilus and Cressida Act 4, Scene 4_The same. Pandarus' house
+3
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+15
+Troilus and Cressida Act 5, Scene 2_The same. Before Calchas' tent
+2
+Twelfth Night Act 2, Scene 3_OLIVIA's house
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+1
+Two Gentlemen of Verona Act 1, Scene 2_The same. Garden of JULIA's house
+4
+Two Gentlemen of Verona Act 2, Scene 2_Verona. JULIA'S house
+1
+Two Gentlemen of Verona Act 2, Scene 3_The same. A street
+2
+Two Gentlemen of Verona Act 2, Scene 7_Verona. JULIA'S house
+1
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+1
+Two Gentlemen of Verona Act 4, Scene 4_The same
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+2
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+3
+Winter's Tale Act 5, Scene 1_A room in LEONTES' palace
+2
+Winter's Tale Act 5, Scene 3_A chapel in PAULINA'S house
+3
+kissa
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+1
+kissand
+1
+Two Gentlemen of Verona Act 2, Scene 4_Milan. The DUKE's palace
+1
+kissbefor
+1
+Henry V Act 5, Scene 2_France. A royal palace
+1
+kissi
+1
+Coriolanus Act 5, Scene 3_The tent of Coriolanus
+1
+kisslong
+1
+Coriolanus Act 5, Scene 3_The tent of Coriolanus
+1
+kissrepair
+1
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+1
+kisssh
+1
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+1
+kissth
+2
+Antony and Cleopatra Act 4, Scene 8_Under the walls of Alexandria
+1
+Pericles, Prince of Tyre Act 2, Scene 5_Pentapolis. A room in the palace
+1
+kissthi
+2
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+1
+kisswhich
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+1
+kitchen
+4
+Coriolanus Act 2, Scene 1_Rome. A public place
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+1
+Othello Act 2, Scene 1_A Sea-port in Cyprus. An open place near the quay
+1
+kitchensw
+1
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+kite
+13
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+1
+Coriolanus Act 4, Scene 5_The same. A hall in Aufidius's house
+2
+Henry V Act 2, Scene 1_London. A street
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+1
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+2
+Henry VI, part 2 Act 5, Scene 2_Saint Alban's
+1
+Julius Caesar Act 5, Scene 1_The plains of Philippi
+1
+King Lear Act 1, Scene 4_A hall in the same
+1
+Macbeth Act 3, Scene 4_The same. Hall in the palace
+1
+Macbeth Act 4, Scene 3_England. Before the King's palace
+1
+Richard III Act 1, Scene 1_London. A street
+1
+Winter's Tale Act 2, Scene 3_A room in LEONTES' palace
+1
+Winter's Tale Act 4, Scene 3_A road near the Shepherd's cottage
+1
+kitesthat
+1
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+1
+kiteswith
+1
+Hamlet Act 2, Scene 2_A room in the castle
+1
+kitten
+1
+Henry IV, part 1 Act 3, Scene 1_Bangor. The Archdeacon's house
+2
+kn
+1
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+1
+knack
+3
+A Midsummer Night's Dream Act 1, Scene 1_Athens. The palace of THESEUS
+1
+Taming of the Shrew Act 4, Scene 3_A room in PETRUCHIO'S house
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+2
+knap
+1
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+1
+knave
+76
+Antony and Cleopatra Act 1, Scene 2_The same. Another room
+1
+Antony and Cleopatra Act 1, Scene 4_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 2, Scene 5_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 4, Scene 14_The same. Another room
+2
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+1
+Coriolanus Act 2, Scene 1_Rome. A public place
+2
+Coriolanus Act 3, Scene 3_The same. The Forum
+1
+Cymbeline Act 1, Scene 5_Britain. A room in Cymbeline's palace
+1
+Cymbeline Act 5, Scene 4_A British prison
+1
+Hamlet Act 1, Scene 5_Another part of the platform
+1
+Hamlet Act 3, Scene 1_A room in the castle
+1
+Hamlet Act 3, Scene 4_The Queen's closet
+1
+Hamlet Act 5, Scene 1_A churchyard
+3
+Henry IV, part 1 Act 1, Scene 3_London. The palace
+1
+Henry IV, part 1 Act 2, Scene 1_Rochester. An inn yard
+1
+Henry IV, part 1 Act 2, Scene 2_The highway, near Gadshill
+3
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+3
+Henry IV, part 2 Act 1, Scene 2_London. A street
+2
+Henry IV, part 2 Act 2, Scene 1_London. A street
+2
+Henry IV, part 2 Act 5, Scene 1_Gloucestershire. SHALLOW'S house
+5
+Henry IV, part 2 Act 5, Scene 3_Gloucestershire. SHALLOW'S orchard
+1
+Henry IV, part 2 Act 5, Scene 4_London. A street
+1
+Henry V Act 3, Scene 2_The same
+1
+Henry V Act 5, Scene 1_France. The English camp
+7
+Henry VI, part 2 Act 1, Scene 2_GLOUCESTER'S house
+2
+Henry VI, part 2 Act 1, Scene 3_The palace
+1
+Henry VI, part 2 Act 2, Scene 1_Saint Alban's
+3
+Henry VI, part 2 Act 2, Scene 3_A hall of justice
+2
+Henry VIII Act 5, Scene 1_London. A gallery in the palace
+1
+Henry VIII Act 5, Scene 4_The palace yard
+2
+Julius Caesar Act 1, Scene 1_Rome. A street
+2
+Julius Caesar Act 4, Scene 3_Brutus's tent
+2
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+King Lear Act 1, Scene 1_King Lear's palace
+1
+King Lear Act 1, Scene 2_The Earl of Gloucester's castle
+1
+King Lear Act 1, Scene 4_A hall in the same
+5
+King Lear Act 2, Scene 2_Before Gloucester's castle
+11
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+3
+King Lear Act 3, Scene 2_Another part of the heath. Storm still
+1
+Love's Labours Lost Act 3, Scene 1_The same
+2
+Measure for Measure Act 2, Scene 1_A hall In ANGELO's house
+1
+Measure for Measure Act 5, Scene 1_The city gate
+2
+Much Ado About Nothing Act 3, Scene 3_A street
+1
+Much Ado About Nothing Act 4, Scene 2_A prison
+2
+Much Ado About Nothing Act 5, Scene 1_Before LEONATO'S house
+2
+Othello Act 1, Scene 1_Venice. A street
+3
+Othello Act 2, Scene 1_A Sea-port in Cyprus. An open place near the quay
+4
+Othello Act 2, Scene 3_A hall in the castle
+2
+Othello Act 4, Scene 1_Cyprus. Before the castle
+1
+Othello Act 4, Scene 2_A room in the castle
+2
+Pericles, Prince of Tyre Act 2, Scene 1_Pentapolis. An open place by the sea-side
+1
+Richard II Act 2, Scene 2_The palace
+1
+Richard III Act 1, Scene 1_London. A street
+1
+Romeo and Juliet Act 1, Scene 5_A hall in Capulet's house
+1
+Romeo and Juliet Act 2, Scene 4_A street
+3
+Romeo and Juliet Act 4, Scene 5_Juliet's chamber
+1
+Taming of the Shrew Act 1, Scene 2_Padua. Before HORTENSIO'S house
+2
+Taming of the Shrew Act 3, Scene 1_Padua. BAPTISTA'S house
+2
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+4
+Taming of the Shrew Act 5, Scene 1_Padua. Before LUCENTIO'S house
+1
+Taming of the Shrew Induction, Scene 2_A bedchamber in the Lord's house
+1
+The Merchant of Venice Act 1, Scene 3_Venice. A public place
+1
+The Merchant of Venice Act 2, Scene 3_The same. A room in SHYLOCK'S house
+1
+The Tempest Act 2, Scene 1_Another part of the island
+1
+The Tempest Act 5, Scene 1_Before PROSPERO'S cell
+1
+Timon of Athens Act 1, Scene 1_Athens. A hall in Timon's house
+4
+Timon of Athens Act 2, Scene 2_The same. A hall in Timon's house
+1
+Timon of Athens Act 3, Scene 4_The same. A hall in Timon's house
+2
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+4
+Timon of Athens Act 5, Scene 1_The woods. Before Timon's cave
+1
+Troilus and Cressida Act 5, Scene 1_The Grecian camp. Before Achilles' tent
+1
+Troilus and Cressida Act 5, Scene 4_Plains between Troy and the Grecian camp
+2
+Twelfth Night Act 2, Scene 3_OLIVIA's house
+4
+Twelfth Night Act 4, Scene 2_OLIVIA's house
+2
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+2
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+2
+knavear
+1
+Othello Act 3, Scene 3_The garden of the castle
+1
+knavei
+1
+Henry IV, part 2 Act 5, Scene 1_Gloucestershire. SHALLOW'S house
+1
+knaveri
+14
+A Midsummer Night's Dream Act 3, Scene 1_The wood. TITANIA lying asleep
+2
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+Hamlet Act 3, Scene 4_The Queen's closet
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+1
+Henry V Act 4, Scene 7_Another part of the field
+1
+Henry VI, part 2 Act 1, Scene 2_GLOUCESTER'S house
+1
+Henry VIII Act 5, Scene 2_Before the council-chamber. Pursuivants, Pages,  & c
+1
+Much Ado About Nothing Act 2, Scene 3_LEONATO'S orchard
+1
+Othello Act 1, Scene 3_A council-chamber
+1
+Othello Act 2, Scene 1_A Sea-port in Cyprus. An open place near the quay
+1
+Taming of the Shrew Act 1, Scene 2_Padua. Before HORTENSIO'S house
+1
+Taming of the Shrew Act 4, Scene 3_A room in PETRUCHIO'S house
+1
+Taming of the Shrew Act 5, Scene 1_Padua. Before LUCENTIO'S house
+2
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+knavest
+1
+Coriolanus Act 3, Scene 2_A room in CORIOLANUS'S house
+1
+knavish
+7
+A Midsummer Night's Dream Act 2, Scene 1_A wood near Athens
+1
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+Hamlet Act 3, Scene 2_A hall in the castle
+1
+Hamlet Act 4, Scene 2_Another room in the castle
+1
+Henry V Act 4, Scene 2_The French camp
+1
+Love's Labours Lost Act 5, Scene 2_The same
+1
+Winter's Tale Act 4, Scene 3_A road near the Shepherd's cottage
+1
+knead
+4
+Henry V Act 1, Scene 2_The same. The Presence chamber
+1
+Measure for Measure Act 3, Scene 1_A room in the prison
+1
+Troilus and Cressida Act 1, Scene 1_Troy. Before Priam's palace
+1
+Troilus and Cressida Act 2, Scene 3_The Grecian camp. Before Achilles' tent
+1
+knee
+71
+A Midsummer Night's Dream Act 4, Scene 1_The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA
+1
+Antony and Cleopatra Act 2, Scene 3_The same. OCTAVIUS CAESAR's house
+1
+Coriolanus Act 1, Scene 1_Rome. A street
+1
+Coriolanus Act 2, Scene 2_The same. The Capitol
+1
+Coriolanus Act 3, Scene 2_A room in CORIOLANUS'S house
+2
+Coriolanus Act 4, Scene 6_Rome. A public place
+1
+Coriolanus Act 5, Scene 3_The tent of Coriolanus
+4
+Cymbeline Act 4, Scene 2_Before the cave of Belarius
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+3
+Hamlet Act 2, Scene 1_A room in POLONIUS' house
+1
+Hamlet Act 3, Scene 3_A room in the castle
+1
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+2
+Henry IV, part 1 Act 4, Scene 3_The rebel camp near Shrewsbury
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+1
+Henry V Act 2, Scene 3_London. Before a tavern
+1
+Henry V Act 4, Scene 1_The English camp at Agincourt
+1
+Henry V Act 4, Scene 3_The English camp
+1
+Henry V Act 4, Scene 4_The field of battle
+1
+Henry VI, part 1 Act 3, Scene 1_London. The Parliament-house
+1
+Henry VI, part 1 Act 3, Scene 3_The plains near Rouen
+1
+Henry VI, part 1 Act 4, Scene 5_The English camp near Bourdeaux
+1
+Henry VI, part 1 Act 4, Scene 7_Another part of the field
+1
+Henry VI, part 1 Act 5, Scene 1_London. The palace
+1
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+2
+Henry VI, part 2 Act 4, Scene 10_Kent. IDEN's garden
+1
+Henry VI, part 2 Act 4, Scene 1_The coast of Kent
+1
+Henry VI, part 2 Act 5, Scene 1_Fields between Dartford and Blackheath
+3
+Henry VI, part 3 Act 2, Scene 2_Before York
+1
+Henry VI, part 3 Act 2, Scene 3_A field of battle between Towton and Saxton, in
+3
+Henry VI, part 3 Act 3, Scene 1_A forest in the north of England
+1
+Julius Caesar Act 1, Scene 1_Rome. A street
+1
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+1
+Julius Caesar Act 2, Scene 2_CAESAR's house
+1
+King John Act 3, Scene 1_The French King's pavilion
+2
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+2
+Love's Labours Lost Act 5, Scene 2_The same
+1
+Macbeth Act 4, Scene 3_England. Before the King's palace
+1
+Measure for Measure Act 3, Scene 1_A room in the prison
+1
+Measure for Measure Act 5, Scene 1_The city gate
+2
+Much Ado About Nothing Act 2, Scene 1_A hall in LEONATO'S house
+1
+Much Ado About Nothing Act 2, Scene 3_LEONATO'S orchard
+1
+Othello Act 1, Scene 1_Venice. A street
+1
+Othello Act 2, Scene 1_A Sea-port in Cyprus. An open place near the quay
+1
+Othello Act 4, Scene 2_A room in the castle
+1
+Othello Act 4, Scene 3_Another room In the castle
+1
+Pericles, Prince of Tyre Act 1, Scene 2_Tyre. A room in the palace
+1
+Pericles, Prince of Tyre Act 5, Scene 1_On board PERICLES' ship, off Mytilene. A close
+1
+Richard II Act 1, Scene 3_The lists at Coventry
+1
+Richard II Act 1, Scene 4_The court
+1
+Richard II Act 2, Scene 3_Wilds in Gloucestershire
+1
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+3
+Richard II Act 5, Scene 3_A royal palace
+5
+Richard III Act 1, Scene 2_The same. Another street
+1
+Richard III Act 2, Scene 1_London. The palace
+1
+Richard III Act 3, Scene 7_Baynard's Castle
+1
+Romeo and Juliet Act 1, Scene 4_A street
+1
+Romeo and Juliet Act 3, Scene 1_A public place
+1
+Romeo and Juliet Act 3, Scene 5_Capulet's orchard
+1
+Taming of the Shrew Act 1, Scene 1_Padua. A public place
+1
+Timon of Athens Act 1, Scene 1_Athens. A hall in Timon's house
+2
+Timon of Athens Act 3, Scene 6_The same. A banqueting-room in Timon's house
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+2
+Titus Andronicus Act 1, Scene 1_Rome. Before the Capitol
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+1
+Troilus and Cressida Act 1, Scene 3_The Grecian camp. Before Agamemnon's tent
+1
+Troilus and Cressida Act 4, Scene 2_The same. Court of Pandarus' house
+1
+Troilus and Cressida Act 5, Scene 3_Troy. Before Priam's palace
+2
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+2
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+Winter's Tale Act 2, Scene 3_A room in LEONTES' palace
+1
+kneeand
+1
+Coriolanus Act 1, Scene 3_Rome. A room in Marcius' house
+1
+kneehath
+1
+Julius Caesar Act 2, Scene 2_CAESAR's house
+1
+kneei
+4
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+King John Act 5, Scene 7_The orchard in Swinstead Abbey
+1
+Richard III Act 2, Scene 2_The palace
+1
+Titus Andronicus Act 2, Scene 3_A lonely part of the forest
+1
+kneel
+56
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+2
+Antony and Cleopatra Act 3, Scene 2_Rome. An ante-chamber in OCTAVIUS CAESAR's house
+2
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+3
+Coriolanus Act 5, Scene 1_Rome. A public place
+1
+Coriolanus Act 5, Scene 3_The tent of Coriolanus
+2
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+3
+Henry IV, part 2 Act 4, Scene 5_Another chamber
+1
+Henry IV, part 2 Act 5, Scene 5_A public place near Westminster Abbey
+1
+Henry V Act 3, Scene 6_The English camp in Picardy
+1
+Henry VI, part 1 Act 5, Scene 3_Before Angiers
+1
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+1
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+2
+Henry VI, part 2 Act 1, Scene 2_GLOUCESTER'S house
+1
+Henry VI, part 2 Act 2, Scene 2_London. YORK'S garden
+1
+Henry VI, part 2 Act 4, Scene 1_The coast of Kent
+1
+Henry VI, part 2 Act 5, Scene 1_Fields between Dartford and Blackheath
+4
+Henry VI, part 3 Act 1, Scene 1_London. The Parliament-house
+2
+Henry VI, part 3 Act 2, Scene 2_Before York
+2
+Henry VIII Act 1, Scene 2_The same. The council-chamber
+1
+Henry VIII Act 4, Scene 1_A street in Westminster
+1
+Henry VIII Act 4, Scene 2_Kimbolton
+1
+Henry VIII Act 5, Scene 1_London. A gallery in the palace
+2
+Henry VIII Act 5, Scene 5_The palace
+1
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+1
+Julius Caesar Act 3, Scene 1_Rome. Before the Capitol; the Senate sitting above
+2
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+King John Act 3, Scene 1_The French King's pavilion
+1
+King John Act 4, Scene 3_Before the castle
+1
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+1
+King Lear Act 4, Scene 6_Fields near Dover
+1
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+1
+King Lear Act 5, Scene 3_The British camp near Dover
+2
+Measure for Measure Act 1, Scene 4_A nunnery
+1
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+Measure for Measure Act 5, Scene 1_The city gate
+4
+Othello Act 4, Scene 2_A room in the castle
+2
+Pericles, Prince of Tyre Act 1, Scene 2_Tyre. A room in the palace
+1
+Pericles, Prince of Tyre Act 5, Scene 1_On board PERICLES' ship, off Mytilene. A close
+1
+Pericles, Prince of Tyre Act 5, Scene 3_The temple of Diana at Ephesus; THAISA standing
+1
+Richard II Act 5, Scene 3_A royal palace
+2
+Richard III Act 2, Scene 1_London. The palace
+1
+Taming of the Shrew Act 5, Scene 1_Padua. Before LUCENTIO'S house
+1
+Taming of the Shrew Act 5, Scene 2_Padua. LUCENTIO'S house
+1
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+1
+The Tempest Act 2, Scene 1_Another part of the island
+1
+The Tempest Act 2, Scene 2_Another part of the island
+1
+The Tempest Act 3, Scene 2_Another part of the island
+1
+Titus Andronicus Act 1, Scene 1_Rome. Before the Capitol
+3
+Titus Andronicus Act 3, Scene 1_Rome. A street
+1
+Titus Andronicus Act 3, Scene 2_A room in Titus's house. A banquet set out
+1
+Titus Andronicus Act 4, Scene 1_Rome. Titus's garden
+3
+Titus Andronicus Act 4, Scene 3_The same. A public place
+1
+Titus Andronicus Act 5, Scene 2_Rome. Before TITUS's house
+1
+Winter's Tale Act 2, Scene 3_A room in LEONTES' palace
+1
+Winter's Tale Act 5, Scene 1_A room in LEONTES' palace
+1
+Winter's Tale Act 5, Scene 3_A chapel in PAULINA'S house
+1
+kneeland
+2
+Winter's Tale Act 2, Scene 3_A room in LEONTES' palace
+1
+Winter's Tale Act 5, Scene 3_A chapel in PAULINA'S house
+1
+kneemak
+1
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+1
+kneesfe
+1
+Troilus and Cressida Act 3, Scene 3_The Grecian camp. Before Achilles' tent
+1
+kneesor
+1
+Measure for Measure Act 5, Scene 1_The city gate
+1
+kneesten
+1
+Winter's Tale Act 3, Scene 2_A court of Justice
+1
+kneeth
+1
+Coriolanus Act 5, Scene 1_Rome. A public place
+1
+kneeto
+1
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+1
+kneeunto
+1
+Henry IV, part 1 Act 1, Scene 3_London. The palace
+1
+kneewher
+1
+Hamlet Act 3, Scene 2_A hall in the castle
+1
+knell
+6
+Coriolanus Act 5, Scene 4_Rome. A public place
+1
+Henry VIII Act 2, Scene 1_Westminster. A street
+1
+Henry VIII Act 4, Scene 2_Kimbolton
+1
+Macbeth Act 5, Scene 8_Another part of the field
+1
+Timon of Athens Act 4, Scene 2_Athens. A room in Timon's house
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+knellhark
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+knelli
+2
+Macbeth Act 4, Scene 3_England. Before the King's palace
+1
+The Merchant of Venice Act 3, Scene 2_Belmont. A room in PORTIA'S house
+1
+knellthat
+1
+Macbeth Act 2, Scene 1_Court of Macbeth's castle
+1
+knew
+97
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+Antony and Cleopatra Act 1, Scene 4_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 3, Scene 10_Another part of the plain
+1
+Antony and Cleopatra Act 3, Scene 11_Alexandria. CLEOPATRA's palace
+2
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+2
+Antony and Cleopatra Act 4, Scene 4_The same. A room in the palace
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+1
+Coriolanus Act 4, Scene 5_The same. A hall in Aufidius's house
+1
+Coriolanus Act 5, Scene 2_Entrance of the Volscian camp before Rome
+1
+Coriolanus Act 5, Scene 3_The tent of Coriolanus
+1
+Cymbeline Act 3, Scene 2_Another room in the palace
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Hamlet Act 1, Scene 2_A room of state in the castle
+1
+Hamlet Act 2, Scene 2_A room in the castle
+1
+Hamlet Act 4, Scene 3_Another room in the castle
+1
+Hamlet Act 4, Scene 6_Another room in the castle
+1
+Hamlet Act 5, Scene 1_A churchyard
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+1
+Henry IV, part 1 Act 1, Scene 2_London. An apartment of the Prince's
+2
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+Henry IV, part 2 Act 1, Scene 1_The same
+2
+Henry IV, part 2 Act 1, Scene 2_London. A street
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+2
+Henry IV, part 2 Act 3, Scene 2_Gloucestershire. Before SHALLOW'S house
+2
+Henry IV, part 2 Act 4, Scene 2_Another part of the forest
+1
+Henry IV, part 2 Act 4, Scene 3_Another part of the forest
+1
+Henry V Act 2, Scene 2_Southampton. A council-chamber
+1
+Henry V Act 3, Scene 2_The same
+1
+Henry V Act 3, Scene 7_The French camp, near Agincourt
+1
+Henry V Act 4, Scene 4_The field of battle
+1
+Henry VI, part 2 Act 4, Scene 2_Blackheath
+1
+Henry VI, part 3 Act 2, Scene 5_Another part of the field
+2
+Henry VI, part 3 Act 4, Scene 3_Edward's camp, near Warwick
+1
+Henry VIII Act 1, Scene 4_A Hall in York Place
+2
+Henry VIII Act 2, Scene 1_Westminster. A street
+1
+Henry VIII Act 2, Scene 2_An ante-chamber in the palace
+1
+Henry VIII Act 2, Scene 3_An ante-chamber of the QUEEN'S apartments
+1
+Henry VIII Act 4, Scene 2_Kimbolton
+1
+Julius Caesar Act 1, Scene 1_Rome. A street
+1
+Julius Caesar Act 1, Scene 3_The same. A street
+1
+Julius Caesar Act 4, Scene 3_Brutus's tent
+1
+King John Act 4, Scene 3_Before the castle
+1
+King John Act 5, Scene 1_KING JOHN'S palace
+1
+Love's Labours Lost Act 4, Scene 3_The same
+1
+Love's Labours Lost Act 5, Scene 2_The same
+3
+Measure for Measure Act 5, Scene 1_The city gate
+8
+Much Ado About Nothing Act 2, Scene 3_LEONATO'S orchard
+2
+Much Ado About Nothing Act 3, Scene 1_LEONATO'S garden
+1
+Much Ado About Nothing Act 3, Scene 3_A street
+2
+Much Ado About Nothing Act 5, Scene 1_Before LEONATO'S house
+1
+Othello Act 1, Scene 3_A council-chamber
+1
+Othello Act 4, Scene 1_Cyprus. Before the castle
+1
+Othello Act 5, Scene 2_A bedchamber in the castle DESDEMONA in bed asleep;
+1
+Pericles, Prince of Tyre Act 1, Scene 2_Tyre. A room in the palace
+1
+Richard III Act 1, Scene 2_The same. Another street
+1
+Richard III Act 1, Scene 4_London. The Tower
+1
+Romeo and Juliet Act 2, Scene 2_Capulet's orchard
+1
+Romeo and Juliet Act 2, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 4, Scene 1_Friar Laurence's cell
+1
+Taming of the Shrew Act 1, Scene 1_Padua. A public place
+1
+Taming of the Shrew Act 1, Scene 2_Padua. Before HORTENSIO'S house
+2
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+2
+Taming of the Shrew Act 3, Scene 2_Padua. Before BAPTISTA'S house
+1
+Taming of the Shrew Act 4, Scene 3_A room in PETRUCHIO'S house
+1
+Taming of the Shrew Act 4, Scene 4_Padua. Before BAPTISTA'S house
+1
+Taming of the Shrew Act 5, Scene 1_Padua. Before LUCENTIO'S house
+1
+Taming of the Shrew Induction, Scene 2_A bedchamber in the Lord's house
+1
+The Merchant of Venice Act 3, Scene 1_Venice. A street
+2
+The Merchant of Venice Act 3, Scene 4_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 4, Scene 1_Venice. A court of justice
+1
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+1
+The Tempest Act 2, Scene 1_Another part of the island
+1
+Timon of Athens Act 2, Scene 2_The same. A hall in Timon's house
+1
+Timon of Athens Act 3, Scene 3_A room in Sempronius' house
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+2
+Titus Andronicus Act 2, Scene 1_Rome. Before the Palace
+1
+Titus Andronicus Act 2, Scene 4_Another part of the forest
+2
+Titus Andronicus Act 4, Scene 1_Rome. Titus's garden
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+1
+Troilus and Cressida Act 1, Scene 2_The Same. A street
+1
+Troilus and Cressida Act 2, Scene 1_A part of the Grecian camp
+1
+Troilus and Cressida Act 4, Scene 2_The same. Court of Pandarus' house
+2
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+1
+Twelfth Night Act 2, Scene 5_OLIVIA's garden
+1
+Twelfth Night Act 3, Scene 1_OLIVIA's garden
+1
+Two Gentlemen of Verona Act 1, Scene 2_The same. Garden of JULIA's house
+1
+Two Gentlemen of Verona Act 2, Scene 5_The same. A street
+1
+Two Gentlemen of Verona Act 4, Scene 2_Milan. Outside the DUKE's palace, under SILVIA's chamber
+1
+Two Gentlemen of Verona Act 4, Scene 4_The same
+1
+Two Gentlemen of Verona Act 5, Scene 2_The same. The DUKE's palace
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+1
+Winter's Tale Act 2, Scene 3_A room in LEONTES' palace
+1
+Winter's Tale Act 3, Scene 2_A court of Justice
+2
+Winter's Tale Act 4, Scene 3_A road near the Shepherd's cottage
+2
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+Winter's Tale Act 5, Scene 2_Before LEONTES' palace
+1
+knewa
+1
+Othello Act 3, Scene 1_Before the castle
+1
+knewest
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+1
+knewh
+1
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+1
+knewhow
+1
+Henry IV, part 1 Act 4, Scene 4_York. The ARCHBISHOP'S palace
+1
+knewlov
+1
+Troilus and Cressida Act 1, Scene 2_The Same. A street
+1
+knewthat
+1
+Othello Act 4, Scene 1_Cyprus. Before the castle
+1
+knewthe
+1
+Henry IV, part 1 Act 1, Scene 2_London. An apartment of the Prince's
+1
+knewther
+1
+Henry V Act 2, Scene 3_London. Before a tavern
+1
+knewthi
+1
+Antony and Cleopatra Act 1, Scene 2_The same. Another room
+1
+knewwhat
+1
+Antony and Cleopatra Act 2, Scene 2_Rome. The house of LEPIDUS
+1
+knife
+37
+Antony and Cleopatra Act 4, Scene 15_The same. A monument
+1
+Antony and Cleopatra Act 5, Scene 1_Alexandria. OCTAVIUS CAESAR's camp
+1
+Coriolanus Act 5, Scene 6_Antium. A public place
+1
+Cymbeline Act 3, Scene 4_Country near Milford-Haven
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Hamlet Act 4, Scene 7_Another room in the castle
+1
+Henry IV, part 1 Act 1, Scene 1_London. The palace
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+1
+Henry IV, part 2 Act 3, Scene 2_Gloucestershire. Before SHALLOW'S house
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+1
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+2
+Henry VI, part 3 Act 2, Scene 6_Another part of the field
+1
+Henry VIII Act 1, Scene 2_The same. The council-chamber
+3
+King Lear Act 5, Scene 3_The British camp near Dover
+1
+Love's Labours Lost Act 2, Scene 1_The same
+1
+Macbeth Act 1, Scene 5_Inverness. Macbeth's castle
+1
+Macbeth Act 1, Scene 7_Macbeth's castle
+1
+Much Ado About Nothing Act 2, Scene 3_LEONATO'S orchard
+1
+Much Ado About Nothing Act 5, Scene 1_Before LEONATO'S house
+1
+Pericles, Prince of Tyre Act 3, Scene 4_Ephesus. A room in CERIMON's house
+1
+Richard III Act 1, Scene 3_The palace
+1
+Richard III Act 4, Scene 4_Before the palace
+1
+Romeo and Juliet Act 2, Scene 4_A street
+1
+Romeo and Juliet Act 3, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 4, Scene 1_Friar Laurence's cell
+1
+The Merchant of Venice Act 4, Scene 1_Venice. A court of justice
+3
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+1
+The Tempest Act 2, Scene 1_Another part of the island
+1
+The Tempest Act 3, Scene 2_Another part of the island
+1
+Titus Andronicus Act 2, Scene 4_Another part of the forest
+1
+Titus Andronicus Act 3, Scene 2_A room in Titus's house. A banquet set out
+3
+Titus Andronicus Act 4, Scene 3_The same. A public place
+1
+Titus Andronicus Act 5, Scene 1_Plains near Rome
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+1
+Troilus and Cressida Act 1, Scene 1_Troy. Before Priam's palace
+1
+Twelfth Night Act 2, Scene 5_OLIVIA's garden
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+knifeshal
+1
+Romeo and Juliet Act 4, Scene 1_Friar Laurence's cell
+1
+knifewith
+1
+Henry IV, part 2 Act 4, Scene 5_Another chamber
+1
+knight
+71
+A Midsummer Night's Dream Act 1, Scene 2_Athens. QUINCE'S house
+1
+A Midsummer Night's Dream Act 2, Scene 2_Another part of the wood
+1
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+1
+Cymbeline Act 3, Scene 1_Britain. A hall in Cymbeline's palace
+1
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+2
+Henry IV, part 1 Act 1, Scene 1_London. The palace
+1
+Henry IV, part 1 Act 1, Scene 2_London. An apartment of the Prince's
+1
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+1
+Henry IV, part 1 Act 5, Scene 3_Plain between the camps
+1
+Henry IV, part 1 Act 5, Scene 5_Another part of the field
+1
+Henry IV, part 2 Act 1, Scene 2_London. A street
+1
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+2
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+2
+Henry IV, part 2 Act 3, Scene 2_Gloucestershire. Before SHALLOW'S house
+2
+Henry IV, part 2 Act 4, Scene 3_Another part of the forest
+3
+Henry IV, part 2 Act 5, Scene 3_Gloucestershire. SHALLOW'S orchard
+2
+Henry IV, part 2 Act 5, Scene 4_London. A street
+1
+Henry IV, part 2 Act 5, Scene 5_A public place near Westminster Abbey
+2
+Henry V Act 1, Scene 1_London. An ante-chamber in the KING'S palace
+1
+Henry V Act 2, Prologue_PROLOGUE
+1
+Henry V Act 2, Scene 1_London. A street
+2
+Henry V Act 2, Scene 2_Southampton. A council-chamber
+4
+Henry V Act 3, Scene 5_The same
+1
+Henry V Act 4, Prologue_PROLOGUE
+1
+Henry V Act 4, Scene 1_The English camp at Agincourt
+2
+Henry V Act 4, Scene 7_Another part of the field
+1
+Henry V Act 4, Scene 8_Before KING HENRY'S pavilion
+5
+Henry VI, part 1 Act 2, Scene 3_Auvergne. The COUNTESS's castle
+1
+Henry VI, part 1 Act 3, Scene 2_France. Before Rouen
+1
+Henry VI, part 1 Act 4, Scene 1_Paris. A hall of state
+5
+Henry VI, part 1 Act 4, Scene 7_Another part of the field
+2
+Henry VI, part 1 Act 5, Scene 3_Before Angiers
+1
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+1
+Henry VI, part 2 Act 4, Scene 2_Blackheath
+2
+Henry VI, part 2 Act 5, Scene 1_Fields between Dartford and Blackheath
+2
+Henry VI, part 3 Act 2, Scene 2_Before York
+1
+Henry VI, part 3 Act 4, Scene 8_London. The palace
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+5
+King Lear Act 1, Scene 1_King Lear's palace
+1
+King Lear Act 1, Scene 3_The Duke of Albany's palace
+2
+King Lear Act 1, Scene 4_A hall in the same
+3
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+1
+King Lear Act 3, Scene 2_Another part of the heath. Storm still
+1
+King Lear Act 3, Scene 7_Gloucester's castle
+1
+Love's Labours Lost Act 1, Scene 1_The king of Navarre's park
+1
+Love's Labours Lost Act 5, Scene 2_The same
+3
+Much Ado About Nothing Act 5, Scene 3_A church
+1
+Pericles, Prince of Tyre Act 2, Scene 1_Pentapolis. An open place by the sea-side
+1
+Pericles, Prince of Tyre Act 2, Scene 2_The same. A public way or platform leading to the
+6
+Pericles, Prince of Tyre Act 2, Scene 3_The same. A hall of state a banquet prepared
+9
+Pericles, Prince of Tyre Act 2, Scene 5_Pentapolis. A room in the palace
+3
+Pericles, Prince of Tyre Act 4, Scene 2_Mytilene. A room in a brothel
+1
+Pericles, Prince of Tyre Act 4, Scene 3_Tarsus. A room in CLEON's house
+1
+Richard II Act 1, Scene 1_London. KING RICHARD II's palace
+1
+Richard II Act 1, Scene 3_The lists at Coventry
+4
+Richard II Act 4, Scene 1_Westminster Hall
+1
+Richard III Act 4, Scene 4_Before the palace
+1
+Romeo and Juliet Act 1, Scene 5_A hall in Capulet's house
+1
+Romeo and Juliet Act 3, Scene 2_Capulet's orchard
+1
+Timon of Athens Act 2, Scene 2_The same. A hall in Timon's house
+1
+Titus Andronicus Act 1, Scene 1_Rome. Before the Capitol
+1
+Troilus and Cressida Act 2, Scene 1_A part of the Grecian camp
+1
+Troilus and Cressida Act 2, Scene 3_The Grecian camp. Before Achilles' tent
+1
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+5
+Troilus and Cressida Act 5, Scene 5_Another part of the plains
+1
+Twelfth Night Act 1, Scene 3_OLIVIA'S house
+5
+Twelfth Night Act 2, Scene 3_OLIVIA's house
+11
+Twelfth Night Act 2, Scene 5_OLIVIA's garden
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+5
+Two Gentlemen of Verona Act 1, Scene 2_The same. Garden of JULIA's house
+1
+knightfrom
+1
+Love's Labours Lost Act 1, Scene 1_The king of Navarre's park
+1
+knighthood
+9
+Cymbeline Act 5, Scene 2_Field of battle between the British and Roman camps
+1
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+1
+Henry IV, part 2 Act 1, Scene 2_London. A street
+2
+Henry IV, part 2 Act 5, Scene 3_Gloucestershire. SHALLOW'S orchard
+1
+Henry VI, part 1 Act 4, Scene 1_Paris. A hall of state
+1
+Henry VI, part 3 Act 2, Scene 2_Before York
+1
+King Lear Act 5, Scene 3_The British camp near Dover
+1
+Richard II Act 1, Scene 1_London. KING RICHARD II's palace
+2
+Richard II Act 1, Scene 3_The lists at Coventry
+1
+knightshal
+1
+Hamlet Act 2, Scene 2_A room in the castle
+1
+knightsshal
+1
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+1
+knightsthat
+1
+King Lear Act 2, Scene 1_GLOUCESTER's castle
+1
+knightswhen
+1
+King Lear Act 1, Scene 4_A hall in the same
+1
+knit
+35
+A Midsummer Night's Dream Act 4, Scene 1_The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA
+1
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+1
+Antony and Cleopatra Act 2, Scene 2_Rome. The house of LEPIDUS
+1
+Antony and Cleopatra Act 2, Scene 6_Near Misenum
+1
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+1
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+1
+Henry IV, part 2 Act 4, Scene 1_Yorkshire. Gaultree Forest
+1
+Henry VI, part 1 Act 2, Scene 3_Auvergne. The COUNTESS's castle
+1
+Henry VI, part 1 Act 5, Scene 1_London. The palace
+1
+Henry VI, part 2 Act 1, Scene 2_GLOUCESTER'S house
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+1
+Henry VI, part 3 Act 2, Scene 2_Before York
+1
+Henry VI, part 3 Act 2, Scene 3_A field of battle between Towton and Saxton, in
+1
+King John Act 2, Scene 1_France. Before Angiers
+1
+King John Act 3, Scene 1_The French King's pavilion
+1
+King John Act 4, Scene 1_A room in a castle
+1
+King John Act 5, Scene 2_LEWIS's camp at St. Edmundsbury
+1
+Love's Labours Lost Act 1, Scene 2_The same
+1
+Macbeth Act 2, Scene 2_The same
+1
+Macbeth Act 3, Scene 1_Forres. The palace
+1
+Much Ado About Nothing Act 4, Scene 1_A church
+1
+Othello Act 1, Scene 3_A council-chamber
+1
+Pericles, Prince of Tyre Act 1, Scene 1_Antioch. A room in the palace
+1
+Pericles, Prince of Tyre Act 2, Scene 4_Tyre. A room in the Governor's house
+1
+Richard III Act 2, Scene 2_The palace
+1
+Romeo and Juliet Act 4, Scene 2_Hall in Capulet's house
+1
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+1
+The Tempest Act 3, Scene 3_Another part of the island
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+1
+Titus Andronicus Act 2, Scene 4_Another part of the forest
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+1
+Troilus and Cressida Act 1, Scene 3_The Grecian camp. Before Agamemnon's tent
+1
+Troilus and Cressida Act 2, Scene 3_The Grecian camp. Before Achilles' tent
+1
+Two Gentlemen of Verona Act 2, Scene 7_Verona. JULIA'S house
+1
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+2
+knitso
+1
+A Midsummer Night's Dream Act 2, Scene 2_Another part of the wood
+1
+knitter
+1
+Twelfth Night Act 2, Scene 4_DUKE ORSINO's palace
+1
+knitteth
+1
+A Midsummer Night's Dream Act 1, Scene 1_Athens. The palace of THESEUS
+1
+knive
+9
+Cymbeline Act 5, Scene 3_Another part of the field
+1
+Henry V Act 2, Scene 1_London. A street
+1
+King Lear Act 3, Scene 4_The heath. Before a hovel
+1
+Macbeth Act 3, Scene 6_Forres. The palace
+1
+Othello Act 3, Scene 3_The garden of the castle
+1
+Pericles, Prince of Tyre Act 4, Scene 2_Mytilene. A room in a brothel
+1
+Timon of Athens Act 1, Scene 2_A banqueting-room in Timon's house
+1
+Timon of Athens Act 4, Scene 1_Without the walls of Athens
+1
+Timon of Athens Act 5, Scene 1_The woods. Before Timon's cave
+1
+kno
+1
+Macbeth Act 2, Scene 3_The same
+1
+knob
+1
+Henry V Act 3, Scene 6_The English camp in Picardy
+1
+knock
+52
+Coriolanus Act 4, Scene 5_The same. A hall in Aufidius's house
+1
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+1
+Cymbeline Act 3, Scene 5_A room in Cymbeline's palace
+1
+Cymbeline Act 4, Scene 2_Before the cave of Belarius
+2
+Cymbeline Act 5, Scene 4_A British prison
+1
+Hamlet Act 2, Scene 1_A room in POLONIUS' house
+1
+Hamlet Act 5, Scene 1_A churchyard
+1
+Henry IV, part 2 Act 1, Scene 1_The same
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+3
+Henry IV, part 2 Act 5, Scene 3_Gloucestershire. SHALLOW'S orchard
+1
+Henry V Act 2, Scene 1_London. A street
+1
+Henry V Act 3, Scene 2_The same
+2
+Henry V Act 4, Scene 1_The English camp at Agincourt
+2
+Henry VI, part 1 Act 1, Scene 3_London. Before the Tower
+1
+Henry VI, part 1 Act 3, Scene 1_London. The Parliament-house
+1
+Henry VI, part 1 Act 3, Scene 2_France. Before Rouen
+1
+Henry VI, part 2 Act 4, Scene 6_London. Cannon Street
+1
+Henry VI, part 2 Act 4, Scene 8_Southwark
+1
+Henry VI, part 3 Act 4, Scene 7_Before York
+1
+Henry VIII Act 1, Scene 4_A Hall in York Place
+1
+Henry VIII Act 5, Scene 4_The palace yard
+1
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+3
+Julius Caesar Act 3, Scene 2_The Forum
+1
+Macbeth Act 1, Scene 3_A heath near Forres
+1
+Macbeth Act 2, Scene 2_The same
+3
+Macbeth Act 2, Scene 3_The same
+12
+Macbeth Act 4, Scene 1_A cavern. In the middle, a boiling cauldron
+1
+Macbeth Act 5, Scene 1_Dunsinane. Ante-room in the castle
+1
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+Othello Act 2, Scene 3_A hall in the castle
+1
+Othello Act 4, Scene 2_A room in the castle
+1
+Othello Act 4, Scene 3_Another room In the castle
+1
+Richard III Act 3, Scene 2_Before Lord Hastings' house
+1
+Richard III Act 3, Scene 7_Baynard's Castle
+1
+Richard III Act 5, Scene 3_Bosworth Field
+1
+Romeo and Juliet Act 1, Scene 3_A room in Capulet's house
+1
+Romeo and Juliet Act 1, Scene 4_A street
+1
+Romeo and Juliet Act 3, Scene 3_Friar Laurence's cell
+3
+Taming of the Shrew Act 1, Scene 2_Padua. Before HORTENSIO'S house
+18
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+1
+Taming of the Shrew Act 5, Scene 1_Padua. Before LUCENTIO'S house
+2
+The Merchant of Venice Act 1, Scene 2_Belmont. A room in PORTIA'S house
+1
+The Tempest Act 3, Scene 2_Another part of the island
+1
+Timon of Athens Act 1, Scene 1_Athens. A hall in Timon's house
+1
+Timon of Athens Act 3, Scene 4_The same. A hall in Timon's house
+1
+Titus Andronicus Act 4, Scene 3_The same. A public place
+1
+Titus Andronicus Act 5, Scene 2_Rome. Before TITUS's house
+1
+Troilus and Cressida Act 2, Scene 1_A part of the Grecian camp
+1
+Troilus and Cressida Act 3, Scene 3_The Grecian camp. Before Achilles' tent
+2
+Troilus and Cressida Act 4, Scene 2_The same. Court of Pandarus' house
+2
+Two Gentlemen of Verona Act 2, Scene 4_Milan. The DUKE's palace
+1
+Winter's Tale Act 4, Scene 3_A road near the Shepherd's cottage
+1
+knockagainst
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+knockingat
+1
+Macbeth Act 2, Scene 2_The same
+1
+knockthat
+1
+Titus Andronicus Act 4, Scene 3_The same. A public place
+1
+knockyou
+1
+Taming of the Shrew Act 1, Scene 2_Padua. Before HORTENSIO'S house
+1
+knoll
+1
+Macbeth Act 5, Scene 8_Another part of the field
+1
+knot
+32
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+Antony and Cleopatra Act 2, Scene 2_Rome. The house of LEPIDUS
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+1
+Coriolanus Act 4, Scene 2_The same. A  street near the gate
+1
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+2
+Hamlet Act 1, Scene 5_Another part of the platform
+1
+Henry IV, part 1 Act 5, Scene 1_KING HENRY IV's camp near Shrewsbury
+1
+Henry V Act 1, Scene 1_London. An ante-chamber in the KING'S palace
+1
+Henry VI, part 1 Act 5, Scene 1_London. The palace
+1
+Henry VI, part 3 Act 3, Scene 3_France. KING LEWIS XI's palace
+1
+Julius Caesar Act 3, Scene 1_Rome. Before the Capitol; the Senate sitting above
+1
+King John Act 2, Scene 1_France. Before Angiers
+1
+King Lear Act 2, Scene 3_A wood
+1
+Love's Labours Lost Act 1, Scene 1_The king of Navarre's park
+1
+Macbeth Act 4, Scene 3_England. Before the King's palace
+1
+Othello Act 4, Scene 2_A room in the castle
+1
+Pericles, Prince of Tyre Act 4, Scene 2_Mytilene. A room in a brothel
+1
+Richard II Act 3, Scene 4_LANGLEY. The DUKE OF YORK's garden
+1
+Richard III Act 3, Scene 1_London. A street
+1
+Richard III Act 3, Scene 3_Pomfret Castle
+1
+Richard III Act 4, Scene 3_The same
+1
+Romeo and Juliet Act 4, Scene 2_Hall in Capulet's house
+1
+Taming of the Shrew Act 3, Scene 2_Padua. Before BAPTISTA'S house
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+The Tempest Act 4, Scene 1_Before PROSPERO'S cell
+1
+Timon of Athens Act 3, Scene 6_The same. A banqueting-room in Timon's house
+1
+Titus Andronicus Act 3, Scene 2_A room in Titus's house. A banquet set out
+1
+Troilus and Cressida Act 1, Scene 3_The Grecian camp. Before Agamemnon's tent
+3
+Troilus and Cressida Act 5, Scene 2_The same. Before Calchas' tent
+1
+Troilus and Cressida Act 5, Scene 3_Troy. Before Priam's palace
+1
+Twelfth Night Act 2, Scene 2_A street
+1
+Two Gentlemen of Verona Act 2, Scene 7_Verona. JULIA'S house
+1
+knotti
+3
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+Julius Caesar Act 1, Scene 3_The same. A street
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+know
+447
+A Midsummer Night's Dream Act 1, Scene 1_Athens. The palace of THESEUS
+4
+A Midsummer Night's Dream Act 2, Scene 1_A wood near Athens
+5
+A Midsummer Night's Dream Act 3, Scene 1_The wood. TITANIA lying asleep
+2
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+7
+A Midsummer Night's Dream Act 4, Scene 1_The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA
+1
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+5
+Antony and Cleopatra Act 1, Scene 2_The same. Another room
+4
+Antony and Cleopatra Act 1, Scene 3_The same. Another room
+3
+Antony and Cleopatra Act 1, Scene 4_Rome. OCTAVIUS CAESAR's house
+2
+Antony and Cleopatra Act 2, Scene 1_Messina. POMPEY's house
+4
+Antony and Cleopatra Act 2, Scene 2_Rome. The house of LEPIDUS
+2
+Antony and Cleopatra Act 2, Scene 6_Near Misenum
+5
+Antony and Cleopatra Act 2, Scene 7_On board POMPEY's galley, off Misenum
+2
+Antony and Cleopatra Act 3, Scene 12_Egypt. OCTAVIUS CAESAR's camp
+1
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+6
+Antony and Cleopatra Act 3, Scene 3_Alexandria. CLEOPATRA's palace
+2
+Antony and Cleopatra Act 3, Scene 6_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 3, Scene 7_Near Actium. MARK ANTONY's camp
+1
+Antony and Cleopatra Act 4, Scene 12_Another part of the same
+1
+Antony and Cleopatra Act 4, Scene 2_Alexandria. CLEOPATRA's palace
+1
+Antony and Cleopatra Act 4, Scene 4_The same. A room in the palace
+1
+Antony and Cleopatra Act 4, Scene 8_Under the walls of Alexandria
+1
+Antony and Cleopatra Act 5, Scene 1_Alexandria. OCTAVIUS CAESAR's camp
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+9
+Coriolanus Act 1, Scene 1_Rome. A street
+7
+Coriolanus Act 1, Scene 2_Corioli. The Senate-house
+2
+Coriolanus Act 1, Scene 5_Corioli. A street
+1
+Coriolanus Act 1, Scene 6_Near the camp of Cominius
+3
+Coriolanus Act 2, Scene 1_Rome. A public place
+10
+Coriolanus Act 2, Scene 2_The same. The Capitol
+3
+Coriolanus Act 2, Scene 3_The same. The Forum
+2
+Coriolanus Act 3, Scene 1_Rome. A street
+4
+Coriolanus Act 3, Scene 2_A room in CORIOLANUS'S house
+1
+Coriolanus Act 3, Scene 3_The same. The Forum
+4
+Coriolanus Act 4, Scene 2_The same. A  street near the gate
+1
+Coriolanus Act 4, Scene 3_A highway between Rome and Antium
+2
+Coriolanus Act 4, Scene 4_Antium. Before Aufidius's house
+1
+Coriolanus Act 4, Scene 5_The same. A hall in Aufidius's house
+4
+Coriolanus Act 4, Scene 6_Rome. A public place
+2
+Coriolanus Act 4, Scene 7_A camp, at a small distance from Rome
+2
+Coriolanus Act 5, Scene 1_Rome. A public place
+2
+Coriolanus Act 5, Scene 2_Entrance of the Volscian camp before Rome
+4
+Coriolanus Act 5, Scene 3_The tent of Coriolanus
+2
+Coriolanus Act 5, Scene 4_Rome. A public place
+1
+Coriolanus Act 5, Scene 6_Antium. A public place
+2
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+2
+Cymbeline Act 1, Scene 4_Rome. Philario's house
+1
+Cymbeline Act 1, Scene 5_Britain. A room in Cymbeline's palace
+2
+Cymbeline Act 1, Scene 6_The same. Another room in the palace
+5
+Cymbeline Act 2, Scene 1_Britain. Before Cymbeline's palace
+3
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+2
+Cymbeline Act 2, Scene 4_Rome. Philario's house
+2
+Cymbeline Act 2, Scene 5_Another room in Philario's house
+2
+Cymbeline Act 3, Scene 1_Britain. A hall in Cymbeline's palace
+2
+Cymbeline Act 3, Scene 3_Wales a mountainous country with a cave
+4
+Cymbeline Act 3, Scene 4_Country near Milford-Haven
+1
+Cymbeline Act 3, Scene 5_A room in Cymbeline's palace
+1
+Cymbeline Act 3, Scene 6_Wales. Before the cave of Belarius
+2
+Cymbeline Act 4, Scene 2_Before the cave of Belarius
+7
+Cymbeline Act 4, Scene 3_A room in Cymbeline's palace
+3
+Cymbeline Act 4, Scene 4_Wales before the cave of Belarius
+1
+Cymbeline Act 5, Scene 3_Another part of the field
+1
+Cymbeline Act 5, Scene 4_A British prison
+7
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+9
+Hamlet Act 1, Scene 1_Elsinore. A platform before the castle
+3
+Hamlet Act 1, Scene 2_A room of state in the castle
+7
+Hamlet Act 1, Scene 3_A room in Polonius' house
+2
+Hamlet Act 1, Scene 5_Another part of the platform
+5
+Hamlet Act 2, Scene 1_A room in POLONIUS' house
+5
+Hamlet Act 2, Scene 2_A room in the castle
+9
+Hamlet Act 3, Scene 1_A room in the castle
+3
+Hamlet Act 3, Scene 2_A hall in the castle
+4
+Hamlet Act 3, Scene 3_A room in the castle
+3
+Hamlet Act 3, Scene 4_The Queen's closet
+3
+Hamlet Act 4, Scene 1_A room in the castle
+1
+Hamlet Act 4, Scene 3_Another room in the castle
+2
+Hamlet Act 4, Scene 4_A plain in Denmark
+2
+Hamlet Act 4, Scene 5_Elsinore. A room in the castle
+5
+Hamlet Act 4, Scene 6_Another room in the castle
+2
+Hamlet Act 4, Scene 7_Another room in the castle
+6
+Hamlet Act 5, Scene 1_A churchyard
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+10
+Henry IV, part 1 Act 1, Scene 2_London. An apartment of the Prince's
+5
+Henry IV, part 1 Act 1, Scene 3_London. The palace
+1
+Henry IV, part 1 Act 2, Scene 1_Rochester. An inn yard
+3
+Henry IV, part 1 Act 2, Scene 2_The highway, near Gadshill
+2
+Henry IV, part 1 Act 2, Scene 3_Warkworth castle
+4
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+9
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+8
+Henry IV, part 1 Act 4, Scene 1_The rebel camp near Shrewsbury
+2
+Henry IV, part 1 Act 4, Scene 2_A public road near Coventry
+1
+Henry IV, part 1 Act 4, Scene 3_The rebel camp near Shrewsbury
+2
+Henry IV, part 1 Act 5, Scene 2_The rebel camp
+2
+Henry IV, part 1 Act 5, Scene 3_Plain between the camps
+2
+Henry IV, part 2 Act 1, Scene 2_London. A street
+1
+Henry IV, part 2 Act 1, Scene 3_York. The Archbishop's palace
+1
+Henry IV, part 2 Act 2, Scene 1_London. A street
+1
+Henry IV, part 2 Act 2, Scene 2_London. Another street
+3
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+7
+Henry IV, part 2 Act 3, Scene 1_Westminster. The palace
+1
+Henry IV, part 2 Act 3, Scene 2_Gloucestershire. Before SHALLOW'S house
+2
+Henry IV, part 2 Act 4, Scene 1_Yorkshire. Gaultree Forest
+4
+Henry IV, part 2 Act 4, Scene 2_Another part of the forest
+2
+Henry IV, part 2 Act 4, Scene 3_Another part of the forest
+2
+Henry IV, part 2 Act 4, Scene 4_Westminster. The Jerusalem Chamber
+3
+Henry IV, part 2 Act 4, Scene 5_Another chamber
+2
+Henry IV, part 2 Act 5, Scene 2_Westminster. The palace
+1
+Henry IV, part 2 Act 5, Scene 3_Gloucestershire. SHALLOW'S orchard
+3
+Henry IV, part 2 Act 5, Scene 5_A public place near Westminster Abbey
+5
+Henry V Act 1, Scene 1_London. An ante-chamber in the KING'S palace
+1
+Henry V Act 1, Scene 2_The same. The Presence chamber
+3
+Henry V Act 2, Scene 2_Southampton. A council-chamber
+3
+Henry V Act 2, Scene 4_France. The KING'S palace
+2
+Henry V Act 3, Scene 2_The same
+2
+Henry V Act 3, Scene 5_The same
+1
+Henry V Act 3, Scene 6_The English camp in Picardy
+7
+Henry V Act 3, Scene 7_The French camp, near Agincourt
+2
+Henry V Act 4, Scene 1_The English camp at Agincourt
+6
+Henry V Act 4, Scene 3_The English camp
+2
+Henry V Act 4, Scene 4_The field of battle
+2
+Henry V Act 4, Scene 7_Another part of the field
+8
+Henry V Act 4, Scene 8_Before KING HENRY'S pavilion
+4
+Henry V Act 5, Scene 1_France. The English camp
+1
+Henry V Act 5, Scene 2_France. A royal palace
+7
+Henry VI, part 1 Act 1, Scene 2_France. Before Orleans
+3
+Henry VI, part 1 Act 1, Scene 3_London. Before the Tower
+1
+Henry VI, part 1 Act 1, Scene 4_Orleans
+2
+Henry VI, part 1 Act 1, Scene 5_The same
+1
+Henry VI, part 1 Act 2, Scene 3_Auvergne. The COUNTESS's castle
+1
+Henry VI, part 1 Act 2, Scene 4_London. The Temple-garden
+1
+Henry VI, part 1 Act 3, Scene 1_London. The Parliament-house
+3
+Henry VI, part 1 Act 3, Scene 4_Paris. The palace
+1
+Henry VI, part 1 Act 4, Scene 1_Paris. A hall of state
+2
+Henry VI, part 1 Act 4, Scene 7_Another part of the field
+2
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+4
+Henry VI, part 1 Act 5, Scene 5_London. The palace
+2
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+1
+Henry VI, part 2 Act 1, Scene 2_GLOUCESTER'S house
+2
+Henry VI, part 2 Act 1, Scene 4_GLOUCESTER's garden
+1
+Henry VI, part 2 Act 2, Scene 1_Saint Alban's
+7
+Henry VI, part 2 Act 2, Scene 2_London. YORK'S garden
+2
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+4
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+6
+Henry VI, part 2 Act 4, Scene 10_Kent. IDEN's garden
+1
+Henry VI, part 2 Act 4, Scene 1_The coast of Kent
+1
+Henry VI, part 2 Act 4, Scene 2_Blackheath
+1
+Henry VI, part 2 Act 4, Scene 4_London. The palace
+1
+Henry VI, part 2 Act 4, Scene 8_Southwark
+2
+Henry VI, part 2 Act 5, Scene 1_Fields between Dartford and Blackheath
+5
+Henry VI, part 2 Act 5, Scene 3_Fields near St. Alban's
+2
+Henry VI, part 3 Act 1, Scene 1_London. The Parliament-house
+2
+Henry VI, part 3 Act 1, Scene 4_Another part of the field
+3
+Henry VI, part 3 Act 2, Scene 1_A plain near Mortimer's Cross in Herefordshire
+2
+Henry VI, part 3 Act 2, Scene 2_Before York
+3
+Henry VI, part 3 Act 2, Scene 6_Another part of the field
+2
+Henry VI, part 3 Act 3, Scene 1_A forest in the north of England
+1
+Henry VI, part 3 Act 3, Scene 2_London. The palace
+5
+Henry VI, part 3 Act 3, Scene 3_France. KING LEWIS XI's palace
+1
+Henry VI, part 3 Act 4, Scene 1_London. The palace
+2
+Henry VI, part 3 Act 4, Scene 3_Edward's camp, near Warwick
+1
+Henry VI, part 3 Act 4, Scene 5_A park near Middleham Castle In Yorkshire
+1
+Henry VI, part 3 Act 4, Scene 7_Before York
+1
+Henry VIII Act 1, Prologue_PROLOGUE
+1
+Henry VIII Act 1, Scene 1_London. An ante-chamber in the palace
+5
+Henry VIII Act 1, Scene 2_The same. The council-chamber
+7
+Henry VIII Act 2, Scene 2_An ante-chamber in the palace
+6
+Henry VIII Act 2, Scene 3_An ante-chamber of the QUEEN'S apartments
+2
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+2
+Henry VIII Act 3, Scene 1_London. QUEEN KATHARINE's apartments
+8
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+9
+Henry VIII Act 4, Scene 1_A street in Westminster
+3
+Henry VIII Act 4, Scene 2_Kimbolton
+2
+Henry VIII Act 5, Scene 1_London. A gallery in the palace
+6
+Henry VIII Act 5, Scene 2_Before the council-chamber. Pursuivants, Pages,  & c
+1
+Henry VIII Act 5, Scene 3_The Council-Chamber
+4
+Henry VIII Act 5, Scene 4_The palace yard
+1
+Henry VIII Act 5, Scene 5_The palace
+1
+Julius Caesar Act 1, Scene 1_Rome. A street
+2
+Julius Caesar Act 1, Scene 2_A public place
+6
+Julius Caesar Act 1, Scene 3_The same. A street
+8
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+10
+Julius Caesar Act 2, Scene 2_CAESAR's house
+4
+Julius Caesar Act 2, Scene 4_Another part of the same street, before the house of BRUTUS
+3
+Julius Caesar Act 3, Scene 1_Rome. Before the Capitol; the Senate sitting above
+10
+Julius Caesar Act 3, Scene 2_The Forum
+12
+Julius Caesar Act 4, Scene 2_Camp near Sardis. Before BRUTUS's tent
+1
+Julius Caesar Act 4, Scene 3_Brutus's tent
+6
+Julius Caesar Act 5, Scene 1_The plains of Philippi
+3
+Julius Caesar Act 5, Scene 4_Another part of the field
+1
+Julius Caesar Act 5, Scene 5_Another part of the field
+2
+King John Act 1, Scene 1_KING JOHN'S palace
+4
+King John Act 2, Scene 1_France. Before Angiers
+5
+King John Act 3, Scene 1_The French King's pavilion
+2
+King John Act 3, Scene 3_The same
+1
+King John Act 3, Scene 4_The same. KING PHILIP'S tent
+2
+King John Act 4, Scene 1_A room in a castle
+1
+King John Act 4, Scene 2_KING JOHN'S palace
+3
+King John Act 4, Scene 3_Before the castle
+2
+King John Act 5, Scene 1_KING JOHN'S palace
+1
+King John Act 5, Scene 2_LEWIS's camp at St. Edmundsbury
+4
+King John Act 5, Scene 6_An open place in the neighbourhood of Swinstead Abbey
+2
+King John Act 5, Scene 7_The orchard in Swinstead Abbey
+3
+King Lear Act 1, Scene 1_King Lear's palace
+5
+King Lear Act 1, Scene 2_The Earl of Gloucester's castle
+4
+King Lear Act 1, Scene 3_The Duke of Albany's palace
+1
+King Lear Act 1, Scene 4_A hall in the same
+11
+King Lear Act 2, Scene 1_GLOUCESTER's castle
+4
+King Lear Act 2, Scene 2_Before Gloucester's castle
+10
+King Lear Act 2, Scene 4_Before GLOUCESTER's castle. KENT in the stocks
+9
+King Lear Act 3, Scene 1_A heath
+3
+King Lear Act 3, Scene 3_Gloucester's castle
+1
+King Lear Act 3, Scene 7_Gloucester's castle
+1
+King Lear Act 4, Scene 1_The heath
+2
+King Lear Act 4, Scene 2_Before ALBANY's palace
+3
+King Lear Act 4, Scene 5_Gloucester's castle
+5
+King Lear Act 4, Scene 6_Fields near Dover
+8
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+8
+King Lear Act 5, Scene 1_The British camp, near Dover
+3
+King Lear Act 5, Scene 3_The British camp near Dover
+9
+Love's Labours Lost Act 1, Scene 1_The king of Navarre's park
+13
+Love's Labours Lost Act 1, Scene 2_The same
+3
+Love's Labours Lost Act 2, Scene 1_The same
+7
+Love's Labours Lost Act 3, Scene 1_The same
+2
+Love's Labours Lost Act 4, Scene 1_The same
+3
+Love's Labours Lost Act 4, Scene 2_The same
+2
+Love's Labours Lost Act 4, Scene 3_The same
+4
+Love's Labours Lost Act 5, Scene 2_The same
+13
+Macbeth Act 1, Scene 3_A heath near Forres
+2
+Macbeth Act 1, Scene 7_Macbeth's castle
+2
+Macbeth Act 2, Scene 2_The same
+2
+Macbeth Act 2, Scene 3_The same
+3
+Macbeth Act 2, Scene 4_Outside Macbeth's castle
+1
+Macbeth Act 3, Scene 2_The palace
+1
+Macbeth Act 3, Scene 4_The same. Hall in the palace
+3
+Macbeth Act 3, Scene 5_A Heath
+2
+Macbeth Act 4, Scene 1_A cavern. In the middle, a boiling cauldron
+5
+Macbeth Act 4, Scene 2_Fife. Macduff's castle
+3
+Macbeth Act 4, Scene 3_England. Before the King's palace
+6
+Macbeth Act 5, Scene 1_Dunsinane. Ante-room in the castle
+2
+Macbeth Act 5, Scene 2_The country near Dunsinane
+1
+Macbeth Act 5, Scene 5_Dunsinane. Within the castle
+1
+Measure for Measure Act 1, Scene 1_An apartment in the DUKE'S palace
+3
+Measure for Measure Act 1, Scene 2_A Street
+3
+Measure for Measure Act 1, Scene 3_A monastery
+1
+Measure for Measure Act 1, Scene 4_A nunnery
+3
+Measure for Measure Act 2, Scene 1_A hall In ANGELO's house
+8
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+Measure for Measure Act 2, Scene 4_A room in ANGELO's house
+4
+Measure for Measure Act 3, Scene 1_A room in the prison
+2
+Measure for Measure Act 3, Scene 2_The street before the prison
+12
+Measure for Measure Act 4, Scene 1_The moated grange at ST. LUKE's
+1
+Measure for Measure Act 4, Scene 2_A room in the prison
+5
+Measure for Measure Act 4, Scene 5_Fields without the town
+1
+Measure for Measure Act 5, Scene 1_The city gate
+18
+Much Ado About Nothing Act 1, Scene 1_Before LEONATO'S house
+5
+Much Ado About Nothing Act 1, Scene 2_A room in LEONATO's house
+1
+Much Ado About Nothing Act 2, Scene 1_A hall in LEONATO'S house
+11
+Much Ado About Nothing Act 2, Scene 3_LEONATO'S orchard
+2
+Much Ado About Nothing Act 3, Scene 1_LEONATO'S garden
+3
+Much Ado About Nothing Act 3, Scene 2_A room in LEONATO'S house
+8
+Much Ado About Nothing Act 3, Scene 3_A street
+6
+Much Ado About Nothing Act 3, Scene 4_HERO's apartment
+1
+Much Ado About Nothing Act 3, Scene 5_Another room in LEONATO'S house
+1
+Much Ado About Nothing Act 4, Scene 1_A church
+13
+Much Ado About Nothing Act 4, Scene 2_A prison
+1
+Much Ado About Nothing Act 5, Scene 1_Before LEONATO'S house
+9
+Much Ado About Nothing Act 5, Scene 2_LEONATO'S garden
+2
+Much Ado About Nothing Act 5, Scene 4_A room in LEONATO'S house
+1
+Othello Act 1, Scene 1_Venice. A street
+7
+Othello Act 1, Scene 2_Another street
+3
+Othello Act 1, Scene 3_A council-chamber
+2
+Othello Act 2, Scene 1_A Sea-port in Cyprus. An open place near the quay
+2
+Othello Act 2, Scene 3_A hall in the castle
+7
+Othello Act 3, Scene 1_Before the castle
+1
+Othello Act 3, Scene 3_The garden of the castle
+16
+Othello Act 3, Scene 4_Before the castle
+6
+Othello Act 4, Scene 1_Cyprus. Before the castle
+5
+Othello Act 4, Scene 2_A room in the castle
+6
+Othello Act 4, Scene 3_Another room In the castle
+2
+Othello Act 5, Scene 1_Cyprus. A street
+8
+Othello Act 5, Scene 2_A bedchamber in the castle DESDEMONA in bed asleep;
+11
+Pericles, Prince of Tyre Act 1, Scene 1_Antioch. A room in the palace
+5
+Pericles, Prince of Tyre Act 1, Scene 2_Tyre. A room in the palace
+2
+Pericles, Prince of Tyre Act 1, Scene 3_Tyre. An ante-chamber in the palace
+2
+Pericles, Prince of Tyre Act 1, Scene 4_Tarsus. A room in the Governor's house
+1
+Pericles, Prince of Tyre Act 2, Scene 1_Pentapolis. An open place by the sea-side
+3
+Pericles, Prince of Tyre Act 2, Scene 3_The same. A hall of state a banquet prepared
+3
+Pericles, Prince of Tyre Act 2, Scene 4_Tyre. A room in the Governor's house
+5
+Pericles, Prince of Tyre Act 2, Scene 5_Pentapolis. A room in the palace
+2
+Pericles, Prince of Tyre Act 3, Scene 4_Ephesus. A room in CERIMON's house
+1
+Pericles, Prince of Tyre Act 4, Scene 1_Tarsus. An open place near the sea-shore
+1
+Pericles, Prince of Tyre Act 4, Scene 2_Mytilene. A room in a brothel
+2
+Pericles, Prince of Tyre Act 4, Scene 3_Tarsus. A room in CLEON's house
+3
+Pericles, Prince of Tyre Act 4, Scene 6_The same. A room in the brothel
+3
+Pericles, Prince of Tyre Act 5, Scene 1_On board PERICLES' ship, off Mytilene. A close
+5
+Pericles, Prince of Tyre Act 5, Scene 3_The temple of Diana at Ephesus; THAISA standing
+2
+Richard II Act 1, Scene 3_The lists at Coventry
+3
+Richard II Act 1, Scene 4_The court
+1
+Richard II Act 2, Scene 1_Ely House
+1
+Richard II Act 2, Scene 2_The palace
+3
+Richard II Act 2, Scene 3_Wilds in Gloucestershire
+3
+Richard II Act 3, Scene 2_The coast of Wales. A castle in view
+2
+Richard II Act 3, Scene 3_Wales. Before Flint castle
+5
+Richard II Act 3, Scene 4_LANGLEY. The DUKE OF YORK's garden
+2
+Richard II Act 4, Scene 1_Westminster Hall
+3
+Richard II Act 5, Scene 1_London. A street leading to the Tower
+2
+Richard II Act 5, Scene 2_The DUKE OF YORK's palace
+6
+Richard II Act 5, Scene 3_A royal palace
+3
+Richard III Act 1, Scene 1_London. A street
+4
+Richard III Act 1, Scene 2_The same. Another street
+6
+Richard III Act 1, Scene 3_The palace
+2
+Richard III Act 1, Scene 4_London. The Tower
+2
+Richard III Act 2, Scene 1_London. The palace
+4
+Richard III Act 2, Scene 3_London. A street
+1
+Richard III Act 3, Scene 1_London. A street
+5
+Richard III Act 3, Scene 2_Before Lord Hastings' house
+6
+Richard III Act 3, Scene 3_Pomfret Castle
+1
+Richard III Act 3, Scene 4_The Tower of London
+7
+Richard III Act 3, Scene 5_The Tower-walls
+1
+Richard III Act 3, Scene 7_Baynard's Castle
+5
+Richard III Act 4, Scene 2_London. The palace
+3
+Richard III Act 4, Scene 3_The same
+2
+Richard III Act 4, Scene 4_Before the palace
+6
+Richard III Act 5, Scene 3_Bosworth Field
+1
+Romeo and Juliet Act 1, Scene 1_Verona. A public place
+6
+Romeo and Juliet Act 1, Scene 2_A street
+1
+Romeo and Juliet Act 1, Scene 3_A room in Capulet's house
+1
+Romeo and Juliet Act 1, Scene 5_A hall in Capulet's house
+3
+Romeo and Juliet Act 2, Scene 2_Capulet's orchard
+4
+Romeo and Juliet Act 2, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 2, Scene 4_A street
+1
+Romeo and Juliet Act 2, Scene 5_Capulet's orchard
+2
+Romeo and Juliet Act 3, Scene 1_A public place
+2
+Romeo and Juliet Act 3, Scene 3_Friar Laurence's cell
+1
+Romeo and Juliet Act 3, Scene 4_A room in Capulet's house
+1
+Romeo and Juliet Act 3, Scene 5_Capulet's orchard
+3
+Romeo and Juliet Act 4, Scene 1_Friar Laurence's cell
+4
+Romeo and Juliet Act 4, Scene 3_Juliet's chamber
+2
+Romeo and Juliet Act 4, Scene 4_Hall in Capulet's house
+1
+Romeo and Juliet Act 4, Scene 5_Juliet's chamber
+2
+Romeo and Juliet Act 5, Scene 1_Mantua. A street
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+6
+Taming of the Shrew Act 1, Scene 1_Padua. A public place
+7
+Taming of the Shrew Act 1, Scene 2_Padua. Before HORTENSIO'S house
+8
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+10
+Taming of the Shrew Act 3, Scene 1_Padua. BAPTISTA'S house
+3
+Taming of the Shrew Act 3, Scene 2_Padua. Before BAPTISTA'S house
+5
+Taming of the Shrew Act 4, Scene 1_PETRUCHIO'S country house
+6
+Taming of the Shrew Act 4, Scene 2_Padua. Before BAPTISTA'S house
+5
+Taming of the Shrew Act 4, Scene 3_A room in PETRUCHIO'S house
+1
+Taming of the Shrew Act 4, Scene 4_Padua. Before BAPTISTA'S house
+2
+Taming of the Shrew Act 4, Scene 5_A public road
+2
+Taming of the Shrew Act 5, Scene 1_Padua. Before LUCENTIO'S house
+1
+Taming of the Shrew Act 5, Scene 2_Padua. LUCENTIO'S house
+2
+Taming of the Shrew Induction, Scene 1_Before an alehouse on a heath
+2
+Taming of the Shrew Induction, Scene 2_A bedchamber in the Lord's house
+3
+The Merchant of Venice Act 1, Scene 1_Venice. A street
+9
+The Merchant of Venice Act 1, Scene 2_Belmont. A room in PORTIA'S house
+4
+The Merchant of Venice Act 2, Scene 2_Venice. A street
+10
+The Merchant of Venice Act 2, Scene 4_The same. A street
+1
+The Merchant of Venice Act 2, Scene 6_The same
+1
+The Merchant of Venice Act 2, Scene 7_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 3, Scene 1_Venice. A street
+1
+The Merchant of Venice Act 3, Scene 2_Belmont. A room in PORTIA'S house
+3
+The Merchant of Venice Act 3, Scene 3_Venice. A street
+1
+The Merchant of Venice Act 3, Scene 4_Belmont. A room in PORTIA'S house
+3
+The Merchant of Venice Act 3, Scene 5_The same. A garden
+1
+The Merchant of Venice Act 4, Scene 1_Venice. A court of justice
+4
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+6
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+10
+The Tempest Act 2, Scene 1_Another part of the island
+1
+The Tempest Act 2, Scene 2_Another part of the island
+2
+The Tempest Act 3, Scene 2_Another part of the island
+1
+The Tempest Act 4, Scene 1_Before PROSPERO'S cell
+3
+The Tempest Act 5, Scene 1_Before PROSPERO'S cell
+6
+Timon of Athens Act 1, Scene 1_Athens. A hall in Timon's house
+7
+Timon of Athens Act 1, Scene 2_A banqueting-room in Timon's house
+3
+Timon of Athens Act 2, Scene 2_The same. A hall in Timon's house
+4
+Timon of Athens Act 3, Scene 1_A room in Lucullus' house
+1
+Timon of Athens Act 3, Scene 2_A public place
+3
+Timon of Athens Act 3, Scene 3_A room in Sempronius' house
+1
+Timon of Athens Act 3, Scene 4_The same. A hall in Timon's house
+3
+Timon of Athens Act 3, Scene 5_The same. The senate-house. The Senate sitting
+2
+Timon of Athens Act 3, Scene 6_The same. A banqueting-room in Timon's house
+2
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+12
+Timon of Athens Act 5, Scene 1_The woods. Before Timon's cave
+5
+Titus Andronicus Act 1, Scene 1_Rome. Before the Capitol
+5
+Titus Andronicus Act 2, Scene 1_Rome. Before the Palace
+5
+Titus Andronicus Act 2, Scene 3_A lonely part of the forest
+8
+Titus Andronicus Act 3, Scene 1_Rome. A street
+1
+Titus Andronicus Act 3, Scene 2_A room in Titus's house. A banquet set out
+1
+Titus Andronicus Act 4, Scene 1_Rome. Titus's garden
+5
+Titus Andronicus Act 4, Scene 2_The same. A room in the palace
+1
+Titus Andronicus Act 4, Scene 3_The same. A public place
+1
+Titus Andronicus Act 4, Scene 4_The same. Before the palace
+6
+Titus Andronicus Act 5, Scene 1_Plains near Rome
+3
+Titus Andronicus Act 5, Scene 2_Rome. Before TITUS's house
+9
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+1
+Troilus and Cressida Act 1, Scene 2_The Same. A street
+8
+Troilus and Cressida Act 1, Scene 3_The Grecian camp. Before Agamemnon's tent
+6
+Troilus and Cressida Act 2, Scene 1_A part of the Grecian camp
+4
+Troilus and Cressida Act 2, Scene 2_Troy. A room in Priam's palace
+5
+Troilus and Cressida Act 2, Scene 3_The Grecian camp. Before Achilles' tent
+3
+Troilus and Cressida Act 3, Scene 1_Troy. Priam's palace
+7
+Troilus and Cressida Act 3, Scene 2_The same. Pandarus' orchard
+3
+Troilus and Cressida Act 3, Scene 3_The Grecian camp. Before Achilles' tent
+7
+Troilus and Cressida Act 4, Scene 1_Troy. A street
+3
+Troilus and Cressida Act 4, Scene 2_The same. Court of Pandarus' house
+3
+Troilus and Cressida Act 4, Scene 3_The same. Street before Pandarus' house
+1
+Troilus and Cressida Act 4, Scene 4_The same. Pandarus' house
+2
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+5
+Troilus and Cressida Act 5, Scene 3_Troy. Before Priam's palace
+1
+Troilus and Cressida Act 5, Scene 5_Another part of the plains
+1
+Twelfth Night Act 1, Scene 2_The sea-coast
+2
+Twelfth Night Act 1, Scene 4_DUKE ORSINO's palace
+2
+Twelfth Night Act 1, Scene 5_OLIVIA'S house
+5
+Twelfth Night Act 2, Scene 1_The sea-coast
+3
+Twelfth Night Act 2, Scene 3_OLIVIA's house
+7
+Twelfth Night Act 2, Scene 4_DUKE ORSINO's palace
+3
+Twelfth Night Act 2, Scene 5_OLIVIA's garden
+7
+Twelfth Night Act 3, Scene 2_OLIVIA's house
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+12
+Twelfth Night Act 4, Scene 1_Before OLIVIA's house
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+8
+Two Gentlemen of Verona Act 1, Scene 2_The same. Garden of JULIA's house
+2
+Two Gentlemen of Verona Act 1, Scene 3_The same. ANTONIO's house
+1
+Two Gentlemen of Verona Act 2, Scene 1_Milan. The DUKE's palace
+7
+Two Gentlemen of Verona Act 2, Scene 4_Milan. The DUKE's palace
+8
+Two Gentlemen of Verona Act 2, Scene 7_Verona. JULIA'S house
+3
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+8
+Two Gentlemen of Verona Act 3, Scene 2_The same. The DUKE's palace
+2
+Two Gentlemen of Verona Act 4, Scene 1_The frontiers of Mantua. A forest
+2
+Two Gentlemen of Verona Act 4, Scene 2_Milan. Outside the DUKE's palace, under SILVIA's chamber
+2
+Two Gentlemen of Verona Act 4, Scene 3_The same
+3
+Two Gentlemen of Verona Act 4, Scene 4_The same
+7
+Two Gentlemen of Verona Act 5, Scene 2_The same. The DUKE's palace
+1
+Two Gentlemen of Verona Act 5, Scene 4_Another part of the forest
+2
+Winter's Tale Act 1, Scene 2_A room of state in the same
+7
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+4
+Winter's Tale Act 2, Scene 2_A prison
+2
+Winter's Tale Act 2, Scene 3_A room in LEONTES' palace
+1
+Winter's Tale Act 3, Scene 2_A court of Justice
+5
+Winter's Tale Act 4, Scene 3_A road near the Shepherd's cottage
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+25
+Winter's Tale Act 5, Scene 1_A room in LEONTES' palace
+2
+Winter's Tale Act 5, Scene 2_Before LEONTES' palace
+6
+Winter's Tale Act 5, Scene 3_A chapel in PAULINA'S house
+2
+knowa
+3
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+The Merchant of Venice Act 3, Scene 2_Belmont. A room in PORTIA'S house
+1
+The Merchant of Venice Act 3, Scene 5_The same. A garden
+1
+knowall
+2
+Macbeth Act 4, Scene 3_England. Before the King's palace
+1
+Macbeth Act 5, Scene 3_Dunsinane. A room in the castle
+1
+knowan
+1
+Titus Andronicus Act 5, Scene 1_Plains near Rome
+1
+knowand
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+knowbi
+1
+Love's Labours Lost Act 5, Scene 2_The same
+1
+knowdid
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+knowenough
+1
+Henry V Act 4, Scene 1_The English camp at Agincourt
+1
+knower
+1
+Troilus and Cressida Act 2, Scene 3_The Grecian camp. Before Achilles' tent
+2
+knowest
+14
+Coriolanus Act 4, Scene 5_The same. A hall in Aufidius's house
+1
+Hamlet Act 4, Scene 6_Another room in the castle
+1
+Henry IV, part 1 Act 2, Scene 1_Rochester. An inn yard
+1
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+1
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+2
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+1
+Henry V Act 4, Scene 7_Another part of the field
+1
+King Lear Act 1, Scene 4_A hall in the same
+1
+Love's Labours Lost Act 3, Scene 1_The same
+1
+Measure for Measure Act 2, Scene 1_A hall In ANGELO's house
+1
+Measure for Measure Act 4, Scene 3_Another room in the same
+1
+Much Ado About Nothing Act 3, Scene 3_A street
+1
+Timon of Athens Act 4, Scene 3_Woods and cave, near the seashore
+1
+Troilus and Cressida Act 2, Scene 3_The Grecian camp. Before Achilles' tent
+1
+knowfrom
+1
+Hamlet Act 4, Scene 5_Elsinore. A room in the castle
+1
+knowh
+1
+Measure for Measure Act 1, Scene 2_A Street
+1
+knowhath
+2
+Henry IV, part 2 Act 1, Scene 1_The same
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+1
+knowhi
+1
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+knowhow
+8
+Antony and Cleopatra Act 3, Scene 11_Alexandria. CLEOPATRA's palace
+1
+Henry VI, part 3 Act 2, Scene 2_Before York
+1
+Henry VIII Act 1, Scene 1_London. An ante-chamber in the palace
+1
+Henry VIII Act 3, Scene 1_London. QUEEN KATHARINE's apartments
+1
+Macbeth Act 1, Scene 7_Macbeth's castle
+1
+Much Ado About Nothing Act 3, Scene 1_LEONATO'S garden
+1
+Othello Act 2, Scene 3_A hall in the castle
+1
+Winter's Tale Act 2, Scene 2_A prison
+1
+knowi
+8
+Antony and Cleopatra Act 4, Scene 1_Before Alexandria. OCTAVIUS CAESAR's camp
+1
+Cymbeline Act 4, Scene 2_Before the cave of Belarius
+1
+Henry IV, part 1 Act 1, Scene 3_London. The palace
+1
+Henry VIII Act 4, Scene 2_Kimbolton
+1
+Macbeth Act 1, Scene 3_A heath near Forres
+1
+Measure for Measure Act 1, Scene 4_A nunnery
+1
+Measure for Measure Act 4, Scene 1_The moated grange at ST. LUKE's
+1
+Measure for Measure Act 5, Scene 1_The city gate
+1
+knowif
+2
+Antony and Cleopatra Act 2, Scene 6_Near Misenum
+1
+Measure for Measure Act 4, Scene 3_Another room in the same
+1
+knowingof
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+knowingshould
+1
+Cymbeline Act 2, Scene 2_Imogen's bedchamber in Cymbeline's palace
+1
+knowist
+2
+Measure for Measure Act 5, Scene 1_The city gate
+1
+The Merchant of Venice Act 4, Scene 2_The same. A street
+1
+knowkinsmen
+1
+Henry VIII Act 1, Scene 1_London. An ante-chamber in the palace
+1
+knowledg
+49
+Antony and Cleopatra Act 1, Scene 4_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 2, Scene 2_Rome. The house of LEPIDUS
+1
+Antony and Cleopatra Act 3, Scene 7_Near Actium. MARK ANTONY's camp
+1
+Antony and Cleopatra Act 4, Scene 12_Another part of the same
+1
+Coriolanus Act 2, Scene 2_The same. The Capitol
+1
+Coriolanus Act 2, Scene 3_The same. The Forum
+1
+Cymbeline Act 2, Scene 4_Rome. Philario's house
+2
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Hamlet Act 2, Scene 1_A room in POLONIUS' house
+1
+Henry IV, part 2 Act 1, Scene 1_The same
+1
+Henry IV, part 2 Act 5, Scene 1_Gloucestershire. SHALLOW'S house
+1
+Henry V Act 3, Scene 7_The French camp, near Agincourt
+1
+Henry V Act 4, Scene 7_Another part of the field
+1
+Henry V Act 4, Scene 8_Before KING HENRY'S pavilion
+1
+Henry VI, part 1 Act 2, Scene 1_Before Orleans
+1
+Henry VI, part 2 Act 4, Scene 7_London. Smithfield
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+Henry VIII Act 5, Scene 3_The Council-Chamber
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+King John Act 5, Scene 2_LEWIS's camp at St. Edmundsbury
+1
+King Lear Act 1, Scene 4_A hall in the same
+1
+King Lear Act 3, Scene 1_A heath
+1
+King Lear Act 4, Scene 6_Fields near Dover
+1
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+1
+Love's Labours Lost Act 1, Scene 1_The king of Navarre's park
+1
+Love's Labours Lost Act 2, Scene 1_The same
+1
+Love's Labours Lost Act 4, Scene 2_The same
+1
+Macbeth Act 1, Scene 2_A camp near Forres
+1
+Macbeth Act 1, Scene 5_Inverness. Macbeth's castle
+1
+Macbeth Act 3, Scene 2_The palace
+1
+Measure for Measure Act 3, Scene 2_The street before the prison
+2
+Measure for Measure Act 4, Scene 1_The moated grange at ST. LUKE's
+1
+Measure for Measure Act 5, Scene 1_The city gate
+1
+Othello Act 1, Scene 3_A council-chamber
+1
+Pericles, Prince of Tyre Act 1, Scene 2_Tyre. A room in the palace
+1
+Pericles, Prince of Tyre Act 3, Scene 2_Ephesus. A room in CERIMON's house
+1
+Richard II Act 2, Scene 3_Wilds in Gloucestershire
+1
+Richard III Act 1, Scene 3_The palace
+1
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+1
+The Merchant of Venice Act 1, Scene 1_Venice. A street
+1
+The Tempest Act 5, Scene 1_Before PROSPERO'S cell
+1
+Troilus and Cressida Act 4, Scene 1_Troy. A street
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+1
+Winter's Tale Act 1, Scene 1_Antechamber in LEONTES' palace
+1
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+2
+Winter's Tale Act 2, Scene 2_A prison
+1
+Winter's Tale Act 3, Scene 1_A sea-port in Sicilia
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+Winter's Tale Act 5, Scene 2_Before LEONTES' palace
+1
+knowledgeeith
+1
+Henry VIII Act 3, Scene 2_Ante-chamber to KING HENRY VIII's apartment
+1
+knowledgei
+1
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+1
+knowledgemor
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+knowledgeof
+1
+Coriolanus Act 5, Scene 1_Rome. A public place
+1
+knowledgesh
+1
+Pericles, Prince of Tyre Act 5, Scene 1_On board PERICLES' ship, off Mytilene. A close
+1
+knowledgethereof
+1
+Winter's Tale Act 1, Scene 2_A room of state in the same
+1
+knowledgetouch
+1
+Cymbeline Act 3, Scene 5_A room in Cymbeline's palace
+1
+knowledgewhich
+1
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+1
+knowledgewith
+1
+Twelfth Night Act 3, Scene 3_A street
+1
+knowm
+1
+Coriolanus Act 4, Scene 3_A highway between Rome and Antium
+1
+knowmi
+5
+Hamlet Act 3, Scene 2_A hall in the castle
+1
+Henry VIII Act 1, Scene 2_The same. The council-chamber
+1
+Julius Caesar Act 1, Scene 3_The same. A street
+1
+Romeo and Juliet Act 3, Scene 3_Friar Laurence's cell
+1
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+1
+knowmor
+2
+Cymbeline Act 5, Scene 1_Britain. The Roman camp
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+1
+known
+126
+A Midsummer Night's Dream Act 1, Scene 2_Athens. QUINCE'S house
+1
+A Midsummer Night's Dream Act 3, Scene 2_Another part of the wood
+1
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+1
+Antony and Cleopatra Act 1, Scene 4_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 2, Scene 6_Near Misenum
+1
+Antony and Cleopatra Act 3, Scene 6_Rome. OCTAVIUS CAESAR's house
+1
+Antony and Cleopatra Act 4, Scene 6_Alexandria. OCTAVIUS CAESAR's camp
+1
+Antony and Cleopatra Act 5, Scene 2_Alexandria. A room in the monument
+3
+Coriolanus Act 1, Scene 9_The Roman camp
+2
+Coriolanus Act 2, Scene 1_Rome. A public place
+2
+Coriolanus Act 3, Scene 1_Rome. A street
+1
+Coriolanus Act 5, Scene 6_Antium. A public place
+1
+Cymbeline Act 1, Scene 1_Britain. The garden of Cymbeline's palace
+1
+Cymbeline Act 1, Scene 4_Rome. Philario's house
+2
+Cymbeline Act 3, Scene 3_Wales a mountainous country with a cave
+1
+Cymbeline Act 3, Scene 5_A room in Cymbeline's palace
+1
+Cymbeline Act 4, Scene 4_Wales before the cave of Belarius
+2
+Cymbeline Act 5, Scene 5_Cymbeline's tent
+1
+Hamlet Act 1, Scene 1_Elsinore. A platform before the castle
+1
+Hamlet Act 1, Scene 5_Another part of the platform
+1
+Hamlet Act 2, Scene 1_A room in POLONIUS' house
+1
+Hamlet Act 4, Scene 5_Elsinore. A room in the castle
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+3
+Henry IV, part 1 Act 2, Scene 4_The Boar's-Head Tavern, Eastcheap
+3
+Henry IV, part 2 Act 1, Scene 3_York. The Archbishop's palace
+1
+Henry IV, part 2 Act 2, Scene 1_London. A street
+1
+Henry IV, part 2 Act 2, Scene 4_London. The Boar's-head Tavern in Eastcheap
+1
+Henry IV, part 2 Act 4, Scene 4_Westminster. The Jerusalem Chamber
+1
+Henry IV, part 2 Induction_Induction
+1
+Henry V Act 2, Scene 4_France. The KING'S palace
+1
+Henry V Act 4, Scene 8_Before KING HENRY'S pavilion
+1
+Henry VI, part 1 Act 1, Scene 2_France. Before Orleans
+1
+Henry VI, part 1 Act 4, Scene 5_The English camp near Bourdeaux
+1
+Henry VI, part 1 Act 5, Scene 4_Camp of the YORK in Anjou
+1
+Henry VI, part 2 Act 1, Scene 1_London. The palace
+1
+Henry VI, part 2 Act 1, Scene 3_The palace
+1
+Henry VI, part 2 Act 2, Scene 1_Saint Alban's
+1
+Henry VI, part 2 Act 3, Scene 1_The Abbey at Bury St. Edmund's
+1
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+1
+Henry VI, part 2 Act 4, Scene 7_London. Smithfield
+1
+Henry VI, part 3 Act 2, Scene 5_Another part of the field
+1
+Henry VI, part 3 Act 3, Scene 3_France. KING LEWIS XI's palace
+1
+Henry VIII Act 1, Scene 2_The same. The council-chamber
+1
+Henry VIII Act 2, Scene 3_An ante-chamber of the QUEEN'S apartments
+1
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+1
+Henry VIII Act 3, Scene 1_London. QUEEN KATHARINE's apartments
+1
+Henry VIII Act 4, Scene 1_A street in Westminster
+1
+Henry VIII Act 5, Scene 3_The Council-Chamber
+1
+Henry VIII Act 5, Scene 5_The palace
+2
+Julius Caesar Act 1, Scene 3_The same. A street
+1
+Julius Caesar Act 2, Scene 1_Rome. BRUTUS's orchard
+1
+Julius Caesar Act 3, Scene 1_Rome. Before the Capitol; the Senate sitting above
+1
+Julius Caesar Act 5, Scene 1_The plains of Philippi
+1
+King John Act 1, Scene 1_KING JOHN'S palace
+1
+King John Act 5, Scene 6_An open place in the neighbourhood of Swinstead Abbey
+1
+King Lear Act 1, Scene 1_King Lear's palace
+1
+King Lear Act 1, Scene 4_A hall in the same
+1
+King Lear Act 2, Scene 2_Before Gloucester's castle
+1
+King Lear Act 4, Scene 1_The heath
+1
+King Lear Act 4, Scene 3_The French camp near Dover
+1
+King Lear Act 4, Scene 4_The same. A tent
+1
+King Lear Act 4, Scene 6_Fields near Dover
+1
+King Lear Act 4, Scene 7_A tent in the French camp. LEAR on a bed asleep,
+1
+King Lear Act 5, Scene 3_The British camp near Dover
+1
+Love's Labours Lost Act 1, Scene 2_The same
+1
+Love's Labours Lost Act 5, Scene 2_The same
+1
+Macbeth Act 2, Scene 4_Outside Macbeth's castle
+1
+Macbeth Act 3, Scene 1_Forres. The palace
+1
+Macbeth Act 3, Scene 4_The same. Hall in the palace
+1
+Macbeth Act 4, Scene 2_Fife. Macduff's castle
+1
+Macbeth Act 5, Scene 1_Dunsinane. Ante-room in the castle
+3
+Measure for Measure Act 3, Scene 2_The street before the prison
+1
+Measure for Measure Act 4, Scene 1_The moated grange at ST. LUKE's
+1
+Measure for Measure Act 4, Scene 2_A room in the prison
+1
+Measure for Measure Act 4, Scene 3_Another room in the same
+1
+Measure for Measure Act 5, Scene 1_The city gate
+1
+Much Ado About Nothing Act 1, Scene 1_Before LEONATO'S house
+1
+Much Ado About Nothing Act 2, Scene 3_LEONATO'S orchard
+3
+Much Ado About Nothing Act 3, Scene 3_A street
+1
+Much Ado About Nothing Act 4, Scene 1_A church
+1
+Othello Act 1, Scene 1_Venice. A street
+1
+Othello Act 1, Scene 2_Another street
+1
+Othello Act 2, Scene 3_A hall in the castle
+1
+Othello Act 3, Scene 3_The garden of the castle
+2
+Othello Act 3, Scene 4_Before the castle
+1
+Othello Act 4, Scene 1_Cyprus. Before the castle
+1
+Othello Act 5, Scene 2_A bedchamber in the castle DESDEMONA in bed asleep;
+1
+Pericles, Prince of Tyre Act 1, Scene 1_Antioch. A room in the palace
+1
+Pericles, Prince of Tyre Act 1, Scene 2_Tyre. A room in the palace
+2
+Pericles, Prince of Tyre Act 2, Scene 5_Pentapolis. A room in the palace
+1
+Pericles, Prince of Tyre Act 3, Scene 2_Ephesus. A room in CERIMON's house
+1
+Pericles, Prince of Tyre Act 4, Scene 1_Tarsus. An open place near the sea-shore
+1
+Pericles, Prince of Tyre Act 4, Scene 6_The same. A room in the brothel
+1
+Pericles, Prince of Tyre Act 5, Scene 3_The temple of Diana at Ephesus; THAISA standing
+1
+Richard II Act 1, Scene 1_London. KING RICHARD II's palace
+1
+Richard II Act 2, Scene 2_The palace
+1
+Richard II Act 2, Scene 3_Wilds in Gloucestershire
+1
+Richard III Act 1, Scene 2_The same. Another street
+1
+Romeo and Juliet Act 1, Scene 1_Verona. A public place
+1
+Romeo and Juliet Act 1, Scene 5_A hall in Capulet's house
+1
+Romeo and Juliet Act 5, Scene 3_A churchyard; in it a tomb belonging to the Capulets
+2
+Taming of the Shrew Act 2, Scene 1_Padua. A room in BAPTISTA'S house
+2
+Taming of the Shrew Induction, Scene 1_Before an alehouse on a heath
+1
+The Merchant of Venice Act 2, Scene 2_Venice. A street
+1
+The Merchant of Venice Act 5, Scene 1_Belmont. Avenue to PORTIA'S house
+1
+The Tempest Act 1, Scene 2_The island. Before PROSPERO'S cell
+1
+The Tempest Act 2, Scene 1_Another part of the island
+1
+Timon of Athens Act 1, Scene 1_Athens. A hall in Timon's house
+1
+Timon of Athens Act 3, Scene 3_A room in Sempronius' house
+1
+Timon of Athens Act 3, Scene 5_The same. The senate-house. The Senate sitting
+1
+Timon of Athens Act 5, Scene 1_The woods. Before Timon's cave
+2
+Titus Andronicus Act 2, Scene 1_Rome. Before the Palace
+1
+Titus Andronicus Act 4, Scene 2_The same. A room in the palace
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+2
+Troilus and Cressida Act 2, Scene 2_Troy. A room in Priam's palace
+1
+Troilus and Cressida Act 2, Scene 3_The Grecian camp. Before Achilles' tent
+1
+Troilus and Cressida Act 3, Scene 3_The Grecian camp. Before Achilles' tent
+2
+Troilus and Cressida Act 4, Scene 5_The Grecian camp. Lists set out
+1
+Twelfth Night Act 1, Scene 5_OLIVIA'S house
+1
+Twelfth Night Act 5, Scene 1_Before OLIVIA's house
+1
+Two Gentlemen of Verona Act 1, Scene 3_The same. ANTONIO's house
+2
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+2
+Winter's Tale Act 3, Scene 3_Bohemia. A desert country near the sea
+1
+Winter's Tale Act 4, Scene 3_A road near the Shepherd's cottage
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+4
+Winter's Tale Act 5, Scene 2_Before LEONTES' palace
+1
+knownhow
+1
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+1
+knownit
+1
+King Lear Act 1, Scene 1_King Lear's palace
+1
+knownno
+1
+Macbeth Act 1, Scene 4_Forres. The palace
+1
+knownof
+1
+Cymbeline Act 4, Scene 4_Wales before the cave of Belarius
+1
+knownot
+6
+Hamlet Act 5, Scene 1_A churchyard
+1
+Henry IV, part 1 Act 2, Scene 2_The highway, near Gadshill
+1
+The Merchant of Venice Act 3, Scene 1_Venice. A street
+1
+Troilus and Cressida Act 3, Scene 3_The Grecian camp. Before Achilles' tent
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+1
+Winter's Tale Act 1, Scene 1_Antechamber in LEONTES' palace
+1
+knownth
+2
+Coriolanus Act 2, Scene 3_The same. The Forum
+1
+Henry VIII Act 1, Prologue_PROLOGUE
+1
+knownthat
+1
+King Lear Act 5, Scene 3_The British camp near Dover
+1
+knownthos
+1
+Macbeth Act 5, Scene 1_Dunsinane. Ante-room in the castle
+1
+knownto
+4
+Cymbeline Act 2, Scene 4_Rome. Philario's house
+1
+Hamlet Act 2, Scene 1_A room in POLONIUS' house
+1
+Othello Act 5, Scene 2_A bedchamber in the castle DESDEMONA in bed asleep;
+1
+The Merchant of Venice Act 3, Scene 2_Belmont. A room in PORTIA'S house
+1
+knownwel
+1
+Coriolanus Act 2, Scene 1_Rome. A public place
+1
+knownwhen
+1
+Much Ado About Nothing Act 2, Scene 3_LEONATO'S orchard
+1
+knownwheth
+1
+Coriolanus Act 1, Scene 2_Corioli. The Senate-house
+1
+knownwhich
+1
+Taming of the Shrew Act 4, Scene 5_A public road
+1
+knowof
+2
+Henry V Act 2, Scene 4_France. The KING'S palace
+1
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+1
+knowon
+2
+Taming of the Shrew Act 1, Scene 2_Padua. Before HORTENSIO'S house
+1
+The Tempest Act 3, Scene 1_Before PROSPERO'S Cell
+1
+knowprosper
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+knowsbi
+1
+Cymbeline Act 1, Scene 6_The same. Another room in the palace
+1
+knowsbut
+1
+The Merchant of Venice Act 2, Scene 6_The same
+1
+knowsh
+2
+Henry IV, part 2 Act 4, Scene 1_Yorkshire. Gaultree Forest
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+knowsi
+1
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+1
+knowsif
+1
+Antony and Cleopatra Act 1, Scene 1_Alexandria. A room in CLEOPATRA's palace
+1
+knowsmor
+1
+Othello Act 1, Scene 1_Venice. A street
+1
+knowsnot
+1
+A Midsummer Night's Dream Act 5, Scene 1_Athens. The palace of THESEUS
+1
+knowsometh
+1
+Cymbeline Act 1, Scene 6_The same. Another room in the palace
+1
+knowsth
+2
+Macbeth Act 4, Scene 2_Fife. Macduff's castle
+1
+Much Ado About Nothing Act 3, Scene 3_A street
+1
+knowsthat
+2
+Henry VI, part 1 Act 5, Scene 3_Before Angiers
+1
+Othello Act 5, Scene 2_A bedchamber in the castle DESDEMONA in bed asleep;
+1
+knowsthou
+1
+Cymbeline Act 3, Scene 3_Wales a mountainous country with a cave
+1
+knowsw
+1
+Antony and Cleopatra Act 3, Scene 11_Alexandria. CLEOPATRA's palace
+1
+knowswhat
+2
+Antony and Cleopatra Act 3, Scene 13_Alexandria. CLEOPATRA's palace
+1
+Winter's Tale Act 2, Scene 1_A room in LEONTES' palace
+1
+knowsyou
+1
+Othello Act 2, Scene 1_A Sea-port in Cyprus. An open place near the quay
+1
+knowth
+13
+A Midsummer Night's Dream Act 1, Scene 1_Athens. The palace of THESEUS
+1
+Antony and Cleopatra Act 1, Scene 3_The same. Another room
+1
+Coriolanus Act 1, Scene 9_The Roman camp
+1
+Coriolanus Act 3, Scene 1_Rome. A street
+1
+Hamlet Act 5, Scene 2_A hall in the castle
+1
+Henry IV, part 1 Act 4, Scene 3_The rebel camp near Shrewsbury
+1
+Henry VIII Act 2, Scene 3_An ante-chamber of the QUEEN'S apartments
+1
+Julius Caesar Act 5, Scene 1_The plains of Philippi
+1
+King John Act 3, Scene 1_The French King's pavilion
+1
+Measure for Measure Act 2, Scene 3_A room in a prison
+1
+Richard II Act 5, Scene 3_A royal palace
+1
+Titus Andronicus Act 5, Scene 3_Court of TITUS's house. A banquet set out
+1
+Winter's Tale Act 4, Scene 4_The Shepherd's cottage
+1
+knowthat
+8
+Coriolanus Act 5, Scene 6_Antium. A public place
+1
+Henry VIII Act 2, Scene 4_A hall in Black-Friars
+1
+Julius Caesar Act 1, Scene 2_A public place
+2
+Macbeth Act 3, Scene 1_Forres. The palace
+1
+Measure for Measure Act 2, Scene 2_Another room in the same
+1
+Measure for Measure Act 5, Scene 1_The city gate
+1
+Much Ado About Nothing Act 2, Scene 2_The same
+1
+Two Gentlemen of Verona Act 3, Scene 1_Milan. The DUKE's palace
+1
+knowtheir
+1
+Othello Act 4, Scene 3_Another room In the castle
+1
+knowther
+2
+Antony and Cleopatra Act 1, Scene 3_The same. Another room
+1
+Titus Andronicus Act 4, Scene 1_Rome. Titus's garden
+1
+knowthi
+1
+Titus Andronicus Act 2, Scene 1_Rome. Before the Palace
+1
+knowto
+1
+Henry VIII Act 1, Scene 1_London. An ante-chamber in the palace
+1
+knoww
+2
+Henry VI, part 2 Act 3, Scene 2_Bury St. Edmund's. A room of state
+1
+Macbeth Act 1, Scene 4_Forres. The palace
+1
+knowwhat
+8
+Coriolanus Act 1, Scene 1_Rome. A street
+1
+Cymbeline Act 1, Scene 5_Britain. A room in Cymbeline's palace
+1
+Henry VIII Act 2, Scene 3_An ante-chamber of the QUEEN'S apartments
+1
+King Lear Act 4, Scene 3_The French camp near Dover
+1
+Love's Labours Lost Act 5, Scene 2_The same
+1
+Macbeth Act 5, Scene 4_Country near Birnam wood
+1
+Measure for Measure Act 1, Scene 1_An apartment in the DUKE'S palace
+1
+Winter's Tale Act 3, Scene 2_A court of Justice
+1
+knowwhen
+1
+A Midsummer Night's Dream Act 2, Scene 1_A wood near Athens
+1
+knowwher
+2
+Hamlet Act 1, Scene 1_Elsinore. A platform before the castle
+1
+Othello Act 1, Scene 1_Venice. A street
+1
+knowwherefor
+3
+Antony and Cleopatra Act 2, Scene 6_Near Misenum
+1
+Henry VIII Act 5, Scene 1_London. A gallery in the palace
+1
+Julius Caesar Act 5, Scene 1_The plains of Philippi
+1
+knowwheth
+1
+Love's Labours Lost Act 5, Scene 2_The same
+1
+knowwhi
+1
+Hamlet Act 4, Scene 4_A plain in Denmark
+1
+knowyet
+1
+Twelfth Night Act 3, Scene 4_OLIVIA's garden
+1
+knowyou
+1
+Henry IV, part 1 Act 3, Scene 2_London. The palace
+1
+knowyourselv
+1
+Timon of Athens Act 2, Scene 2_The same. A hall in Timon's house
+1
