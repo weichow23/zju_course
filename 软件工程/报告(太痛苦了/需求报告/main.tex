@@ -1,0 +1,65 @@
+%!TeX program = xelatex
+\documentclass[12pt,hyperref,a4paper,UTF8]{ctexart}
+\usepackage{zjureport}
+\usepackage{graphicx} % 引入图形宏包
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{shapes, arrows.meta}
+
+\usepackage{soul, color, xcolor}
+\usepackage{geometry}
+\usepackage{longtable}
+\geometry{a4paper,left=2cm,right=2cm,top=2cm,bottom=2cm}
+%%-------------------------------正文开始---------------------------%%
+\begin{document}
+
+%%-----------------------封面--------------------%%
+\cover
+
+%%------------------摘要-------------%%
+%\begin{abstract}
+%
+%在此填写摘要内容
+%
+%\end{abstract}
+
+\thispagestyle{empty} % 首页不显示页码
+
+%%--------------------------目录页------------------------%%
+\newpage
+\tableofcontents
+
+%%------------------------正文页从这里开始-------------------%
+\newpage
+
+%%可选择这里也放一个标题
+%\begin{center}
+%    \title{ \Huge \textbf{{标题}}}
+%\end{center}
+
+\section{引言}
+\input{01}
+\section{任务概述}
+\input{02}
+\section{需求规定}
+\input{03}
+\section{用户场景以及状态图}
+\input{04}
+\section{非功能性需求}
+\input{05}
+\section{总结}
+\input{06}
+\section{附录}
+\begin{figure}[htbp]
+	\label{app01}
+	\centering
+	\rotatebox{90}{\includegraphics[width=0.9\textheight]{figures/01.pdf}}
+	\caption{顶层数据流图}
+\end{figure}
+%%----------- 参考文献 -------------------%%
+%在reference.bib文件中填写参考文献，此处自动生成
+
+\reference
+
+
+\end{document}

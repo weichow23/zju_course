@@ -1,0 +1,62 @@
+%!TeX program = xelatex
+\documentclass[12pt,hyperref,a4paper,UTF8]{ctexart}
+\usepackage{zjureport}
+\usepackage{graphicx} % 引入图形宏包
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{shapes, arrows.meta}
+
+\usepackage{soul, color, xcolor}
+\usepackage{geometry}
+\usepackage{longtable}
+\usepackage{listings}
+\geometry{a4paper,left=2cm,right=2cm,top=2cm,bottom=2cm}
+
+
+%%-------------------------------正文开始---------------------------%%
+\begin{document}
+
+%%-----------------------封面--------------------%%
+\cover
+
+%%------------------摘要-------------%%
+%\begin{abstract}
+%
+%在此填写摘要内容
+%
+%\end{abstract}
+
+\thispagestyle{empty} % 首页不显示页码
+
+%%--------------------------目录页------------------------%%
+\newpage
+\tableofcontents
+
+%%------------------------正文页从这里开始-------------------%
+\newpage
+
+%%可选择这里也放一个标题
+%\begin{center}
+%    \title{ \Huge \textbf{{标题}}}
+%\end{center}
+
+\section{引言}
+\input{01}
+\section{文献调研}
+\input{02}
+\section{系统体系分析}
+\input{03}
+%\section{用户场景以及状态图}
+%\input{04}
+%\section{非功能性需求}
+%\input{05}
+\section{总结}
+\input{06}
+%\section{附录}
+	%\rotatebox{90}{\includegraphics[width=0.9\textheight]{figures/01.pdf}}
+%%----------- 参考文献 -------------------%%
+\newpage
+% \reference
+\bibliography{reference}
+\bibliographystyle{plain}
+\end{document}

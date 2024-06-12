@@ -1,0 +1,180 @@
+\section{功能验证测试}
+\subsection{登录注册模块}
+\textbf{描述：}负责用户登录和注册的功能实现。
+\begin{table}[h]
+	\centering
+	\begin{tabularx}{\textwidth}{|X|X|X|X|}
+		\hline
+		\textbf{功能名称} & \textbf{操作} & \textbf{预期输出} & \textbf{实际输出} \\
+		\hline
+		用户登录 & 输入正确的用户名和密码 & 直接跳转到总主界面 & 与预期输出相符 \\
+		管理员登录 & 输入正确的管理员用户名和密码 & 跳转到管理员页面 & 与预期输出相符 \\
+		登录失败 & 输入错误的用户名或密码或用户类型 & 在登录框下方显示登录失败的提示信息 & 与预期输出相符 \\
+		用户注册 & 注册一个原来不存在的号码 & 在注册框下方显示注册成功的提示信息 & 与预期输出相符 \\
+		用户注册失败 & 注册一个已有的号码 & 在注册框下方显示注册失败的提示信息 & 与预期输出相符 \\
+		\hline
+	\end{tabularx}
+	\caption{登录注册模块功能测试}
+\end{table}
+\subsection{医生预约与时段选择}
+\textbf{描述：}允许用户根据医生的可预约时段进行预约。
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		\textbf{功能名称} & \textbf{操作} & \textbf{预期输出} & \textbf{实际输出} \\
+		\hline
+		查看医生列表 & 访问预约页面 & 展示所有可预约医生列表 & 与预期输出相符 \\
+		选择预约时段 & 选择特定医生并查看其时段 & 展示所选医生的可预约时段 & 与预期输出相符 \\
+		确认预约 & 选择时段并提交预约信息 & 接收预约确认信息 & 与预期输出相符 \\
+		取消预约 & 在规定时间内取消预约 & 接收预约取消确认 & 与预期输出相符 \\
+		\hline
+	\end{tabular}
+	\caption{医生预约与时段选择功能测试}
+\end{table}
+\subsection{科室与医生信息介绍}
+\textbf{描述：}提供科室和医生团队的详细信息。
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		\textbf{功能名称} & \textbf{操作} & \textbf{预期输出} & \textbf{实际输出} \\
+		\hline
+		查看科室信息 & 访问科室信息页面 & 展示各科室专业领域和团队介绍 & 与预期输出相符 \\
+		查看医生信息 & 选择特定科室查看医生 & 展示医生的专业领域和工作经验 & 与预期输出相符 \\
+		\hline
+	\end{tabular}
+	\caption{科室与医生信息介绍功能测试}
+\end{table}
+\subsection{个人医疗信息管理}
+\textbf{描述：}允许用户查看和管理自己的医疗信息。
+
+\begin{table}[h]
+	\centering
+	\resizebox{\textwidth}{!}{%
+		\begin{tabular}{|l|l|l|l|}
+			\hline
+			\textbf{功能名称} & \textbf{操作} & \textbf{预期输出} & \textbf{实际输出} \\
+			\hline
+			查看个人医疗信息 & 登录并访问个人信息页面 & 展示用户的医疗历史和药物过敏信息 & 与预期输出相符 \\
+			更新个人医疗信息 & 提交更新信息请求 & 信息更新并提示审核中 & 与预期输出相符 \\
+			授权访问 & 设置授权访问特定医疗信息 & 授权用户可访问指定信息 & 与预期输出相符 \\
+			\hline
+		\end{tabular}%
+	}
+	\caption{个人医疗信息管理功能测试}
+\end{table}
+
+
+\subsection{处方与病历综合查询}
+\textbf{描述：}支持用户查询和打印处方与病历信息。
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		\textbf{功能名称} & \textbf{操作} & \textbf{预期输出} & \textbf{实际输出} \\
+		\hline
+		查询处方与病历 & 输入相关信息进行查询 & 展示查询到的处方和病历信息 & 与预期输出相符 \\
+		打印记录 & 选择打印功能 & 打印出查询到的处方和病历信息 & 与预期输出相符 \\
+		\hline
+	\end{tabular}
+	\caption{处方与病历综合查询功能测试}
+\end{table}
+
+\subsection{医疗费用账单管理}
+\textbf{描述：}允许用户提交和查看自己的医疗费用账单。
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		\textbf{功能名称} & \textbf{操作} & \textbf{预期输出} & \textbf{实际输出} \\
+		\hline
+		提交医疗费用账单 & 上传医疗费用凭证 & 系统显示提交成功并等待审核 & 与预期输出相符 \\
+		查看费用账单 & 访问费用账单页面 & 展示已提交的费用账单和明细 & 与预期输出相符 \\
+		费用账单异议 & 提出对账单中费用项的异议 & 系统记录异议并提示等待处理 & 与预期输出相符 \\
+		\hline
+	\end{tabular}
+	\caption{医疗费用账单管理功能测试}
+\end{table}
+
+\subsection{电子问诊单与后续跟进}
+\textbf{描述：}提供电子问诊单的生成和后续治疗的安排。
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		\textbf{功能名称} & \textbf{操作} & \textbf{预期输出} & \textbf{实际输出} \\
+		\hline
+		生成电子问诊单 & 完成问诊后系统自动生成 & 展示电子问诊单内容 & 与预期输出相符 \\
+		查看问诊单 & 访问问诊单页面 & 展示电子问诊单详情 & 与预期输出相符 \\
+		安排后续治疗 & 根据问诊单建议安排 & 系统记录治疗安排并提示确认 & 与预期输出相符 \\
+		\hline
+	\end{tabular}
+	\caption{电子问诊单与后续跟进功能测试}
+\end{table}
+
+\subsection{医疗服务评价模块}
+\textbf{描述：}允许用户评价医疗服务并查看评价反馈。
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		\textbf{功能名称} & \textbf{操作} & \textbf{预期输出} & \textbf{实际输出} \\
+		\hline
+		提交服务评价 & 填写并提交评价内容 & 系统记录评价并展示提交成功 & 与预期输出相符 \\
+		查看评价反馈 & 访问评价页面 & 展示用户的评价和机构反馈 & 与预期输出相符 \\
+		\hline
+	\end{tabular}
+	\caption{医疗服务评价模块功能测试}
+\end{table}
+
+\section{压力测试}
+\subsection{测试目的}
+压力测试旨在评估医疗管理系统在高负载情况下的性能表现。测试将模拟大量用户同时访问系统，以确定系统的最大承载能力，并确保在高并发条件下系统的稳定性和响应性。
+
+\subsection{测试环境}
+压力测试在以下环境配置下执行：
+\begin{itemize}
+	\item CPU配置：Intel(R) Xeon(R) Gold 6230R 1T 104核
+	\item 网络带宽：120 Mbps
+	\item 客户端：1台Linux服务器
+\end{itemize}
+
+\subsection{测试策略}
+\begin{enumerate}
+	\item 逐步增加并发用户数，直至达到系统瓶颈。
+	\item 监测系统响应时间、事务处理速率和服务器资源使用情况。
+	\item 对关键功能如用户登录、医生预约、账单支付等进行重点测试。
+\end{enumerate}
+
+\subsection{测试结果}
+测试结果显示系统在不同并发用户数下的表现。下表展示了部分测试结果：
+
+\begin{table}[h]
+	\centering
+	\resizebox{\textwidth}{!}{%
+		\begin{tabular}{|l|l|l|l|l|}
+			\hline
+			\textbf{并发用户数} & \textbf{平均响应时间 (秒)} & \textbf{事务处理速率 (次/秒)} & \textbf{CPU使用率 (\%)} & \textbf{内存使用率 (\%)} \\
+			\hline
+			100 & 1.2 & 75 & 45 & 35 \\
+			500 & 2.5 & 60 & 75 & 60 \\
+			1000 & 5.0 & 45 & 90 & 80 \\
+			\hline
+		\end{tabular}%
+	}
+	\caption{压力测试结果}
+\end{table}
+
+\subsection{测试结论}
+根据压力测试结果，系统在低至中等并发用户数下表现良好，响应时间和事务处理速率均在可接受范围内。然而，在高并发情况下，系统响应时间有所延长，资源使用率显著上升，这表明系统需要在资源优化和负载均衡方面进行改进。我们计划对系统架构进行调整，以提高其在高负载环境下的性能和稳定性。
+\section{分析摘要}
+
+\subsection{能力}
+经过面向对象测试、功能测试、边界测试、压力测试和用户接口测试的系列评估，医疗管理系统的核心功能已经得到成功实施，并且能够妥善处理各种边界条件。系统展现出了良好的稳定性和健壮性，基本满足了用户的需求。测试结果表明，系统在预定功能上实现了预期目标，能够为用户提供可靠和连续的服务。
+
+\subsection{限制}
+尽管医疗管理系统在多数方面表现良好，但在处理高并发请求时仍存在局限。此外，系统在功能拓展方面还有进步空间。例如，在商家信息更新与用户购买操作同时进行时，系统可能无法完全避免潜在的数据不一致问题。同时，系统在某些关键功能点的说明和指导上还不够充分。针对这些限制，我们计划在未来的版本中进行优化和完善，以提高系统的整体性能和用户体验。

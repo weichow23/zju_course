@@ -1,0 +1,126 @@
+\contentsline {section}{\numberline {1}引言}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}编写目的}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}相关背景}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}项目描述}{6}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}项目提出及意义}{6}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}病人功能需求}{6}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}项目研究现状}{7}{subsubsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.4}国外研究现状}{8}{subsubsection.1.3.4}%
+\contentsline {section}{\numberline {2}任务概述}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}系统概述}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}系统组成}{8}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}运行环境}{8}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}核心功能}{9}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}用户类型与特征}{9}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}系统假设}{10}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}系统设计与实现的约束条件}{10}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}用户文档}{10}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}术语表}{12}{subsection.2.7}%
+\contentsline {section}{\numberline {3}需求规定}{14}{section.3}%
+\contentsline {subsection}{\numberline {3.1}功能需求}{14}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}预约管理模块}{14}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}问诊管理模块}{14}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}账单管理模块}{15}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}评价系统模块}{15}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}管理员模块}{16}{subsubsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.2}用户需求}{16}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}综合性能要求}{18}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}界面设计}{18}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}反应速度}{18}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}访问容量}{19}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}服务器配置最低要求}{19}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}可用性}{20}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.6}数据处理能力}{20}{subsubsection.3.3.6}%
+\contentsline {subsubsection}{\numberline {3.3.7}安全性}{20}{subsubsection.3.3.7}%
+\contentsline {subsubsection}{\numberline {3.3.8}系统稳定性}{21}{subsubsection.3.3.8}%
+\contentsline {subsubsection}{\numberline {3.3.9}扩展性}{21}{subsubsection.3.3.9}%
+\contentsline {subsubsection}{\numberline {3.3.10}维护性}{21}{subsubsection.3.3.10}%
+\contentsline {subsubsection}{\numberline {3.3.11}接口要求}{21}{subsubsection.3.3.11}%
+\contentsline {subsubsection}{\numberline {3.3.12}系统质量要求}{22}{subsubsection.3.3.12}%
+\contentsline {subsubsection}{\numberline {3.3.13}质量控制要求}{22}{subsubsection.3.3.13}%
+\contentsline {subsubsection}{\numberline {3.3.14}设备验收要求}{22}{subsubsection.3.3.14}%
+\contentsline {section}{\numberline {4}用户场景以及状态图}{23}{section.4}%
+\contentsline {subsection}{\numberline {4.1}用例}{23}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}用户注册与登录机制}{23}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}个人医疗信息管理}{25}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}人工智能病情咨询服务}{27}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}科室与专业领域介绍}{29}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}医生预约时段选择}{31}{subsubsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.6}医生选择与预约确认}{33}{subsubsection.4.1.6}%
+\contentsline {subsubsection}{\numberline {4.1.7}医生选择与预约确认}{33}{subsubsection.4.1.7}%
+\contentsline {subsubsection}{\numberline {4.1.8}医疗费用账单管理}{35}{subsubsection.4.1.8}%
+\contentsline {subsubsection}{\numberline {4.1.9}缴费与退费流程}{37}{subsubsection.4.1.9}%
+\contentsline {subsubsection}{\numberline {4.1.10}电子处方查询}{39}{subsubsection.4.1.10}%
+\contentsline {subsubsection}{\numberline {4.1.11}电子病历搜索与访问}{41}{subsubsection.4.1.11}%
+\contentsline {subsubsection}{\numberline {4.1.12}预约挂号与问诊服务}{43}{subsubsection.4.1.12}%
+\contentsline {subsubsection}{\numberline {4.1.13}时段灵活性与个性化预约}{45}{subsubsection.4.1.13}%
+\contentsline {subsubsection}{\numberline {4.1.14}电子问诊单与后续跟进}{47}{subsubsection.4.1.14}%
+\contentsline {subsubsection}{\numberline {4.1.15}医疗服务评价体系参与}{49}{subsubsection.4.1.15}%
+\contentsline {subsubsection}{\numberline {4.1.16}处方与病历的综合查询}{51}{subsubsection.4.1.16}%
+\contentsline {subsection}{\numberline {4.2}状态图}{53}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}IPO表}{54}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}类图}{55}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}用户类图}{55}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}预约与问诊服务类图}{55}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}医疗服务评价体系类图}{56}{subsubsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.5}CRC卡}{56}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}类：普通用户（Ordinary Users）}{56}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}类：用户登录（User Login）}{58}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}类：举措信息（Measure Information）}{58}{subsubsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.4}类：论坛（Forum）}{58}{subsubsection.4.5.4}%
+\contentsline {subsubsection}{\numberline {4.5.5}类：医院信息（Hospital Information）}{58}{subsubsection.4.5.5}%
+\contentsline {subsubsection}{\numberline {4.5.6}类：预约系统（Appointment System）}{59}{subsubsection.4.5.6}%
+\contentsline {subsubsection}{\numberline {4.5.7}类：视频会诊（Video Consultation）}{59}{subsubsection.4.5.7}%
+\contentsline {subsubsection}{\numberline {4.5.8}类：AI医生（AI Doctor)}{59}{subsubsection.4.5.8}%
+\contentsline {subsubsection}{\numberline {4.5.9}类：视频会诊（Video Consultation)}{60}{subsubsection.4.5.9}%
+\contentsline {subsubsection}{\numberline {4.5.10}类：管理员（Admin)}{60}{subsubsection.4.5.10}%
+\contentsline {subsubsection}{\numberline {4.5.11}类：医生（Doctor)}{61}{subsubsection.4.5.11}%
+\contentsline {subsubsection}{\numberline {4.5.12}类：账单管理（Billing Management）}{61}{subsubsection.4.5.12}%
+\contentsline {subsubsection}{\numberline {4.5.13}类：处方管理（Prescription Management）}{62}{subsubsection.4.5.13}%
+\contentsline {subsubsection}{\numberline {4.5.14}类：健康档案管理（Health Record Management）}{62}{subsubsection.4.5.14}%
+\contentsline {subsubsection}{\numberline {4.5.15}类：报告和分析（Reporting \& Analytics）}{62}{subsubsection.4.5.15}%
+\contentsline {subsubsection}{\numberline {4.5.16}类：保险处理（Insurance Processing）}{63}{subsubsection.4.5.16}%
+\contentsline {subsubsection}{\numberline {4.5.17}类：预约提醒（Appointment Reminders）}{63}{subsubsection.4.5.17}%
+\contentsline {subsubsection}{\numberline {4.5.18}类：在线支付（Online Payment）}{64}{subsubsection.4.5.18}%
+\contentsline {subsubsection}{\numberline {4.5.19}类：用户反馈（User Feedback）}{64}{subsubsection.4.5.19}%
+\contentsline {subsection}{\numberline {4.6}数据词典}{64}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}数据流定义表}{64}{subsubsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.2}数据元素定义表}{66}{subsubsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.3}外部项定义表}{67}{subsubsection.4.6.3}%
+\contentsline {subsubsection}{\numberline {4.6.4}数据精度表}{68}{subsubsection.4.6.4}%
+\contentsline {subsection}{\numberline {4.7}数据流图}{69}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}指令数据流图}{69}{subsubsection.4.7.1}%
+\contentsline {subsubsection}{\numberline {4.7.2}顶层数据流图}{69}{subsubsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.3}中层数据流图}{70}{subsubsection.4.7.3}%
+\contentsline {subsubsection}{\numberline {4.7.4}病人医生交互}{72}{subsubsection.4.7.4}%
+\contentsline {section}{\numberline {5}非功能性需求}{73}{section.5}%
+\contentsline {subsection}{\numberline {5.1}服务端硬件配置需求}{73}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}性能需求}{73}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}输入要求}{73}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}数据管理需求}{73}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}系统独立性和完整性}{73}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}数据备份与恢复}{73}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}安全性保障}{73}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}具体细则}{74}{subsubsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.3}权限与安全需求}{74}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}软件质量属性}{74}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}鲁棒性}{74}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}可用性}{75}{subsubsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.5}可视化需求}{75}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}防护性需求}{75}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}可维护性}{75}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}网络要求}{75}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}服务端软件依赖要求}{76}{subsection.5.9}%
+\contentsline {subsubsection}{\numberline {5.9.1}后端}{76}{subsubsection.5.9.1}%
+\contentsline {subsubsection}{\numberline {5.9.2}数据库}{76}{subsubsection.5.9.2}%
+\contentsline {subsubsection}{\numberline {5.9.3}其他依赖}{76}{subsubsection.5.9.3}%
+\contentsline {subsection}{\numberline {5.10}客户端软硬件配置要求}{77}{subsection.5.10}%
+\contentsline {subsubsection}{\numberline {5.10.1}客户端}{77}{subsubsection.5.10.1}%
+\contentsline {subsubsection}{\numberline {5.10.2}硬件}{77}{subsubsection.5.10.2}%
+\contentsline {subsection}{\numberline {5.11}变更控制规范}{77}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.12}故障处理}{77}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}故障确认}{78}{subsection.5.13}%
+\contentsline {subsection}{\numberline {5.14}故障自动恢复}{78}{subsection.5.14}%
+\contentsline {subsection}{\numberline {5.15}故障连锁诊断}{78}{subsection.5.15}%
+\contentsline {section}{\numberline {6}总结}{78}{section.6}%
+\contentsline {section}{\numberline {7}附录}{80}{section.7}%

@@ -1,0 +1,50 @@
+\begin{thebibliography}{1}
+
+\bibitem{burattin2022monitoring}
+Andrea Burattin, Hugo~A L{\'o}pez, and Lasse Starklit.
+\newblock A monitoring and discovery approach for declarative processes based
+  on streams.
+\newblock {\em arXiv preprint arXiv:2208.05364}, 2022.
+
+\bibitem{eshghie2023capturing}
+Mojtaba Eshghie, Wolfgang Ahrendt, Cyrille Artho, Thomas~Troels Hildebrandt,
+  and Gerardo Schneider.
+\newblock Capturing smart contract design with dcr graphs.
+\newblock In {\em International Conference on Software Engineering and Formal
+  Methods}, pages 106--125. Springer, 2023.
+
+\bibitem{gamma1995design}
+Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
+\newblock {\em Design patterns: elements of reusable object-oriented software}.
+\newblock Pearson Deutschland GmbH, 1995.
+
+\bibitem{gamma2019设计模式}
+Erich Gamma, Richard Helm, Ralph~E Johnson, and John Vlissides.
+\newblock {\em 设计模式: 可复用面向对象软件的基础}.
+\newblock Ji xie gong ye chu ban she, 2019.
+
+\bibitem{heiland2023design}
+Lukas Heiland, Marius Hauser, and Justus Bogner.
+\newblock Design patterns for ai-based systems: A multivocal literature review
+  and pattern repository.
+\newblock In {\em 2023 IEEE/ACM 2nd International Conference on AI
+  Engineering--Software Engineering for AI (CAIN)}, pages 184--196. IEEE, 2023.
+
+\bibitem{design_patterns}
+Wei Liu, Li~Xia, Junyang Yu, and Xindi Huang.
+\newblock {\em Design Patterns}.
+\newblock Tsinghua University Press, 2nd edition edition, 12 2018.
+
+\bibitem{paltoglou2021automated}
+Katerina Paltoglou, Vassilis~E Zafeiris, NA~Diamantidis, and Emmanouel~A
+  Giakoumakis.
+\newblock Automated refactoring of legacy javascript code to es6 modules.
+\newblock {\em Journal of Systems and Software}, 181:111049, 2021.
+
+\bibitem{java_design_patterns}
+Kamalmeet Singh.
+\newblock {\em Java Design Patterns and Practices}.
+\newblock DianDu Education Bookstore, 07 2019.
+\newblock PDF available for download on Baidu Netdisk.
+
+\end{thebibliography}

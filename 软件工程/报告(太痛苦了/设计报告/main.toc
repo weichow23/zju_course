@@ -1,0 +1,73 @@
+\contentsline {section}{\numberline {1}引言}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}编写目的}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}项目描述}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}功能需求}{6}{subsection.1.3}%
+\contentsline {section}{\numberline {2}系统假设}{7}{section.2}%
+\contentsline {section}{\numberline {3}系统体系分析}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}以数据为中心的体系结构}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}数据流体系结构}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}调用和返回体系结构}{12}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}面向对象体系结构}{13}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}客户端-服务器架构}{14}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}浏览器-服务器架构}{15}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}微服务架构}{17}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}事件驱动架构}{18}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}本次设计采用的体系结构风格}{19}{subsection.3.9}%
+\contentsline {section}{\numberline {4}数据端与服务接口}{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}服务端UI设计}{20}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}服务功能设计}{21}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}用户注册与登录机制}{21}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}个人医疗信息管理}{23}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}人工智能病情咨询服务}{25}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}科室与专业领域介绍}{27}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}医生预约时段选择}{29}{subsubsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.6}医生选择与预约确认}{31}{subsubsection.4.2.6}%
+\contentsline {subsubsection}{\numberline {4.2.7}医生选择与预约确认}{31}{subsubsection.4.2.7}%
+\contentsline {subsubsection}{\numberline {4.2.8}医疗费用账单管理}{33}{subsubsection.4.2.8}%
+\contentsline {subsubsection}{\numberline {4.2.9}缴费与退费流程}{35}{subsubsection.4.2.9}%
+\contentsline {subsubsection}{\numberline {4.2.10}电子处方查询}{37}{subsubsection.4.2.10}%
+\contentsline {subsubsection}{\numberline {4.2.11}电子病历搜索与访问}{39}{subsubsection.4.2.11}%
+\contentsline {subsubsection}{\numberline {4.2.12}预约挂号与问诊服务}{41}{subsubsection.4.2.12}%
+\contentsline {subsubsection}{\numberline {4.2.13}时段灵活性与个性化预约}{43}{subsubsection.4.2.13}%
+\contentsline {subsubsection}{\numberline {4.2.14}电子问诊单与后续跟进}{45}{subsubsection.4.2.14}%
+\contentsline {subsubsection}{\numberline {4.2.15}医疗服务评价体系参与}{47}{subsubsection.4.2.15}%
+\contentsline {subsubsection}{\numberline {4.2.16}处方与病历的综合查询}{49}{subsubsection.4.2.16}%
+\contentsline {subsection}{\numberline {4.3}状态图}{51}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}类图}{52}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}用户类图}{52}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}预约与问诊服务类图}{52}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}医疗服务评价体系类图}{53}{subsubsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.4}类：普通用户（Ordinary Users）}{53}{subsubsection.4.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.5}类：用户登录（User Login）}{54}{subsubsection.4.4.5}%
+\contentsline {subsubsection}{\numberline {4.4.6}类：举措信息（Measure Information）}{54}{subsubsection.4.4.6}%
+\contentsline {subsubsection}{\numberline {4.4.7}类：论坛（Forum）}{54}{subsubsection.4.4.7}%
+\contentsline {subsubsection}{\numberline {4.4.8}类：医院信息（Hospital Information）}{55}{subsubsection.4.4.8}%
+\contentsline {subsubsection}{\numberline {4.4.9}类：预约系统（Appointment System）}{55}{subsubsection.4.4.9}%
+\contentsline {subsubsection}{\numberline {4.4.10}类：视频会诊（Video Consultation）}{55}{subsubsection.4.4.10}%
+\contentsline {subsubsection}{\numberline {4.4.11}类：AI医生（AI Doctor)}{56}{subsubsection.4.4.11}%
+\contentsline {subsubsection}{\numberline {4.4.12}类：视频会诊（Video Consultation)}{56}{subsubsection.4.4.12}%
+\contentsline {subsubsection}{\numberline {4.4.13}类：管理员（Admin)}{57}{subsubsection.4.4.13}%
+\contentsline {subsubsection}{\numberline {4.4.14}类：医生（Doctor)}{57}{subsubsection.4.4.14}%
+\contentsline {subsubsection}{\numberline {4.4.15}类：账单管理（Billing Management）}{58}{subsubsection.4.4.15}%
+\contentsline {subsubsection}{\numberline {4.4.16}类：处方管理（Prescription Management）}{58}{subsubsection.4.4.16}%
+\contentsline {subsubsection}{\numberline {4.4.17}类：健康档案管理（Health Record Management）}{58}{subsubsection.4.4.17}%
+\contentsline {subsubsection}{\numberline {4.4.18}类：报告和分析（Reporting \& Analytics）}{59}{subsubsection.4.4.18}%
+\contentsline {subsubsection}{\numberline {4.4.19}类：保险处理（Insurance Processing）}{59}{subsubsection.4.4.19}%
+\contentsline {subsubsection}{\numberline {4.4.20}类：预约提醒（Appointment Reminders）}{60}{subsubsection.4.4.20}%
+\contentsline {subsubsection}{\numberline {4.4.21}类：在线支付（Online Payment）}{60}{subsubsection.4.4.21}%
+\contentsline {subsubsection}{\numberline {4.4.22}类：用户反馈（User Feedback）}{60}{subsubsection.4.4.22}%
+\contentsline {subsection}{\numberline {4.5}数据词典}{61}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}数据流定义表}{61}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}数据元素定义表}{62}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}外部项定义表}{63}{subsubsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.4}数据精度表}{64}{subsubsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.6}数据流图}{65}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}指令数据流图}{65}{subsubsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.2}顶层数据流图}{65}{subsubsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.3}中层数据流图}{66}{subsubsection.4.6.3}%
+\contentsline {subsubsection}{\numberline {4.6.4}病人医生交互}{66}{subsubsection.4.6.4}%
+\contentsline {section}{\numberline {5}服务端}{68}{section.5}%
+\contentsline {subsection}{\numberline {5.1}服务端硬件配置需求}{68}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}服务器架构}{68}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Controller层}{68}{subsubsection.5.2.1}%
+\contentsline {section}{\numberline {6}总结}{71}{section.6}%
